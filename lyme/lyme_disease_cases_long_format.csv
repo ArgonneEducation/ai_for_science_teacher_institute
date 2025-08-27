@@ -1,0 +1,817 @@
+Year,State,Cases
+2008,Alabama,9
+2008,Alaska,6
+2008,Arizona,8
+2008,Arkansas,0
+2008,California,74
+2008,Colorado,3
+2008,Connecticut†,"3,896"
+2008,Delaware†,772
+2008,District of Columbia†,74
+2008,Florida,88
+2008,Georgia,35
+2008,Idaho,9
+2008,Illinois,108
+2008,Indiana,42
+2008,Iowa,109
+2008,Kansas,16
+2008,Kentucky,5
+2008,Louisiana,3
+2008,Maine†,908
+2008,Maryland†,"2,218"
+2008,Massachusetts†,"4,582"
+2008,Michigan,92
+2008,Minnesota†,"1,282"
+2008,Mississippi,1
+2008,Missouri,6
+2008,Montana,17
+2008,Nebraska,12
+2008,Nevada,12
+2008,New Hampshire†,"1,601"
+2008,New Jersey†,"3,485"
+2008,New Mexico,8
+2008,New York†,"7,794"
+2008,North Carolina,47
+2008,North Dakota,10
+2008,Ohio,45
+2008,Oklahoma,2
+2008,Oregon,38
+2008,Pennsylvania†,"3,818"
+2008,Rhode Island†,210
+2008,South Carolina,29
+2008,South Dakota,3
+2008,Tennessee,31
+2008,Texas,153
+2008,U.S. Total,"35,198"
+2008,Utah,5
+2008,Vermont†,404
+2008,Virginia†,933
+2008,Washington,23
+2008,West Virginia†,135
+2008,Wisconsin†,"2,034"
+2008,Wyoming,3
+2009,Alabama,3
+2009,Alaska,7
+2009,Arizona,7
+2009,Arkansas,0
+2009,California,117
+2009,Colorado,1
+2009,Connecticut†,"4,156"
+2009,Delaware†,984
+2009,District of Columbia†,61
+2009,Florida,110
+2009,Georgia,40
+2009,Idaho,16
+2009,Illinois,136
+2009,Indiana,83
+2009,Iowa,108
+2009,Kansas,18
+2009,Kentucky,1
+2009,Louisiana,0
+2009,Maine†,970
+2009,Maryland†,"2,024"
+2009,Massachusetts†,"5,256"
+2009,Michigan,103
+2009,Minnesota†,"1,543"
+2009,Mississippi,0
+2009,Missouri,3
+2009,Montana,3
+2009,Nebraska,5
+2009,Nevada,13
+2009,New Hampshire†,"1,415"
+2009,New Jersey†,"4,973"
+2009,New Mexico,5
+2009,New York†,"5,651"
+2009,North Carolina,96
+2009,North Dakota,15
+2009,Ohio,58
+2009,Oklahoma,2
+2009,Oregon,38
+2009,Pennsylvania†,"5,722"
+2009,Rhode Island†,235
+2009,South Carolina,42
+2009,South Dakota,1
+2009,Tennessee,37
+2009,Texas,276
+2009,U.S. Total,"38,468"
+2009,Utah,9
+2009,Vermont†,408
+2009,Virginia†,908
+2009,Washington,16
+2009,West Virginia†,201
+2009,Wisconsin†,"2,589"
+2009,Wyoming,3
+2010,Alabama,2
+2010,Alaska,7
+2010,Arizona,2
+2010,Arkansas,0
+2010,California,129
+2010,Colorado,3
+2010,Connecticut†,"3,068"
+2010,Delaware†,656
+2010,District of Columbia†,42
+2010,Florida,84
+2010,Georgia,10
+2010,Idaho,9
+2010,Illinois,135
+2010,Indiana,78
+2010,Iowa,85
+2010,Kansas,10
+2010,Kentucky,5
+2010,Louisiana,3
+2010,Maine†,751
+2010,Maryland†,"1,617"
+2010,Massachusetts†,"3,263"
+2010,Michigan,95
+2010,Minnesota†,"1,960"
+2010,Mississippi,0
+2010,Missouri,4
+2010,Montana,4
+2010,Nebraska,8
+2010,Nevada,2
+2010,New Hampshire†,"1,339"
+2010,New Jersey†,"3,712"
+2010,New Mexico,5
+2010,New York†,"3,425"
+2010,North Carolina,82
+2010,North Dakota,33
+2010,Ohio,44
+2010,Oklahoma,0
+2010,Oregon,39
+2010,Pennsylvania†,"3,805"
+2010,Rhode Island†,181
+2010,South Carolina,29
+2010,South Dakota,1
+2010,Tennessee,36
+2010,Texas,142
+2010,U.S. Total,"30,158"
+2010,Utah,3
+2010,Vermont†,356
+2010,Virginia†,"1,245"
+2010,Washington,16
+2010,West Virginia†,145
+2010,Wisconsin†,"3,488"
+2010,Wyoming,0
+2011,Alabama,24
+2011,Alaska,11
+2011,Arizona,15
+2011,Arkansas,0
+2011,California,92
+2011,Colorado,0
+2011,Connecticut†,"3,039"
+2011,Delaware†,873
+2011,District of Columbia†,0
+2011,Florida,115
+2011,Georgia,32
+2011,Idaho,4
+2011,Illinois,194
+2011,Indiana,94
+2011,Iowa,100
+2011,Kansas,17
+2011,Kentucky,3
+2011,Louisiana,2
+2011,Maine†,"1,006"
+2011,Maryland†,"1,351"
+2011,Massachusetts†,"2,476"
+2011,Michigan,104
+2011,Minnesota†,"2,124"
+2011,Mississippi,5
+2011,Missouri,8
+2011,Montana,11
+2011,Nebraska,11
+2011,Nevada,5
+2011,New Hampshire†,"1,299"
+2011,New Jersey†,"4,262"
+2011,New Mexico,6
+2011,New York†,"4,490"
+2011,North Carolina,88
+2011,North Dakota,27
+2011,Ohio,53
+2011,Oklahoma,2
+2011,Oregon,38
+2011,Pennsylvania†,"5,362"
+2011,Rhode Island†,159
+2011,South Carolina,37
+2011,South Dakota,4
+2011,Tennessee,37
+2011,Texas,74
+2011,U.S. Total,"33,097"
+2011,Utah,9
+2011,Vermont†,623
+2011,Virginia†,"1,023"
+2011,Washington,19
+2011,West Virginia†,118
+2011,Wisconsin†,"3,649"
+2011,Wyoming,2
+2012,Alabama,25
+2012,Alaska,10
+2012,Arizona,13
+2012,Arkansas,0
+2012,California,70
+2012,Colorado,0
+2012,Connecticut†,"2,657"
+2012,Delaware†,669
+2012,District of Columbia†,0
+2012,Florida,118
+2012,Georgia,31
+2012,Idaho,5
+2012,Illinois,204
+2012,Indiana,74
+2012,Iowa,165
+2012,Kansas,19
+2012,Kentucky,14
+2012,Louisiana,7
+2012,Maine†,"1,111"
+2012,Maryland†,"1,651"
+2012,Massachusetts†,"5,138"
+2012,Michigan,98
+2012,Minnesota†,"1,515"
+2012,Mississippi,1
+2012,Missouri,2
+2012,Montana,6
+2012,Nebraska,15
+2012,Nevada,10
+2012,New Hampshire†,"1,450"
+2012,New Jersey†,"3,576"
+2012,New Mexico,1
+2012,New York†,"2,998"
+2012,North Carolina,122
+2012,North Dakota,15
+2012,Ohio,67
+2012,Oklahoma,4
+2012,Oregon,48
+2012,Pennsylvania†,"5,033"
+2012,Rhode Island†,217
+2012,South Carolina,44
+2012,South Dakota,4
+2012,Tennessee,30
+2012,Texas,75
+2012,U.S. Total,"30,831"
+2012,Utah,5
+2012,Vermont†,522
+2012,Virginia†,"1,110"
+2012,Washington,15
+2012,West Virginia†,97
+2012,Wisconsin†,"1,766"
+2012,Wyoming,4
+2013,Alabama,24
+2013,Alaska,14
+2013,Arizona,32
+2013,Arkansas,0
+2013,California,112
+2013,Colorado,0
+2013,Connecticut†,"2,925"
+2013,Delaware†,509
+2013,District of Columbia†,35
+2013,Florida,138
+2013,Georgia,8
+2013,Idaho,19
+2013,Illinois,337
+2013,Indiana,110
+2013,Iowa,247
+2013,Kansas,34
+2013,Kentucky,40
+2013,Louisiana,0
+2013,Maine†,"1,373"
+2013,Maryland†,"1,197"
+2013,Massachusetts†,"5,290"
+2013,Michigan,168
+2013,Minnesota†,"2,340"
+2013,Mississippi,0
+2013,Missouri,3
+2013,Montana,18
+2013,Nebraska,10
+2013,Nevada,16
+2013,New Hampshire†,"1,687"
+2013,New Jersey†,"3,766"
+2013,New Mexico,6
+2013,New York†,"4,615"
+2013,North Carolina,180
+2013,North Dakota,29
+2013,Ohio,93
+2013,Oklahoma,3
+2013,Oregon,43
+2013,Pennsylvania†,"5,758"
+2013,Rhode Island†,724
+2013,South Carolina,42
+2013,South Dakota,4
+2013,Tennessee,25
+2013,Texas,82
+2013,U.S. Total,"36,307"
+2013,Utah,15
+2013,Vermont†,893
+2013,Virginia†,"1,307"
+2013,Washington,18
+2013,West Virginia†,143
+2013,Wisconsin†,"1,872"
+2013,Wyoming,3
+2014,Alabama,64
+2014,Alaska,8
+2014,Arizona,21
+2014,Arkansas,0
+2014,California,73
+2014,Colorado,0
+2014,Connecticut†,"2,360"
+2014,Delaware†,417
+2014,District of Columbia†,40
+2014,Florida,155
+2014,Georgia,4
+2014,Idaho,9
+2014,Illinois,233
+2014,Indiana,110
+2014,Iowa,194
+2014,Kansas,20
+2014,Kentucky,44
+2014,Louisiana,2
+2014,Maine†,"1,401"
+2014,Maryland†,"1,373"
+2014,Massachusetts†,"5,304"
+2014,Michigan,127
+2014,Minnesota†,"1,416"
+2014,Mississippi,2
+2014,Missouri,10
+2014,Montana,7
+2014,Nebraska,7
+2014,Nevada,6
+2014,New Hampshire†,724
+2014,New Jersey†,"3,286"
+2014,New Mexico,0
+2014,New York†,"3,736"
+2014,North Carolina,170
+2014,North Dakota,14
+2014,Ohio,119
+2014,Oklahoma,0
+2014,Oregon,45
+2014,Pennsylvania†,"7,487"
+2014,Rhode Island†,904
+2014,South Carolina,37
+2014,South Dakota,2
+2014,Tennessee,17
+2014,Texas,40
+2014,U.S. Total,"33,461"
+2014,Utah,13
+2014,Vermont†,599
+2014,Virginia†,"1,346"
+2014,Washington,15
+2014,West Virginia†,136
+2014,Wisconsin†,"1,361"
+2014,Wyoming,3
+2015,Alabama,25
+2015,Alaska,9
+2015,Arizona,12
+2015,Arkansas,0
+2015,California,98
+2015,Colorado,0
+2015,Connecticut†,"2,541"
+2015,Delaware†,435
+2015,District of Columbia†,121
+2015,Florida,166
+2015,Georgia,8
+2015,Idaho,9
+2015,Illinois,287
+2015,Indiana,138
+2015,Iowa,318
+2015,Kansas,23
+2015,Kentucky,49
+2015,Louisiana,3
+2015,Maine†,"1,201"
+2015,Maryland†,"1,728"
+2015,Massachusetts†,"4,224"
+2015,Michigan,148
+2015,Minnesota†,"1,805"
+2015,Mississippi,4
+2015,Missouri,5
+2015,Montana,5
+2015,Nebraska,11
+2015,Nevada,7
+2015,New Hampshire†,529
+2015,New Jersey†,"4,855"
+2015,New Mexico,0
+2015,New York†,"4,314"
+2015,North Carolina,230
+2015,North Dakota,33
+2015,Ohio,154
+2015,Oklahoma,0
+2015,Oregon,31
+2015,Pennsylvania†,"9,048"
+2015,Rhode Island†,904
+2015,South Carolina,42
+2015,South Dakota,5
+2015,Tennessee,26
+2015,Texas,54
+2015,U.S. Total,"38,069"
+2015,Utah,7
+2015,Vermont†,710
+2015,Virginia†,"1,539"
+2015,Washington,24
+2015,West Virginia†,289
+2015,Wisconsin†,"1,894"
+2015,Wyoming,1
+2016,Alabama,38
+2016,Alaska,15
+2016,Arizona,13
+2016,Arkansas,2
+2016,California,134
+2016,Colorado,0
+2016,Connecticut†,"1,748"
+2016,Delaware†,506
+2016,District of Columbia†,103
+2016,Florida,216
+2016,Georgia,4
+2016,Idaho,17
+2016,Illinois,237
+2016,Indiana,152
+2016,Iowa,232
+2016,Kansas,39
+2016,Kentucky,33
+2016,Louisiana,7
+2016,Maine†,"1,487"
+2016,Maryland†,"1,866"
+2016,Massachusetts†,198
+2016,Michigan,221
+2016,Minnesota†,"2,126"
+2016,Mississippi,1
+2016,Missouri,10
+2016,Montana,17
+2016,Nebraska,14
+2016,Nevada,15
+2016,New Hampshire†,891
+2016,New Jersey†,"4,350"
+2016,New Mexico,1
+2016,New York†,"3,882"
+2016,North Carolina,272
+2016,North Dakota,32
+2016,Ohio,160
+2016,Oklahoma,0
+2016,Oregon,61
+2016,Pennsylvania†,"11,443"
+2016,Rhode Island†,903
+2016,South Carolina,51
+2016,South Dakota,11
+2016,Tennessee,25
+2016,Texas,71
+2016,U.S. Total,"36,429"
+2016,Utah,19
+2016,Vermont†,761
+2016,Virginia†,"1,350"
+2016,Washington,31
+2016,West Virginia†,368
+2016,Wisconsin†,"2,295"
+2016,Wyoming,1
+2017,Alabama,41
+2017,Alaska,10
+2017,Arizona,28
+2017,Arkansas,6
+2017,California,145
+2017,Colorado,4
+2017,Connecticut†,"2,051"
+2017,Delaware†,608
+2017,District of Columbia†,84
+2017,Florida,210
+2017,Georgia,8
+2017,Idaho,20
+2017,Illinois,273
+2017,Indiana,142
+2017,Iowa,255
+2017,Kansas,40
+2017,Kentucky,20
+2017,Louisiana,12
+2017,Maine†,"1,850"
+2017,Maryland†,"1,891"
+2017,Massachusetts†,410
+2017,Michigan,291
+2017,Minnesota†,"2,318"
+2017,Mississippi,1
+2017,Missouri,12
+2017,Montana,12
+2017,Nebraska,14
+2017,Nevada,17
+2017,New Hampshire†,"1,381"
+2017,New Jersey†,"5,092"
+2017,New Mexico,3
+2017,New York†,"5,155"
+2017,North Carolina,295
+2017,North Dakota,56
+2017,Ohio,270
+2017,Oklahoma,1
+2017,Oregon,84
+2017,Pennsylvania†,"11,900"
+2017,Rhode Island†,"1,132"
+2017,South Carolina,21
+2017,South Dakota,12
+2017,Tennessee,47
+2017,Texas,58
+2017,U.S. Total,"42,743"
+2017,Utah,25
+2017,Vermont†,"1,092"
+2017,Virginia†,"1,657"
+2017,Washington,37
+2017,West Virginia†,648
+2017,Wisconsin†,"3,000"
+2017,Wyoming,4
+2018,Alabama,36
+2018,Alaska,11
+2018,Arizona,7
+2018,Arkansas,4
+2018,California,104
+2018,Colorado,3
+2018,Connecticut†,"1,859"
+2018,Delaware†,520
+2018,District of Columbia†,79
+2018,Florida,169
+2018,Georgia,19
+2018,Idaho,9
+2018,Illinois,276
+2018,Indiana,155
+2018,Iowa,283
+2018,Kansas,30
+2018,Kentucky,22
+2018,Louisiana,4
+2018,Maine†,"1,405"
+2018,Maryland†,"1,382"
+2018,Massachusetts†,16
+2018,Michigan,262
+2018,Minnesota†,"1,541"
+2018,Mississippi,4
+2018,Missouri,11
+2018,Montana,7
+2018,Nebraska,15
+2018,Nevada,14
+2018,New Hampshire†,"1,428"
+2018,New Jersey†,"4,000"
+2018,New Mexico,2
+2018,New York†,"3,638"
+2018,North Carolina,212
+2018,North Dakota,33
+2018,Ohio,293
+2018,Oklahoma,0
+2018,Oregon,70
+2018,Pennsylvania†,"10,208"
+2018,Rhode Island†,"1,111"
+2018,South Carolina,39
+2018,South Dakota,7
+2018,Tennessee,29
+2018,Texas,47
+2018,U.S. Total,"33,666"
+2018,Utah,27
+2018,Vermont†,576
+2018,Virginia†,"1,139"
+2018,Washington,20
+2018,West Virginia†,671
+2018,Wisconsin†,"1,869"
+2018,Wyoming,0
+2019,Alabama,66
+2019,Alaska,3
+2019,Arizona,10
+2019,Arkansas,18
+2019,California,144
+2019,Colorado,8
+2019,Connecticut†,"1,233"
+2019,Delaware†,641
+2019,District of Columbia†,100
+2019,Florida,162
+2019,Georgia,18
+2019,Idaho,14
+2019,Illinois,395
+2019,Indiana,189
+2019,Iowa,303
+2019,Kansas,35
+2019,Kentucky,22
+2019,Louisiana,8
+2019,Maine†,"2,167"
+2019,Maryland†,"1,417"
+2019,Massachusetts†,7
+2019,Michigan,413
+2019,Minnesota†,"1,528"
+2019,Mississippi,4
+2019,Missouri,17
+2019,Montana,8
+2019,Nebraska,10
+2019,Nevada,17
+2019,New Hampshire†,"1,710"
+2019,New Jersey†,"3,619"
+2019,New Mexico,7
+2019,New York†,"4,243"
+2019,North Carolina,334
+2019,North Dakota,38
+2019,Ohio,467
+2019,Oklahoma,0
+2019,Oregon,65
+2019,Pennsylvania†,"8,998"
+2019,Rhode Island†,971
+2019,South Carolina,47
+2019,South Dakota,10
+2019,Tennessee,45
+2019,Texas,41
+2019,U.S. Total,"34,945"
+2019,Utah,19
+2019,Vermont†,"1,064"
+2019,Virginia†,"1,199"
+2019,Washington,43
+2019,West Virginia†,885
+2019,Wisconsin†,"2,178"
+2019,Wyoming,5
+2020,Alabama,14
+2020,Alaska,0
+2020,Arizona,2
+2020,Arkansas,12
+2020,California,53
+2020,Colorado,0
+2020,Connecticut†,614
+2020,Delaware†,355
+2020,District of Columbia†,120
+2020,Florida,121
+2020,Georgia,32
+2020,Idaho,6
+2020,Illinois,295
+2020,Indiana,212
+2020,Iowa,257
+2020,Kansas,17
+2020,Kentucky,32
+2020,Louisiana,2
+2020,Maine†,"1,128"
+2020,Maryland†,842
+2020,Massachusetts†,107
+2020,Michigan,468
+2020,Minnesota†,0
+2020,Mississippi,1
+2020,Missouri,7
+2020,Montana,3
+2020,Nebraska,5
+2020,Nevada,4
+2020,New Hampshire†,299
+2020,New Jersey†,"2,566"
+2020,New Mexico,0
+2020,New York†,"2,240"
+2020,North Carolina,264
+2020,North Dakota,36
+2020,Ohio,409
+2020,Oklahoma,0
+2020,Oregon,39
+2020,Pennsylvania†,"3,334"
+2020,Rhode Island†,839
+2020,South Carolina,48
+2020,South Dakota,8
+2020,Tennessee,38
+2020,Texas,11
+2020,U.S. Total,"18,000"
+2020,Utah,14
+2020,Vermont†,59
+2020,Virginia†,555
+2020,Washington,20
+2020,West Virginia†,"1,065"
+2020,Wisconsin†,"1,447"
+2020,Wyoming,0
+2021,Alabama,51
+2021,Alaska,0
+2021,Arizona,3
+2021,Arkansas,11
+2021,California,106
+2021,Colorado,0
+2021,Connecticut†,541
+2021,Delaware†,140
+2021,District of Columbia†,91
+2021,Florida,193
+2021,Georgia,35
+2021,Idaho,6
+2021,Illinois,540
+2021,Indiana,314
+2021,Iowa,359
+2021,Kansas,22
+2021,Kentucky,41
+2021,Louisiana,4
+2021,Maine†,"1,510"
+2021,Maryland†,916
+2021,Massachusetts†,27
+2021,Michigan,862
+2021,Minnesota†,"1,902"
+2021,Mississippi,1
+2021,Missouri,7
+2021,Montana,13
+2021,Nebraska,10
+2021,Nevada,17
+2021,New Hampshire†,397
+2021,New Jersey†,"3,518"
+2021,New Mexico,2
+2021,New York†,"3,006"
+2021,North Carolina,338
+2021,North Dakota,34
+2021,Ohio,590
+2021,Oklahoma,0
+2021,Oregon,74
+2021,Pennsylvania†,"2,900"
+2021,Rhode Island†,980
+2021,South Carolina,76
+2021,South Dakota,16
+2021,Tennessee,57
+2021,Texas,32
+2021,U.S. Total,"24,610"
+2021,Utah,18
+2021,Vermont†,115
+2021,Virginia†,705
+2021,Washington,43
+2021,West Virginia†,"1,792"
+2021,Wisconsin†,"2,193"
+2021,Wyoming,2
+2022,Alabama,32
+2022,Alaska,7
+2022,Arizona,9
+2022,Arkansas,2
+2022,California,77
+2022,Colorado,10
+2022,Connecticut†,2022
+2022,Delaware†,298
+2022,District of Columbia†,77
+2022,Florida,233
+2022,Georgia,31
+2022,Idaho,10
+2022,Illinois,259
+2022,Indiana,236
+2022,Iowa,154
+2022,Kansas,9
+2022,Kentucky,72
+2022,Louisiana,5
+2022,Maine†,2653
+2022,Maryland†,2035
+2022,Massachusetts†,5052
+2022,Michigan,557
+2022,Minnesota†,2685
+2022,Mississippi,3
+2022,Missouri,7
+2022,Montana,13
+2022,Nebraska,9
+2022,Nevada,10
+2022,New Hampshire†,1085
+2022,New Jersey†,5897
+2022,New Mexico,3
+2022,New York†,16798
+2022,North Carolina,279
+2022,North Dakota,22
+2022,Ohio,553
+2022,Oklahoma,0
+2022,Oregon,61
+2022,Pennsylvania†,8413
+2022,Rhode Island†,2326
+2022,South Carolina,44
+2022,South Dakota,12
+2022,Tennessee,32
+2022,Texas,23
+2022,U.S. Total,"62,519"
+2022,Utah,16
+2022,Vermont†,1312
+2022,Virginia†,1403
+2022,Washington,23
+2022,West Virginia†,2470
+2022,Wisconsin†,5208
+2022,Wyoming,4
+2023,Alabama,36
+2023,Alaska,2
+2023,Arizona,16
+2023,Arkansas,5
+2023,California,109
+2023,Colorado,32
+2023,Connecticut†,"3,239"
+2023,Delaware†,349
+2023,District of Columbia†,108
+2023,Florida,271
+2023,Georgia,18
+2023,Idaho,11
+2023,Illinois,372
+2023,Indiana,257
+2023,Iowa,212
+2023,Kansas,12
+2023,Kentucky,120
+2023,Louisiana,15
+2023,Maine†,"2,942"
+2023,Maryland†,"2,470"
+2023,Massachusetts†,"9,715"
+2023,Michigan,"1,152"
+2023,Minnesota†,"2,938"
+2023,Mississippi,4
+2023,Missouri,16
+2023,Montana,11
+2023,Nebraska,5
+2023,Nevada,14
+2023,New Hampshire†,"1,573"
+2023,New Jersey†,"7,224"
+2023,New Mexico,11
+2023,New York†,"22,173"
+2023,North Carolina,228
+2023,North Dakota,15
+2023,Ohio,"1,307"
+2023,Oklahoma,3
+2023,Oregon,61
+2023,Pennsylvania†,"16,671"
+2023,Rhode Island†,"2,852"
+2023,South Carolina,55
+2023,South Dakota,7
+2023,Tennessee,50
+2023,Texas,27
+2023,U.S. Total,"89,468"
+2023,Utah,16
+2023,Vermont†,"1,445"
+2023,Virginia†,"1,747"
+2023,Washington,25
+2023,West Virginia†,"3,242"
+2023,Wisconsin†,"6,283"
+2023,Wyoming,2

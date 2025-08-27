@@ -1,0 +1,2001 @@
+artist,title,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,genre
+Dan + Shay;Justin Bieber,"10,000 Hours (with Justin Bieber)",0.654,0.63,0.0259,0.153,0.0,0.111,0.43,country
+Luke Bryan,Country On,0.52,0.751,0.0551,0.171,7.4e-06,0.0624,0.519,country
+Thomas Rhett,Die A Happy Man,0.59,0.389,0.0387,0.411,1.48e-06,0.117,0.389,country
+Zach Bryan,Something in the Orange,0.369,0.192,0.04,0.555,8.35e-06,0.0954,0.148,country
+Zach Bryan,Something in the Orange,0.369,0.192,0.04,0.555,8.35e-06,0.0954,0.148,country
+Zach Bryan,Something in the Orange,0.369,0.192,0.04,0.555,8.35e-06,0.0954,0.148,country
+Zach Bryan,Something in the Orange,0.369,0.192,0.04,0.555,8.35e-06,0.0954,0.148,country
+Zach Bryan,Something in the Orange,0.369,0.192,0.04,0.555,8.35e-06,0.0954,0.148,country
+Zach Bryan,Something in the Orange,0.369,0.192,0.04,0.555,8.35e-06,0.0954,0.148,country
+Luke Bryan,Country Girl (Shake It For Me),0.644,0.904,0.0464,0.0295,0.0,0.0834,0.672,country
+Zach Bryan,Something in the Orange,0.369,0.192,0.04,0.555,8.35e-06,0.0954,0.148,country
+Zach Bryan,Something in the Orange,0.369,0.192,0.04,0.555,8.35e-06,0.0954,0.148,country
+Thomas Rhett,Slow Down Summer,0.464,0.755,0.0354,0.00838,0.0,0.0989,0.449,country
+Zach Bryan,Something in the Orange,0.369,0.192,0.04,0.555,8.35e-06,0.0954,0.148,country
+Zach Bryan,Something in the Orange,0.369,0.192,0.04,0.555,8.35e-06,0.0954,0.148,country
+Florida Georgia Line,Stay,0.493,0.931,0.041,0.0838,0.0,0.172,0.556,country
+Zach Bryan,Oklahoma Smokeshow,0.544,0.573,0.0356,0.0958,0.0,0.104,0.233,country
+Zach Bryan,Something in the Orange,0.369,0.192,0.04,0.555,8.35e-06,0.0954,0.148,country
+Zach Bryan,Oklahoma Smokeshow,0.544,0.573,0.0356,0.0958,0.0,0.104,0.233,country
+Thomas Rhett;HARDY,Put It On Ice,0.554,0.757,0.0355,0.0101,0.0,0.0604,0.629,country
+Zach Bryan,November Air,0.429,0.197,0.032,0.774,3.02e-06,0.146,0.197,country
+Zach Bryan,Something in the Orange,0.369,0.192,0.04,0.555,8.35e-06,0.0954,0.148,country
+Thomas Rhett;Danielle Bradbery,Playing With Fire,0.477,0.697,0.0301,0.031,0.0,0.111,0.486,country
+Zach Bryan,Something in the Orange,0.369,0.192,0.04,0.555,8.35e-06,0.0954,0.148,country
+Zach Bryan,Oklahoma Smokeshow,0.544,0.573,0.0356,0.0958,0.0,0.104,0.233,country
+Zach Bryan,Oklahoma Smokeshow,0.544,0.573,0.0356,0.0958,0.0,0.104,0.233,country
+Zach Bryan,Something in the Orange,0.369,0.192,0.04,0.555,8.35e-06,0.0954,0.148,country
+Florida Georgia Line,I Love My Country,0.525,0.94,0.065,0.0283,0.0,0.236,0.636,country
+Zach Bryan,Something in the Orange,0.369,0.192,0.04,0.555,8.35e-06,0.0954,0.148,country
+Zach Bryan,Oklahoma Smokeshow,0.544,0.573,0.0356,0.0958,0.0,0.104,0.233,country
+Luke Bryan,Run Run Rudolph,0.606,0.972,0.0459,0.0217,0.000161,0.338,0.856,country
+Creedence Clearwater Revival,Have You Ever Seen The Rain,0.741,0.697,0.0277,0.0665,2.35e-05,0.133,0.774,country
+Zach Bryan,"Burn, Burn, Burn",0.508,0.296,0.0755,0.897,5e-05,0.11,0.134,country
+Zach Bryan,Oklahoma Smokeshow,0.544,0.573,0.0356,0.0958,0.0,0.104,0.233,country
+Creedence Clearwater Revival,Have You Ever Seen The Rain,0.779,0.662,0.0284,0.141,1.16e-05,0.119,0.811,country
+Luke Bryan,Rain Is A Good Thing,0.622,0.931,0.0507,0.106,2.45e-06,0.328,0.521,country
+Luke Bryan,Run Run Rudolph,0.611,0.972,0.0464,0.0253,0.000111,0.28,0.871,country
+Zach Bryan,If She Wants a Cowboy,0.553,0.823,0.0689,0.0201,0.0,0.111,0.552,country
+Florida Georgia Line,Sun Daze,0.484,0.944,0.0413,0.0901,0.0,0.471,0.839,country
+Creedence Clearwater Revival,Hello Mary Lou,0.633,0.674,0.0348,0.0572,0.00154,0.0504,0.965,country
+Zach Bryan,Heavy Eyes,0.471,0.912,0.0724,0.032,0.0,0.343,0.613,country
+Creedence Clearwater Revival,I Put A Spell On You,0.393,0.732,0.0295,0.00471,0.123,0.0979,0.621,country
+Creedence Clearwater Revival,I Put A Spell On You,0.393,0.732,0.0295,0.00471,0.123,0.0979,0.621,country
+Creedence Clearwater Revival,Bad Moon Rising,0.508,0.769,0.0326,0.0577,6.1e-06,0.063,0.939,country
+Creedence Clearwater Revival,I Put A Spell On You,0.437,0.742,0.0291,0.00651,0.037,0.112,0.688,country
+Creedence Clearwater Revival,Fortunate Son,0.64,0.663,0.0373,0.201,0.00806,0.152,0.665,country
+Creedence Clearwater Revival,Bad Moon Rising,0.508,0.769,0.0326,0.0577,6.1e-06,0.063,0.939,country
+Creedence Clearwater Revival,Bad Moon Rising - Remastered 1985,0.621,0.85,0.0311,0.0221,1.52e-06,0.0581,0.923,country
+Zach Bryan,Heading South,0.617,0.378,0.0662,0.808,2.33e-05,0.179,0.345,country
+Creedence Clearwater Revival,Bad Moon Rising - Remastered 1985,0.621,0.85,0.0311,0.0221,1.52e-06,0.0581,0.923,country
+Dan + Shay;Justin Bieber,"10,000 Hours (with Justin Bieber)",0.654,0.63,0.0259,0.149,0.0,0.111,0.43,country
+Dan + Shay;Justin Bieber,"10,000 Hours",0.654,0.63,0.0259,0.149,0.0,0.111,0.43,country
+Thomas Rhett,Country Again,0.467,0.481,0.0255,0.227,0.000189,0.11,0.248,country
+Dan + Shay,You,0.544,0.572,0.0319,0.118,0.0,0.234,0.52,country
+Dan + Shay;Justin Bieber,"10,000 Hours",0.654,0.63,0.0259,0.149,0.0,0.111,0.43,country
+Dan + Shay,Glad You Exist,0.741,0.499,0.0356,0.23,0.0,0.125,0.692,country
+Dan + Shay,You,0.544,0.572,0.0319,0.118,0.0,0.234,0.52,country
+Dan + Shay,Glad You Exist,0.741,0.499,0.0356,0.23,0.0,0.125,0.692,country
+Dan + Shay,Alone Together,0.541,0.871,0.122,0.00527,0.0,0.0867,0.666,country
+Dan + Shay,You,0.544,0.572,0.0319,0.118,0.0,0.234,0.52,country
+Dan + Shay,Glad You Exist,0.741,0.499,0.0356,0.23,0.0,0.125,0.692,country
+Dan + Shay,You,0.544,0.572,0.0319,0.118,0.0,0.234,0.52,country
+Dan + Shay;Justin Bieber,"10,000 Hours",0.654,0.63,0.0259,0.149,0.0,0.111,0.43,country
+Dan + Shay;Justin Bieber,"10,000 Hours",0.654,0.63,0.0259,0.149,0.0,0.111,0.43,country
+Dan + Shay,Nothin' Like You,0.586,0.704,0.0307,0.15,0.0,0.067,0.442,country
+Dan + Shay,You,0.544,0.572,0.0319,0.118,0.0,0.234,0.52,country
+Jordan Davis;Luke Bryan,Buy Dirt,0.586,0.559,0.05,0.639,0.0,0.0872,0.437,country
+Dan + Shay,You,0.544,0.572,0.0319,0.118,0.0,0.234,0.52,country
+Dan + Shay,Officially Christmas,0.655,0.677,0.0326,0.146,0.0,0.131,0.62,country
+Dan + Shay;Mushroom People,Tequila - Mushroom People Remix,0.545,0.713,0.0543,0.0187,0.0,0.0775,0.476,country
+Shania Twain,You're Still The One,0.558,0.54,0.0305,0.501,0.0,0.252,0.654,country
+Jon Pardi,Heartache On The Dance Floor,0.596,0.833,0.0474,0.0563,0.0,0.0866,0.618,country
+Shania Twain,Man! I Feel Like A Woman!,0.654,0.889,0.0513,0.64,0.0,0.297,0.73,country
+Shania Twain,You're Still The One,0.558,0.54,0.0305,0.501,0.0,0.252,0.654,country
+Shania Twain,You're Still The One,0.558,0.54,0.0305,0.501,0.0,0.252,0.654,country
+Cody Johnson,Human,0.4,0.647,0.0337,0.176,5.79e-05,0.11,0.274,country
+Cody Johnson,Human,0.4,0.647,0.0337,0.176,5.79e-05,0.11,0.274,country
+Cody Johnson,'Til You Can't,0.501,0.815,0.0436,0.0513,0.0,0.106,0.46,country
+Shania Twain,I'm Gonna Getcha Good - Green Version,0.724,0.789,0.0302,0.0441,0.0,0.0612,0.945,country
+Cody Johnson,Fenceposts,0.455,0.628,0.0272,0.31,1.85e-06,0.223,0.402,country
+Cody Johnson,Hat Made of Mistletoe,0.598,0.943,0.0347,0.0933,0.0,0.331,0.801,country
+Cody Johnson,Hat Made of Mistletoe,0.598,0.943,0.0347,0.0933,0.0,0.331,0.801,country
+Jon Pardi,Dirt On My Boots,0.683,0.796,0.0284,0.112,0.0,0.197,0.533,country
+Cody Johnson,'Til You Can't,0.501,0.815,0.0436,0.0513,0.0,0.106,0.46,country
+Jordan Davis,Singles You Up,0.634,0.903,0.0323,0.0465,0.0,0.255,0.559,country
+Jon Pardi,Fill 'Er Up,0.652,0.746,0.0286,0.0142,0.0,0.272,0.876,country
+Cody Johnson,Human,0.4,0.647,0.0337,0.176,5.79e-05,0.11,0.274,country
+Jon Pardi,Dirt On My Boots,0.683,0.796,0.0284,0.112,0.0,0.197,0.533,country
+Shania Twain,Man! I Feel Like A Woman!,0.654,0.889,0.0513,0.64,0.0,0.297,0.73,country
+Cody Johnson,Driveway,0.486,0.565,0.0336,0.27,0.0,0.109,0.269,country
+Cody Johnson,Stronger,0.453,0.7,0.038,0.131,0.0,0.186,0.447,country
+Cody Johnson,Fenceposts,0.455,0.628,0.0272,0.31,1.85e-06,0.223,0.402,country
+Cody Johnson,'Til You Can't,0.501,0.815,0.0436,0.0513,0.0,0.106,0.46,country
+Cody Johnson;Clara Johnson;Brandi Johnson;Cori Johnson,Silent Night,0.442,0.131,0.028,0.687,0.0,0.127,0.277,country
+Cody Johnson,'Til You Can't,0.501,0.815,0.0436,0.0513,0.0,0.106,0.46,country
+Cody Johnson,Fenceposts,0.455,0.628,0.0272,0.31,1.85e-06,0.223,0.402,country
+Cody Johnson,Let's Build a Fire,0.417,0.968,0.0452,0.00144,2.56e-05,0.0827,0.879,country
+Cody Johnson,'Til You Can't,0.501,0.815,0.0436,0.0513,0.0,0.106,0.46,country
+Cody Johnson,On My Way to You,0.445,0.537,0.0311,0.331,5e-05,0.0866,0.246,country
+Cody Johnson,'Til You Can't,0.501,0.815,0.0436,0.0513,0.0,0.106,0.46,country
+Eagles,Hotel California - 2013 Remaster,0.579,0.508,0.027,0.00574,0.000494,0.0575,0.609,country
+Dan + Shay;Justin Bieber,"10,000 Hours",0.654,0.63,0.0259,0.149,0.0,0.111,0.43,country
+Dan + Shay,How Not To,0.501,0.836,0.0488,0.208,0.0,0.152,0.617,country
+Dan + Shay,You,0.544,0.572,0.0319,0.118,0.0,0.234,0.52,country
+Dan + Shay;Justin Bieber,"10,000 Hours",0.654,0.63,0.0259,0.149,0.0,0.111,0.43,country
+Dan + Shay,Speechless,0.616,0.437,0.0298,0.351,0.0,0.24,0.386,country
+Dan + Shay;Justin Bieber,"10,000 Hours",0.654,0.63,0.0259,0.149,0.0,0.111,0.43,country
+Dan + Shay,You,0.544,0.572,0.0319,0.118,0.0,0.234,0.52,country
+Dan + Shay,Take Me Home for Christmas,0.694,0.769,0.0325,0.163,0.0,0.0976,0.663,country
+Dan + Shay,Officially Christmas,0.655,0.677,0.0326,0.146,0.0,0.131,0.62,country
+Bailey Zimmerman,Rock and a Hard Place,0.582,0.568,0.0275,0.577,0.0,0.105,0.394,country
+Bailey Zimmerman,Rock and a Hard Place,0.582,0.568,0.0275,0.577,0.0,0.105,0.394,country
+Bailey Zimmerman,Rock and a Hard Place,0.582,0.568,0.0275,0.577,0.0,0.105,0.394,country
+Bailey Zimmerman,Where It Ends,0.431,0.837,0.0432,0.259,0.0,0.0879,0.648,country
+Bailey Zimmerman,Rock and a Hard Place,0.582,0.568,0.0275,0.577,0.0,0.105,0.394,country
+Bailey Zimmerman,Rock and a Hard Place,0.582,0.568,0.0275,0.577,0.0,0.105,0.394,country
+Carrie Underwood,Favorite Time Of Year,0.509,0.881,0.0497,0.00489,0.0,0.359,0.509,country
+Bailey Zimmerman,Where It Ends,0.431,0.837,0.0432,0.259,0.0,0.0879,0.648,country
+Bailey Zimmerman,Where It Ends,0.431,0.837,0.0432,0.259,0.0,0.0879,0.648,country
+Bailey Zimmerman,Rock and a Hard Place,0.582,0.568,0.0275,0.577,0.0,0.105,0.394,country
+Bailey Zimmerman,Fall in Love,0.524,0.643,0.0297,0.451,0.0,0.221,0.397,country
+Bailey Zimmerman,Never Leave,0.503,0.643,0.0304,0.523,1.23e-06,0.0661,0.345,country
+Bailey Zimmerman,Fall in Love,0.524,0.643,0.0297,0.451,0.0,0.221,0.397,country
+Bailey Zimmerman,Where It Ends,0.431,0.837,0.0432,0.259,0.0,0.0879,0.648,country
+Alan Jackson,Let It Be Christmas,0.626,0.4,0.0251,0.798,0.0,0.151,0.401,country
+Bailey Zimmerman,Where It Ends,0.431,0.837,0.0432,0.259,0.0,0.0879,0.648,country
+Bailey Zimmerman,Rock and a Hard Place,0.582,0.568,0.0275,0.577,0.0,0.105,0.394,country
+Bailey Zimmerman,Fall in Love,0.524,0.643,0.0297,0.451,0.0,0.221,0.397,country
+Bailey Zimmerman,Fall in Love,0.524,0.643,0.0297,0.451,0.0,0.221,0.397,country
+Bailey Zimmerman,Rock and a Hard Place,0.582,0.568,0.0275,0.577,0.0,0.105,0.394,country
+Bailey Zimmerman,Fall in Love,0.524,0.643,0.0297,0.451,0.0,0.221,0.397,country
+Bailey Zimmerman,Rock and a Hard Place,0.582,0.568,0.0275,0.577,0.0,0.105,0.394,country
+Carrie Underwood,O Come All Ye Faithful,0.248,0.308,0.03,0.797,0.0,0.118,0.348,country
+Bailey Zimmerman,Where It Ends,0.431,0.837,0.0432,0.259,0.0,0.0879,0.648,country
+Carrie Underwood;Isaiah Fisher,Little Drummer Boy,0.642,0.354,0.0281,0.672,0.0,0.0885,0.428,country
+Carrie Underwood,Favorite Time Of Year - Amazon Original,0.497,0.897,0.0513,0.00635,0.0,0.305,0.539,country
+Bailey Zimmerman,Fall in Love,0.524,0.643,0.0297,0.451,0.0,0.221,0.397,country
+Bailey Zimmerman,Fall in Love,0.524,0.643,0.0297,0.451,0.0,0.221,0.397,country
+Carrie Underwood,Southbound,0.614,0.884,0.0402,0.00122,0.0,0.077,0.721,country
+Carrie Underwood,Favorite Time Of Year - Amazon Original,0.497,0.897,0.0513,0.00635,0.0,0.305,0.539,country
+Bailey Zimmerman,Small Town Crazy,0.502,0.877,0.0746,0.0129,0.0,0.244,0.696,country
+Bailey Zimmerman,Never Comin' Home - Live Acoustic,0.585,0.51,0.0322,0.427,0.0,0.0997,0.436,country
+George Strait,Jingle Bell Rock,0.775,0.562,0.0299,0.468,0.0,0.174,0.77,country
+George Strait,Deck The Halls,0.607,0.522,0.0279,0.235,0.0,0.129,0.887,country
+George Strait,Heartland - Pure Country/Soundtrack Version,0.449,0.89,0.05,0.0521,7.82e-05,0.112,0.696,country
+George Strait,O Christmas Tree,0.499,0.295,0.0287,0.794,0.0,0.0829,0.323,country
+George Strait,O Christmas Tree,0.499,0.295,0.0287,0.794,0.0,0.0829,0.323,country
+George Strait,Christmas Cookies,0.743,0.621,0.0651,0.465,0.0,0.108,0.865,country
+George Strait,O Christmas Tree,0.499,0.295,0.0287,0.794,0.0,0.0829,0.323,country
+George Strait,Christmas Cookies,0.743,0.621,0.0651,0.465,0.0,0.108,0.865,country
+Haley Mae Campbell,Never Been in Love,0.679,0.742,0.0292,0.121,7.21e-05,0.322,0.869,country
+Blake Shelton,No Body,0.739,0.72,0.026,0.0379,0.00267,0.23,0.892,country
+Blake Shelton,God's Country,0.537,0.754,0.0399,0.0586,4.8e-06,0.118,0.212,country
+Tim McGraw,7500 OBO,0.528,0.718,0.0337,0.1,0.0,0.304,0.51,country
+Blake Shelton,Jingle Bell Rock,0.65,0.736,0.0378,0.122,0.0,0.0998,0.595,country
+Carrie Underwood;John Legend,Hallelujah,0.335,0.43,0.0322,0.846,0.0,0.126,0.379,country
+Tim McGraw,Doggone,0.629,0.538,0.029,0.416,1.07e-05,0.107,0.353,country
+Blake Shelton,Home,0.579,0.443,0.0255,0.479,3.15e-06,0.11,0.288,country
+Tim McGraw,Christmas All Over The World,0.565,0.782,0.0305,0.0341,0.0,0.0782,0.798,country
+Carrie Underwood;John Legend,Hallelujah,0.335,0.43,0.0322,0.846,0.0,0.126,0.379,country
+Blake Shelton,No Body,0.739,0.72,0.026,0.0379,0.00267,0.23,0.892,country
+Blake Shelton;Gwen Stefani,Happy Anywhere,0.606,0.737,0.0321,0.134,0.0,0.057,0.65,country
+Blake Shelton;Michael Bublé,Home,0.576,0.456,0.0267,0.584,2.68e-05,0.0912,0.21,country
+Blake Shelton;Michael Bublé,Home,0.576,0.456,0.0267,0.584,2.68e-05,0.0912,0.21,country
+Blake Shelton,Come Back as a Country Boy,0.494,0.796,0.0324,0.0197,0.000178,0.309,0.447,country
+Blake Shelton,Austin,0.603,0.609,0.0278,0.188,0.0,0.0982,0.275,country
+Carrie Underwood;John Legend,Hallelujah,0.335,0.43,0.0322,0.846,0.0,0.126,0.379,country
+Blake Shelton;Gwen Stefani,Happy Anywhere,0.606,0.737,0.0321,0.134,0.0,0.057,0.65,country
+Tim McGraw,Christmas All Over The World,0.565,0.782,0.0305,0.0341,0.0,0.0782,0.798,country
+Blake Shelton;Michael Bublé,Home,0.576,0.456,0.0267,0.584,2.68e-05,0.0912,0.21,country
+Kenny Chesney,Knowing You,0.568,0.562,0.0258,0.23,3.41e-06,0.119,0.178,country
+Blake Shelton;Gwen Stefani,Nobody but You,0.465,0.653,0.0273,0.111,0.000125,0.172,0.233,country
+Carrie Underwood,O Come All Ye Faithful,0.248,0.308,0.03,0.797,0.0,0.118,0.348,country
+Tim McGraw;Catherine Dunn,Diamond Rings And Old Barstools,0.55,0.496,0.025,0.463,0.000135,0.119,0.353,country
+Blake Shelton;Gwen Stefani,Happy Anywhere,0.606,0.737,0.0321,0.134,0.0,0.057,0.65,country
+Carrie Underwood,Favorite Time Of Year - Amazon Original,0.497,0.897,0.0513,0.00635,0.0,0.305,0.539,country
+Tim McGraw,Christmas All Over The World,0.565,0.782,0.0305,0.0341,0.0,0.0782,0.798,country
+Tim McGraw,Christmas All Over The World,0.565,0.782,0.0305,0.0341,0.0,0.0782,0.798,country
+Kenny Chesney,Happy Does,0.716,0.665,0.0382,0.304,0.0,0.123,0.598,country
+Kenny Chesney,Happy Does,0.716,0.665,0.0382,0.304,0.0,0.123,0.598,country
+Carrie Underwood,O Come All Ye Faithful,0.248,0.308,0.03,0.797,0.0,0.118,0.348,country
+Blake Shelton,Jingle Bell Rock,0.65,0.736,0.0378,0.122,0.0,0.0998,0.595,country
+Carrie Underwood;John Legend,Hallelujah,0.335,0.43,0.0322,0.846,0.0,0.126,0.379,country
+Blake Shelton,Jingle Bell Rock,0.65,0.736,0.0378,0.122,0.0,0.0998,0.595,country
+Kenny Chesney,Everyone She Knows,0.659,0.682,0.0293,0.00992,0.0,0.159,0.664,country
+Blake Shelton,Jingle Bell Rock,0.65,0.736,0.0378,0.122,0.0,0.0998,0.595,country
+Kenny Chesney,Everyone She Knows,0.659,0.682,0.0293,0.00992,0.0,0.159,0.664,country
+Kenny Chesney,Knowing You,0.568,0.562,0.0258,0.23,3.41e-06,0.119,0.178,country
+Kenny Chesney;Mindy Smith,Better Boat,0.573,0.265,0.0302,0.827,2.31e-05,0.133,0.396,country
+Kenny Chesney,Wind On,0.497,0.866,0.0464,0.00099,1.28e-05,0.35,0.338,country
+Tim McGraw,Christmas All Over The World,0.565,0.782,0.0305,0.0341,0.0,0.0782,0.798,country
+Blake Shelton,She Doesn't Know She's Got It,0.654,0.873,0.0298,0.069,2.99e-05,0.141,0.879,country
+Kenny Chesney,Everyone She Knows,0.659,0.682,0.0293,0.00992,0.0,0.159,0.664,country
+Kenny Chesney,Knowing You,0.568,0.562,0.0258,0.23,3.41e-06,0.119,0.178,country
+Kenny Chesney,The Life,0.797,0.53,0.025,0.575,0.000203,0.107,0.721,country
+Kenny Chesney,Knowing You,0.568,0.562,0.0258,0.23,3.41e-06,0.119,0.178,country
+Kenny Chesney,Everyone She Knows,0.659,0.682,0.0293,0.00992,0.0,0.159,0.664,country
+Eric Church,Drink In My Hand,0.626,0.913,0.0317,0.00635,0.0,0.293,0.946,country
+Kenny Chesney,Everyone She Knows,0.659,0.682,0.0293,0.00992,0.0,0.159,0.664,country
+Eric Church,Pledge Allegiance To The Hag,0.588,0.644,0.0515,0.0444,0.0,0.0906,0.27,country
+Creedence Clearwater Revival,Have You Ever Seen The Rain,0.741,0.697,0.0277,0.0664,2.28e-05,0.133,0.774,country
+Sam Hunt,Nothing Lasts Forever,0.467,0.444,0.0602,0.365,0.0,0.158,0.187,country
+Blake Shelton,No Body,0.739,0.72,0.026,0.0379,0.00267,0.23,0.892,country
+Cole Swindell,Stereotype,0.634,0.87,0.0326,0.00776,7.06e-05,0.0845,0.786,country
+Cole Swindell,Stay Downtown,0.336,0.756,0.045,0.00275,0.0,0.189,0.237,country
+Kacey Musgraves;Lana Del Rey,I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show,0.469,0.183,0.0407,0.829,0.0,0.71,0.381,country
+Kacey Musgraves;Lana Del Rey,I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show,0.469,0.183,0.0407,0.829,0.0,0.71,0.381,country
+Dolly Parton,"I Still Believe - Live on ""A Holly Dolly Christmas"" TV Special",0.544,0.534,0.0328,0.269,0.0,0.111,0.362,country
+Kacey Musgraves;Lana Del Rey,I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show,0.469,0.183,0.0407,0.829,0.0,0.71,0.381,country
+Kacey Musgraves;Lana Del Rey,I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show,0.469,0.183,0.0407,0.829,0.0,0.71,0.381,country
+Cole Swindell,Stereotype,0.634,0.87,0.0326,0.00776,7.06e-05,0.0845,0.786,country
+Kacey Musgraves;Lana Del Rey,I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show,0.469,0.183,0.0407,0.829,0.0,0.71,0.381,country
+Blake Shelton,No Body,0.739,0.72,0.026,0.0379,0.00267,0.23,0.892,country
+Cole Swindell;Lainey Wilson,Never Say Never,0.469,0.931,0.0563,0.00752,0.0,0.111,0.49,country
+Blake Shelton,No Body,0.739,0.72,0.026,0.0379,0.00267,0.23,0.892,country
+Kacey Musgraves;Lana Del Rey,I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show,0.469,0.183,0.0407,0.829,0.0,0.71,0.381,country
+Cole Swindell,Kiss,0.461,0.887,0.193,0.0358,0.0,0.118,0.638,country
+Sam Hunt,Body Like A Back Road,0.732,0.458,0.0311,0.447,0.0,0.136,0.661,country
+Dierks Bentley;Maren Morris,I'll Be The Moon,0.561,0.549,0.0668,0.547,0.0,0.105,0.42,country
+Dolly Parton,"Mary, Did You Know?",0.355,0.382,0.0378,0.784,0.0,0.123,0.261,country
+Dierks Bentley,Freedom,0.547,0.832,0.029,0.00192,0.0,0.2,0.544,country
+Cole Swindell,She Had Me at Heads Carolina,0.607,0.912,0.0611,0.124,0.0,0.332,0.722,country
+Cole Swindell,She Had Me at Heads Carolina,0.607,0.912,0.0611,0.124,0.0,0.332,0.722,country
+Cole Swindell;Lainey Wilson,Never Say Never,0.469,0.931,0.0563,0.00752,0.0,0.111,0.49,country
+Dierks Bentley;BRELAND;HARDY,Beers On Me,0.59,0.846,0.0396,0.182,0.0,0.53,0.733,country
+Keith Urban;P!nk,One Too Many,0.702,0.53,0.0558,0.211,0.0,0.396,0.561,country
+Cole Swindell,She Had Me at Heads Carolina,0.607,0.912,0.0611,0.124,0.0,0.332,0.722,country
+Blake Shelton,No Body,0.739,0.72,0.026,0.0379,0.00267,0.23,0.892,country
+Cole Swindell,Stereotype,0.634,0.87,0.0326,0.00776,7.06e-05,0.0845,0.786,country
+Dolly Parton;Michael Bublé,"Cuddle Up, Cozy Down Christmas",0.658,0.515,0.0368,0.678,0.0,0.154,0.652,country
+Cole Swindell,Single Saturday Night,0.634,0.786,0.0411,0.129,0.0,0.182,0.653,country
+Cole Swindell,She Had Me at Heads Carolina,0.607,0.912,0.0611,0.124,0.0,0.332,0.722,country
+Kacey Musgraves,Christmas Makes Me Cry,0.477,0.206,0.0349,0.9,1.37e-05,0.229,0.2,country
+Cole Swindell;Lainey Wilson,Never Say Never,0.469,0.931,0.0563,0.00752,0.0,0.111,0.49,country
+Dolly Parton;Michael Bublé,"Cuddle Up, Cozy Down Christmas",0.658,0.515,0.0368,0.678,0.0,0.154,0.652,country
+Cole Swindell,You Should Be Here,0.491,0.641,0.0282,0.0592,0.0,0.0857,0.299,country
+Sam Hunt,Body Like A Back Road,0.732,0.458,0.0311,0.447,0.0,0.136,0.661,country
+Kacey Musgraves;Lana Del Rey,I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show,0.469,0.183,0.0407,0.829,0.0,0.71,0.381,country
+Blake Shelton,No Body,0.739,0.72,0.026,0.0379,0.00267,0.23,0.892,country
+Dolly Parton;Michael Bublé,"Cuddle Up, Cozy Down Christmas",0.658,0.515,0.0368,0.678,0.0,0.154,0.652,country
+Dolly Parton;Jimmy Fallon,All I Want for Christmas Is You,0.42,0.755,0.0584,0.593,0.0,0.204,0.361,country
+Dolly Parton;Jimmy Fallon,All I Want for Christmas Is You,0.42,0.755,0.0584,0.593,0.0,0.204,0.361,country
+Cole Swindell,She Had Me at Heads Carolina,0.607,0.912,0.0611,0.124,0.0,0.332,0.722,country
+Cole Swindell,She Had Me at Heads Carolina,0.607,0.912,0.0611,0.124,0.0,0.332,0.722,country
+Dolly Parton;Michael Bublé,"Cuddle Up, Cozy Down Christmas",0.658,0.515,0.0368,0.678,0.0,0.154,0.652,country
+Dolly Parton;Jimmy Fallon,All I Want for Christmas Is You,0.42,0.755,0.0584,0.593,0.0,0.204,0.361,country
+Cole Swindell,Chillin' It,0.576,0.849,0.0386,0.511,4.01e-05,0.109,0.666,country
+Cole Swindell,She Had Me at Heads Carolina,0.607,0.912,0.0611,0.124,0.0,0.332,0.722,country
+Cole Swindell,She Had Me at Heads Carolina,0.607,0.912,0.0611,0.124,0.0,0.332,0.722,country
+Willie Nelson;Norah Jones,Baby It's Cold Outside,0.532,0.358,0.0671,0.717,0.0,0.112,0.449,country
+John Denver,"Take Me Home, Country Roads",0.462,0.395,0.0264,0.758,0.0,0.121,0.625,country
+Kacey Musgraves,easier said,0.541,0.609,0.0478,0.51,0.000668,0.102,0.381,country
+Kacey Musgraves,star-crossed,0.378,0.441,0.0355,0.709,0.00288,0.0887,0.158,country
+Kacey Musgraves,star-crossed,0.378,0.441,0.0355,0.709,0.00288,0.0887,0.158,country
+Kacey Musgraves;Lana Del Rey,I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show,0.469,0.183,0.0407,0.829,0.0,0.71,0.381,country
+Kacey Musgraves,star-crossed,0.378,0.441,0.0355,0.709,0.00288,0.0887,0.158,country
+Kacey Musgraves,Feliz Navidad,0.724,0.566,0.0305,0.617,0.00023,0.234,0.873,country
+Kacey Musgraves;Lana Del Rey,I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show,0.469,0.183,0.0407,0.829,0.0,0.71,0.381,country
+Kacey Musgraves;Lana Del Rey,I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show,0.469,0.183,0.0407,0.829,0.0,0.71,0.381,country
+Kacey Musgraves;Lana Del Rey,I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show,0.469,0.183,0.0407,0.829,0.0,0.71,0.381,country
+Kacey Musgraves;Lana Del Rey,I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show,0.469,0.183,0.0407,0.829,0.0,0.71,0.381,country
+Kacey Musgraves;Lana Del Rey,I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show,0.469,0.183,0.0407,0.829,0.0,0.71,0.381,country
+Kacey Musgraves,Feliz Navidad,0.724,0.566,0.0305,0.617,0.00023,0.234,0.873,country
+Kacey Musgraves,Feliz Navidad,0.724,0.566,0.0305,0.617,0.00023,0.234,0.873,country
+Kacey Musgraves;Camila Cabello,Rockin' Around The Christmas Tree - From The Kacey Musgraves Christmas Show,0.745,0.598,0.0975,0.129,0.0,0.678,0.789,country
+Kacey Musgraves;Leon Bridges,Present Without A Bow,0.693,0.492,0.0378,0.559,3.66e-06,0.0972,0.595,country
+Kacey Musgraves,Feliz Navidad,0.724,0.566,0.0305,0.617,0.00023,0.234,0.873,country
+Kacey Musgraves;Leon Bridges,Present Without A Bow,0.693,0.492,0.0378,0.559,3.66e-06,0.0972,0.595,country
+Kacey Musgraves;Leon Bridges,Present Without A Bow,0.693,0.492,0.0378,0.559,3.66e-06,0.0972,0.595,country
+Kacey Musgraves;Leon Bridges,Present Without A Bow,0.693,0.492,0.0378,0.559,3.66e-06,0.0972,0.595,country
+Kacey Musgraves;Leon Bridges,Present Without A Bow,0.693,0.492,0.0378,0.559,3.66e-06,0.0972,0.595,country
+Kacey Musgraves,Feliz Navidad,0.724,0.566,0.0305,0.617,0.00023,0.234,0.873,country
+Kacey Musgraves,Feliz Navidad,0.724,0.566,0.0305,0.617,0.00023,0.234,0.873,country
+Kacey Musgraves;Leon Bridges,Present Without A Bow,0.693,0.492,0.0378,0.559,3.66e-06,0.0972,0.595,country
+Kacey Musgraves;Leon Bridges,Present Without A Bow,0.693,0.492,0.0378,0.559,3.66e-06,0.0972,0.595,country
+Kacey Musgraves;Leon Bridges,Present Without A Bow,0.693,0.492,0.0378,0.559,3.66e-06,0.0972,0.595,country
+Kacey Musgraves;Leon Bridges,Present Without A Bow,0.693,0.492,0.0378,0.559,3.66e-06,0.0972,0.595,country
+Kacey Musgraves;Troye Sivan,Glittery - From The Kacey Musgraves Christmas Show Soundtrack,0.595,0.275,0.0309,0.864,0.0,0.107,0.345,country
+Kacey Musgraves;Camila Cabello,Rockin' Around The Christmas Tree - From The Kacey Musgraves Christmas Show,0.745,0.598,0.0975,0.129,0.0,0.678,0.789,country
+Kacey Musgraves,Feliz Navidad,0.724,0.566,0.0305,0.617,0.00023,0.234,0.873,country
+Kacey Musgraves;Camila Cabello,Rockin' Around The Christmas Tree - From The Kacey Musgraves Christmas Show,0.745,0.598,0.0975,0.129,0.0,0.678,0.789,country
+Kacey Musgraves;Camila Cabello,Rockin' Around The Christmas Tree - From The Kacey Musgraves Christmas Show,0.745,0.598,0.0975,0.129,0.0,0.678,0.789,country
+Kacey Musgraves,Feliz Navidad,0.724,0.566,0.0305,0.617,0.00023,0.234,0.873,country
+Kacey Musgraves;Troye Sivan,Glittery - From The Kacey Musgraves Christmas Show Soundtrack,0.595,0.275,0.0309,0.864,0.0,0.107,0.345,country
+Kacey Musgraves;Camila Cabello,Rockin' Around The Christmas Tree - From The Kacey Musgraves Christmas Show,0.745,0.598,0.0975,0.129,0.0,0.678,0.789,country
+Kacey Musgraves;Camila Cabello,Rockin' Around The Christmas Tree - From The Kacey Musgraves Christmas Show,0.745,0.598,0.0975,0.129,0.0,0.678,0.789,country
+Kacey Musgraves;Zooey Deschanel,Mele Kalikimaka - From The Kacey Musgraves Christmas Show,0.78,0.5,0.0468,0.571,0.0,0.718,0.717,country
+Kacey Musgraves;Camila Cabello,Rockin' Around The Christmas Tree - From The Kacey Musgraves Christmas Show,0.745,0.598,0.0975,0.129,0.0,0.678,0.789,country
+Kacey Musgraves;Camila Cabello,Rockin' Around The Christmas Tree - From The Kacey Musgraves Christmas Show,0.745,0.598,0.0975,0.129,0.0,0.678,0.789,country
+Kacey Musgraves;Camila Cabello,Rockin' Around The Christmas Tree - From The Kacey Musgraves Christmas Show,0.745,0.598,0.0975,0.129,0.0,0.678,0.789,country
+Kacey Musgraves;Camila Cabello,Rockin' Around The Christmas Tree - From The Kacey Musgraves Christmas Show,0.745,0.598,0.0975,0.129,0.0,0.678,0.789,country
+Kacey Musgraves;Camila Cabello,Rockin' Around The Christmas Tree - From The Kacey Musgraves Christmas Show,0.745,0.598,0.0975,0.129,0.0,0.678,0.789,country
+Kacey Musgraves,Feliz Navidad,0.724,0.566,0.0305,0.617,0.00023,0.234,0.873,country
+Kacey Musgraves;Camila Cabello,Rockin' Around The Christmas Tree - From The Kacey Musgraves Christmas Show,0.745,0.598,0.0975,0.129,0.0,0.678,0.789,country
+Kacey Musgraves;Zooey Deschanel,Mele Kalikimaka - From The Kacey Musgraves Christmas Show,0.78,0.5,0.0468,0.571,0.0,0.718,0.717,country
+Kacey Musgraves,Christmas Makes Me Cry - From The Kacey Musgraves Christmas Show,0.506,0.21,0.0569,0.808,0.0,0.75,0.414,country
+Kacey Musgraves,Christmas Makes Me Cry - From The Kacey Musgraves Christmas Show,0.506,0.21,0.0569,0.808,0.0,0.75,0.414,country
+Kacey Musgraves;Willie Nelson,A Willie Nice Christmas,0.622,0.636,0.0352,0.775,0.000161,0.136,0.759,country
+Kacey Musgraves,Christmas Makes Me Cry - From The Kacey Musgraves Christmas Show,0.506,0.21,0.0569,0.808,0.0,0.75,0.414,country
+Kacey Musgraves;Camila Cabello,Rockin' Around The Christmas Tree - From The Kacey Musgraves Christmas Show,0.745,0.598,0.0975,0.129,0.0,0.678,0.789,country
+Josh Turner,Your Man,0.744,0.637,0.0241,0.337,0.000222,0.0696,0.785,country
+Lady A,Need You Now,0.581,0.717,0.0318,0.0298,0.000186,0.243,0.316,country
+Shania Twain,You're Still The One,0.585,0.494,0.0353,0.363,0.0,0.0886,0.634,country
+Kane Brown;Swae Lee;Khalid,Be Like That - feat. Swae Lee & Khalid,0.727,0.626,0.0726,0.0469,2.58e-05,0.126,0.322,country
+Dan + Shay,Glad You Exist,0.748,0.551,0.0349,0.235,0.0,0.119,0.66,country
+Kane Brown;blackbear,Memory,0.434,0.889,0.0509,0.395,0.0,0.273,0.845,country
+Restless Road,Growing Old With You,0.478,0.516,0.0267,0.403,0.0,0.0823,0.376,country
+Brett Young,In Case You Didn't Know,0.607,0.536,0.0305,0.386,0.0,0.102,0.434,country
+Brett Young,Mercy,0.638,0.367,0.0266,0.84,0.0,0.0999,0.219,country
+Kacey Musgraves,justified,0.669,0.552,0.0587,0.807,0.000874,0.321,0.488,country
+Rascal Flatts;Natasha Bedingfield,Easy - Single Edit,0.531,0.599,0.0321,0.123,0.0,0.103,0.464,country
+Brett Young,Silver Bells,0.509,0.478,0.0561,0.606,0.0,0.102,0.469,country
+Parker McCollum,Handle On You,0.588,0.931,0.0318,0.00411,0.0,0.345,0.625,country
+Lynyrd Skynyrd,Sweet Home Alabama,0.614,0.724,0.0247,0.217,0.000256,0.146,0.902,country
+Riley Green,I Let A Damn Good Woman Leave,0.526,0.583,0.0268,0.0395,3.61e-06,0.0644,0.381,country
+Brett Young,You Ain't Here To Kiss Me,0.411,0.662,0.0513,0.0924,0.0,0.122,0.435,country
+Lady A;Little Big Town,The Thing That Wrecks You,0.474,0.474,0.0265,0.347,2.75e-05,0.104,0.131,country
+Brett Young,Hallelujah,0.445,0.401,0.0294,0.63,2.36e-06,0.0958,0.206,country
+Rascal Flatts,Joy To The World,0.417,0.88,0.0521,0.167,0.0,0.0755,0.579,country
+Lady A,Christmas Through Your Eyes,0.584,0.579,0.024,0.428,3.66e-05,0.302,0.256,country
+Kacey Musgraves;Leon Bridges,Present Without A Bow,0.693,0.492,0.0378,0.559,3.66e-06,0.0972,0.595,country
+Lynyrd Skynyrd,Sweet Home Alabama,0.614,0.724,0.0247,0.217,0.000256,0.146,0.902,country
+Lynyrd Skynyrd,Simple Life,0.549,0.891,0.0351,0.0141,0.00323,0.0661,0.508,country
+Kacey Musgraves;Leon Bridges,Present Without A Bow,0.693,0.492,0.0378,0.559,3.66e-06,0.0972,0.595,country
+Darius Rucker,"You're A Mean One, Mr. Grinch",0.605,0.521,0.0403,0.264,0.0,0.102,0.765,country
+Lady A,A Holly Jolly Christmas,0.626,0.52,0.0284,0.392,0.0,0.0447,0.746,country
+Little Big Town,Have Yourself A Merry Little Christmas,0.376,0.179,0.0369,0.893,0.0,0.111,0.206,country
+Little Big Town,Have Yourself A Merry Little Christmas,0.401,0.178,0.0372,0.897,0.0,0.107,0.221,country
+Lady A,A Holly Jolly Christmas,0.626,0.52,0.0284,0.392,0.0,0.0447,0.746,country
+Little Big Town,Boondocks,0.406,0.78,0.0324,0.21,0.0,0.474,0.687,country
+Lynyrd Skynyrd,Simple Life,0.549,0.891,0.0351,0.0141,0.00323,0.0661,0.508,country
+Riley Green,Jesus And Wranglers,0.579,0.754,0.0261,0.00805,0.0,0.0803,0.734,country
+Lauren Alaina,O Holy Night,0.287,0.498,0.029,0.717,2.29e-06,0.072,0.141,country
+Darius Rucker,Wagon Wheel,0.535,0.661,0.0304,0.46,0.0,0.142,0.596,country
+Little Big Town,Have Yourself A Merry Little Christmas,0.401,0.178,0.0372,0.897,0.0,0.107,0.221,country
+Kenny Rogers,I'll Be Home for Christmas,0.437,0.229,0.0296,0.729,9.06e-05,0.129,0.127,country
+Little Big Town,Day Drinking,0.591,0.959,0.057,0.103,0.0,0.779,0.86,country
+Kenny Rogers,I'll Be Home for Christmas,0.437,0.229,0.0296,0.729,9.06e-05,0.129,0.127,country
+Lady A,Champagne Night - From Songland,0.523,0.927,0.0489,0.0272,5.98e-06,0.168,0.939,country
+Darius Rucker,Wagon Wheel,0.535,0.661,0.0304,0.46,0.0,0.142,0.596,country
+Lynyrd Skynyrd,Sweet Home Alabama,0.614,0.724,0.0247,0.217,0.000256,0.146,0.902,country
+Lynyrd Skynyrd,Sweet Home Alabama,0.614,0.724,0.0247,0.217,0.000256,0.146,0.902,country
+Toby Keith,A Little Less Talk And A Lot More Action,0.738,0.869,0.0401,0.123,0.0,0.277,0.92,country
+Little Big Town,Go Tell It On The Mountain,0.538,0.881,0.0824,0.132,0.0,0.222,0.392,country
+Kenny Rogers;Kim Carnes,Don't Fall In Love With A Dreamer,0.528,0.391,0.0253,0.0333,0.0,0.115,0.201,country
+Lynyrd Skynyrd,Sweet Home Alabama,0.614,0.724,0.0247,0.217,0.000256,0.146,0.902,country
+Riley Green,Georgia Time,0.594,0.621,0.0272,0.041,0.0,0.117,0.671,country
+Kenny Rogers,I'll Be Home for Christmas,0.437,0.229,0.0296,0.729,9.06e-05,0.129,0.127,country
+Lauren Alaina,Like My Mother Does - American Idol Performance,0.473,0.654,0.0291,0.0118,0.0,0.121,0.174,country
+Toby Keith,"Courtesy Of The Red, White And Blue (The Angry American)",0.426,0.674,0.0452,0.48,1.32e-06,0.0784,0.378,country
+Zach Bryan,Something in the Orange,0.369,0.192,0.04,0.555,8.35e-06,0.0954,0.148,country
+Brad Paisley;Alison Krauss,Whiskey Lullaby (feat. Alison Krauss),0.587,0.35,0.0318,0.74,0.0,0.156,0.17,country
+Josh Turner;Chris Janson,Country State Of Mind,0.594,0.833,0.0337,0.0119,0.0,0.315,0.592,country
+Gabby Barrett,Pick Me Up,0.472,0.701,0.0369,0.0387,0.0,0.107,0.515,country
+Gabby Barrett,Pick Me Up,0.472,0.701,0.0369,0.0387,0.0,0.107,0.515,country
+Billy Ray Cyrus,Some Gave All,0.633,0.442,0.0296,0.036,7.57e-06,0.0672,0.241,country
+Gabby Barrett,The Good Ones,0.519,0.552,0.0259,0.18,0.0,0.149,0.331,country
+Gabby Barrett;Charlie Puth,I Hope,0.563,0.576,0.0401,0.171,0.0,0.158,0.412,country
+Gabby Barrett,Pick Me Up,0.472,0.701,0.0369,0.0387,0.0,0.107,0.515,country
+Billy Ray Cyrus,Achy Breaky Heart,0.768,0.753,0.0289,0.0541,0.0,0.0893,0.964,country
+Gabby Barrett,Pick Me Up,0.472,0.701,0.0369,0.0387,0.0,0.107,0.515,country
+Gabby Barrett,Pick Me Up,0.472,0.701,0.0369,0.0387,0.0,0.107,0.515,country
+Josh Turner,Lay Low,0.634,0.679,0.0282,0.0813,0.000119,0.116,0.378,country
+Gabby Barrett,The First Noel,0.458,0.351,0.0244,0.696,0.0,0.143,0.102,country
+Gabby Barrett,The Good Ones,0.519,0.552,0.0259,0.18,0.0,0.149,0.331,country
+Gabby Barrett,The First Noel,0.458,0.351,0.0244,0.696,0.0,0.143,0.102,country
+Gabby Barrett,The First Noel,0.458,0.351,0.0244,0.696,0.0,0.143,0.102,country
+Gabby Barrett,The Good Ones,0.519,0.552,0.0259,0.18,0.0,0.149,0.331,country
+Carly Pearce,Every Little Thing,0.639,0.427,0.0368,0.434,1.14e-05,0.0903,0.322,country
+Gabby Barrett,The Good Ones,0.519,0.552,0.0259,0.18,0.0,0.149,0.331,country
+Gabby Barrett,Pick Me Up,0.472,0.701,0.0369,0.0387,0.0,0.107,0.515,country
+Josh Turner,Go Tell It On The Mountain,0.508,0.485,0.0325,0.835,0.0,0.126,0.808,country
+Gabby Barrett,The First Noel,0.458,0.351,0.0244,0.696,0.0,0.143,0.102,country
+Justin Moore,On The Rocks,0.524,0.586,0.0273,0.375,0.0,0.11,0.416,country
+Gabby Barrett,The Good Ones,0.519,0.552,0.0259,0.18,0.0,0.149,0.331,country
+Maddie & Tae,Holly Jolly Christmas,0.699,0.487,0.0326,0.717,5.69e-06,0.0986,0.665,country
+Carly Pearce,Day One,0.674,0.603,0.0452,0.267,0.0,0.108,0.524,country
+Josh Turner,Soldier's Gift,0.598,0.326,0.0308,0.837,0.107,0.099,0.182,country
+Gabby Barrett,The Good Ones,0.519,0.552,0.0259,0.18,0.0,0.149,0.331,country
+Gabby Barrett,Pick Me Up,0.472,0.701,0.0369,0.0387,0.0,0.107,0.515,country
+Gabby Barrett,Footprints on the Moon,0.506,0.749,0.0388,0.00648,2.03e-05,0.223,0.372,country
+Justin Moore,She Ain’t Mine No More,0.606,0.795,0.0284,0.0411,0.0,0.0892,0.599,country
+Gabby Barrett,Pick Me Up,0.472,0.701,0.0369,0.0387,0.0,0.107,0.515,country
+Gabby Barrett,Pick Me Up,0.472,0.701,0.0369,0.0387,0.0,0.107,0.515,country
+ZZ Top,Rough Boy,0.419,0.737,0.0364,0.204,0.00716,0.24,0.595,country
+Maddie & Tae,Woman You Got,0.515,0.896,0.0558,0.112,0.0,0.161,0.715,country
+Kenny Rogers,Christmas in America,0.524,0.228,0.0326,0.661,0.0,0.129,0.475,country
+Kenny Rogers,I'll Be Home for Christmas,0.437,0.229,0.0296,0.729,9.06e-05,0.129,0.127,country
+Maddie & Tae,Have Yourself A Merry Little Christmas,0.397,0.458,0.0293,0.339,0.00366,0.11,0.239,country
+ZZ Top,Sharp Dressed Man - 2003 Remaster,0.527,0.786,0.0362,0.000153,0.00271,0.085,0.343,country
+Kenny Rogers;Kim Carnes,Don't Fall In Love With A Dreamer,0.528,0.391,0.0253,0.0333,0.0,0.115,0.201,country
+Billy Currington,Pretty Good At Drinkin' Beer,0.769,0.678,0.0315,0.427,8.04e-06,0.0939,0.581,country
+Kenny Rogers,I'll Be Home for Christmas,0.437,0.229,0.0296,0.729,9.06e-05,0.129,0.127,country
+Maddie & Tae,Christmas (Baby Please Come Home),0.424,0.451,0.0285,0.821,1.46e-06,0.124,0.184,country
+Kenny Rogers;Kim Carnes,Don't Fall In Love With A Dreamer,0.528,0.391,0.0253,0.0333,0.0,0.115,0.201,country
+Kenny Rogers,Kentucky Homemade Christmas,0.563,0.709,0.0272,0.0936,0.0,0.066,0.497,country
+Billy Currington,People Are Crazy,0.657,0.714,0.0265,0.23,0.000744,0.127,0.361,country
+Kenny Rogers,Christmas in America,0.524,0.228,0.0326,0.661,0.0,0.129,0.475,country
+Kenny Rogers;Kim Carnes,Don't Fall In Love With A Dreamer,0.528,0.391,0.0253,0.0333,0.0,0.115,0.201,country
+Travis Tritt,Santa Looked a Lot Like Daddy,0.622,0.778,0.0361,0.234,0.0236,0.0978,0.975,country
+Kelsea Ballerini;LANY,I Quit Drinking,0.607,0.418,0.0363,0.394,0.0,0.182,0.386,country
+Maren Morris;Hozier,The Bones - with Hozier,0.561,0.597,0.0405,0.286,0.0,0.0979,0.355,country
+Tyler Hubbard,5 Foot 9,0.602,0.796,0.0465,0.146,0.0,0.125,0.53,country
+Faith Hill,Like We Never Loved at All,0.494,0.467,0.0286,0.0822,0.0,0.111,0.292,country
+Tyler Hubbard,35’s,0.535,0.79,0.0553,0.00358,0.0,0.257,0.402,country
+Brett Eldredge,Hideaway,0.69,0.373,0.0286,0.618,0.0,0.128,0.473,country
+Brett Eldredge,Songs About You,0.649,0.558,0.0253,0.147,0.0,0.172,0.635,country
+Brett Eldredge,Holy Water,0.519,0.363,0.0302,0.317,1.17e-06,0.108,0.211,country
+Brett Eldredge,Hideaway,0.69,0.373,0.0286,0.618,0.0,0.128,0.473,country
+Brett Eldredge,Wanna Be That Song,0.518,0.686,0.0313,0.114,0.0,0.114,0.337,country
+Brett Eldredge,Songs About You,0.649,0.558,0.0253,0.147,0.0,0.172,0.635,country
+Brett Eldredge,Holy Water,0.519,0.363,0.0302,0.317,1.17e-06,0.108,0.211,country
+Brett Eldredge;Meghan Trainor,"Baby, It's Cold Outside",0.609,0.575,0.0387,0.723,0.0,0.176,0.662,country
+Faith Hill,This Kiss,0.47,0.779,0.0424,0.161,0.0,0.142,0.749,country
+Brett Eldredge;Meghan Trainor,"Baby, It's Cold Outside",0.609,0.575,0.0387,0.723,0.0,0.176,0.662,country
+Brett Eldredge,Hideaway,0.69,0.373,0.0286,0.618,0.0,0.128,0.473,country
+Midland;Jon Pardi,Longneck Way To Go,0.485,0.883,0.0403,0.00177,6.38e-06,0.37,0.604,country
+Brett Eldredge,Holy Water,0.519,0.363,0.0302,0.317,1.17e-06,0.108,0.211,country
+Brett Eldredge,Gabrielle,0.707,0.722,0.0284,0.0485,0.0,0.122,0.431,country
+Faith Hill,"Where Are You Christmas - From ""Dr. Seuss' How The Grinch Stole Christmas"" Soundtrack",0.373,0.333,0.0303,0.59,0.0,0.121,0.0815,country
+Brett Eldredge,Songs About You,0.649,0.558,0.0253,0.147,0.0,0.172,0.635,country
+Faith Hill,"Where Are You Christmas - From ""Dr. Seuss' How The Grinch Stole Christmas"" Soundtrack",0.373,0.333,0.0303,0.59,0.0,0.121,0.0815,country
+Brett Eldredge,Hideaway,0.69,0.373,0.0286,0.618,0.0,0.128,0.473,country
+Upchurch,Ghost,0.788,0.572,0.0606,0.705,0.000777,0.123,0.427,country
+Brett Eldredge,Hideaway,0.69,0.373,0.0286,0.618,0.0,0.128,0.473,country
+Faith Hill,Holly Jolly Christmas,0.606,0.372,0.0718,0.42,0.0,0.0432,0.662,country
+Faith Hill;Tim McGraw,Let's Make Love,0.35,0.459,0.0274,0.339,0.0,0.111,0.153,country
+Faith Hill,The Lucky One,0.674,0.866,0.0328,0.0739,0.0,0.377,0.684,country
+Brett Eldredge,A Holly Jolly Christmas,0.681,0.474,0.0423,0.621,1.24e-06,0.137,0.7,country
+Brett Eldredge,Time Well Spent,0.53,0.888,0.0817,0.0081,0.0,0.297,0.585,country
+Brett Eldredge,Bring You Back,0.571,0.711,0.0423,0.307,0.0,0.203,0.571,country
+Randy Travis,Meet Me under the Mistletoe,0.626,0.422,0.0492,0.246,0.0,0.342,0.661,country
+Faith Hill,Holly Jolly Christmas,0.606,0.372,0.0718,0.42,0.0,0.0432,0.662,country
+Midland,East Bound And Down,0.62,0.974,0.0717,0.041,1.61e-05,0.339,0.711,country
+Steely Dan,Reelin' In The Years,0.52,0.758,0.0363,0.115,0.0,0.109,0.706,country
+Faith Hill,"Where Are You Christmas - From ""Dr. Seuss' How The Grinch Stole Christmas"" Soundtrack",0.373,0.333,0.0303,0.59,0.0,0.121,0.0815,country
+Faith Hill,"Where Are You Christmas - From ""Dr. Seuss' How The Grinch Stole Christmas"" Soundtrack",0.373,0.333,0.0303,0.59,0.0,0.121,0.0815,country
+Randy Travis,Meet Me under the Mistletoe,0.626,0.422,0.0492,0.246,0.0,0.342,0.661,country
+Faith Hill,"Where Are You Christmas - From ""Dr. Seuss' How The Grinch Stole Christmas"" Soundtrack",0.373,0.333,0.0303,0.59,0.0,0.121,0.0815,country
+Faith Hill,"Where Are You Christmas - From ""Dr. Seuss' How The Grinch Stole Christmas"" Soundtrack",0.373,0.333,0.0303,0.59,0.0,0.121,0.0815,country
+Brett Eldredge,Drunk on Your Love,0.443,0.831,0.0615,0.414,0.0,0.204,0.586,country
+Randy Travis,"Forever and Ever, Amen (All the Number Ones Version)",0.709,0.635,0.0246,0.229,3.12e-05,0.194,0.741,country
+Brett Eldredge;Meghan Trainor,"Baby, It's Cold Outside",0.609,0.575,0.0387,0.723,0.0,0.176,0.662,country
+Steely Dan,Reelin' In The Years,0.52,0.758,0.0363,0.115,0.0,0.109,0.706,country
+Travis Tritt,Take It Easy,0.633,0.876,0.0276,0.0116,0.0,0.0537,0.738,country
+Randy Travis,Meet Me under the Mistletoe,0.626,0.422,0.0492,0.246,0.0,0.342,0.661,country
+Travis Tritt,Santa Looked a Lot Like Daddy,0.622,0.778,0.0361,0.234,0.0236,0.0978,0.975,country
+Travis Tritt,Santa Looked a Lot Like Daddy,0.622,0.778,0.0361,0.234,0.0236,0.0978,0.975,country
+Travis Tritt,Worth Every Mile,0.441,0.298,0.0276,0.208,0.095,0.0983,0.169,country
+Travis Tritt,Santa Looked a Lot Like Daddy,0.622,0.778,0.0361,0.234,0.0236,0.0978,0.975,country
+Maren Morris,The Bones,0.612,0.57,0.0347,0.278,0.0,0.0963,0.334,country
+Dan + Shay,Speechless,0.616,0.438,0.0298,0.356,0.0,0.24,0.386,country
+Rascal Flatts,Life is a Highway,0.562,0.934,0.0607,0.00211,0.0,0.199,0.558,country
+Eric Ethridge,If You Met Me First,0.31,0.552,0.0303,0.344,0.0,0.0689,0.244,country
+Lynyrd Skynyrd,Sweet Home Alabama,0.596,0.605,0.0255,0.181,0.000331,0.0863,0.886,country
+Dan + Shay;Justin Bieber,"10,000 Hours (with Justin Bieber) - Piano",0.426,0.366,0.0312,0.765,0.0,0.117,0.386,country
+Creedence Clearwater Revival,Fortunate Son,0.64,0.663,0.0374,0.201,0.00806,0.152,0.663,country
+BRELAND,For What It’s Worth,0.661,0.749,0.0371,0.0579,0.0,0.0898,0.682,country
+BRELAND,Growing Pains,0.606,0.735,0.0349,0.0738,0.0,0.243,0.604,country
+BRELAND;Keith Urban,Throw It Back,0.79,0.73,0.0926,0.0586,0.0,0.0878,0.513,country
+Midland,Burn Out,0.672,0.724,0.0244,0.292,0.0,0.231,0.801,country
+Johnny Cash,Hurt,0.534,0.392,0.0267,0.649,0.000227,0.0948,0.163,country
+BRELAND,Natural,0.666,0.871,0.0499,0.00294,0.0,0.319,0.706,country
+Ingrid Andress,Feel Like This,0.536,0.605,0.0338,0.141,0.0,0.0614,0.341,country
+BRELAND,Natural,0.666,0.871,0.0499,0.00294,0.0,0.319,0.706,country
+Ingrid Andress,Feel Like This,0.536,0.605,0.0338,0.141,0.0,0.0614,0.341,country
+Ingrid Andress;Sam Hunt,Wishful Drinking,0.678,0.528,0.0551,0.289,0.0,0.0734,0.614,country
+Ingrid Andress;Sam Hunt,Wishful Drinking,0.678,0.528,0.0551,0.289,0.0,0.0734,0.614,country
+BRELAND;Lady A,Told You I Could Drink,0.542,0.68,0.0285,0.175,0.0,0.093,0.878,country
+Ingrid Andress,Seeing Someone Else,0.443,0.497,0.0315,0.0738,9.81e-05,0.128,0.294,country
+BRELAND;Lady A,Told You I Could Drink,0.542,0.68,0.0285,0.175,0.0,0.093,0.878,country
+Ingrid Andress;Sam Hunt,Wishful Drinking,0.678,0.528,0.0551,0.289,0.0,0.0734,0.614,country
+Ingrid Andress;Sam Hunt,Wishful Drinking,0.678,0.528,0.0551,0.289,0.0,0.0734,0.614,country
+BRELAND;Keith Urban,Throw It Back,0.79,0.73,0.0926,0.0586,0.0,0.0878,0.513,country
+BRELAND;Lady A,Told You I Could Drink,0.542,0.68,0.0285,0.175,0.0,0.093,0.878,country
+BRELAND,Natural,0.666,0.871,0.0499,0.00294,0.0,0.319,0.706,country
+Steely Dan,Do It Again,0.695,0.583,0.0303,0.157,7.61e-05,0.0576,0.96,country
+BRELAND;Lady A,Told You I Could Drink,0.542,0.68,0.0285,0.175,0.0,0.093,0.878,country
+Brett Eldredge,Christmas Time Is Here,0.322,0.301,0.0325,0.921,0.000799,0.168,0.234,country
+Faith Hill,Little Drummer Boy,0.617,0.0774,0.049,0.948,1.98e-06,0.109,0.251,country
+Trace Adkins,Honky Tonk Badonkadonk,0.643,0.919,0.0551,0.338,0.0,0.0555,0.823,country
+Ingrid Andress;Sam Hunt,Wishful Drinking,0.678,0.528,0.0551,0.289,0.0,0.0734,0.614,country
+Brett Eldredge,Christmas Time Is Here,0.322,0.301,0.0325,0.921,0.000799,0.168,0.234,country
+Brett Eldredge,Christmas Time Is Here,0.322,0.301,0.0325,0.921,0.000799,0.168,0.234,country
+Brett Eldredge,Christmas Time Is Here,0.322,0.301,0.0325,0.921,0.000799,0.168,0.234,country
+BRELAND;Lady A,Told You I Could Drink,0.542,0.68,0.0285,0.175,0.0,0.093,0.878,country
+BRELAND;Lady A,Told You I Could Drink,0.542,0.68,0.0285,0.175,0.0,0.093,0.878,country
+Ingrid Andress,More Hearts Than Mine,0.375,0.428,0.029,0.109,0.0,0.105,0.361,country
+Brett Eldredge,Christmas Time Is Here,0.322,0.301,0.0325,0.921,0.000799,0.168,0.234,country
+BRELAND;Lady A,Told You I Could Drink,0.542,0.68,0.0285,0.175,0.0,0.093,0.878,country
+Kip Moore,Hey Pretty Girl,0.431,0.373,0.0277,0.16,1.41e-05,0.259,0.0884,country
+Ingrid Andress,Seeing Someone Else,0.443,0.497,0.0315,0.0738,9.81e-05,0.128,0.294,country
+Kip Moore,Red White Blue Jean American Dream,0.561,0.765,0.0322,0.00319,6.28e-05,0.261,0.622,country
+Reba McEntire;The Isaacs,What Child Is This?,0.528,0.198,0.027,0.911,0.000227,0.099,0.209,country
+Reba McEntire,Hard Candy Christmas,0.647,0.275,0.0286,0.89,0.000786,0.112,0.323,country
+Upchurch,Rattlin Chains,0.244,0.754,0.0646,0.0726,0.0,0.236,0.45,country
+Steely Dan,Midnite Cruiser,0.64,0.644,0.0283,0.273,0.0,0.0449,0.722,country
+Koe Wetzel,Powerball,0.455,0.512,0.0381,0.00846,0.0,0.165,0.0945,country
+America,A Horse with No Name,0.653,0.507,0.0534,0.687,0.0147,0.155,0.831,country
+America,A Horse with No Name,0.67,0.713,0.0491,0.643,0.000446,0.125,0.848,country
+Kane Brown,Grand,0.583,0.856,0.0445,0.00484,0.0,0.224,0.48,country
+Don Williams,You're My Best Friend,0.554,0.211,0.029,0.923,0.000438,0.117,0.331,country
+Bob Dylan,Knockin' On Heaven's Door,0.513,0.396,0.0299,0.251,0.177,0.11,0.229,country
+Rascal Flatts,Life is a Highway,0.582,0.952,0.0731,0.00324,0.0,0.223,0.655,country
+Ingrid Andress,Blue,0.488,0.175,0.0491,0.952,1.01e-06,0.105,0.201,country
+Ingrid Andress,Blue,0.488,0.175,0.0491,0.952,1.01e-06,0.105,0.201,country
+Kidd G,People Talk,0.616,0.805,0.0391,0.00776,0.0,0.37,0.28,country
+Ingrid Andress,Blue,0.488,0.175,0.0491,0.952,1.01e-06,0.105,0.201,country
+Ingrid Andress,Blue,0.488,0.175,0.0491,0.952,1.01e-06,0.105,0.201,country
+Ingrid Andress,Blue,0.488,0.175,0.0491,0.952,1.01e-06,0.105,0.201,country
+Conner Smith,Didn't Go Too Far,0.553,0.839,0.0375,0.356,0.0,0.0966,0.367,country
+Ingrid Andress,Blue,0.488,0.175,0.0491,0.952,1.01e-06,0.105,0.201,country
+Vince Gill;Jenny Gill,Let There Be Peace On Earth,0.453,0.139,0.0302,0.806,3.11e-06,0.121,0.17,country
+Vince Gill;Jenny Gill,Let There Be Peace On Earth,0.453,0.139,0.0302,0.806,3.11e-06,0.121,0.17,country
+Conner Smith,I Hate Alabama,0.289,0.841,0.0497,0.205,0.0,0.37,0.392,country
+Ian Munsick,Long Haul,0.505,0.627,0.0273,0.423,7.4e-05,0.0755,0.296,country
+Ian Munsick,Long Haul,0.505,0.627,0.0273,0.423,7.4e-05,0.0755,0.296,country
+Vince Gill;Jenny Gill,Let There Be Peace On Earth,0.453,0.139,0.0302,0.806,3.11e-06,0.121,0.17,country
+Eli Young Band,Break Up In A Bar,0.602,0.831,0.0365,0.0164,0.000736,0.184,0.722,country
+Eli Young Band,Drunk Last Night,0.525,0.858,0.0355,0.0466,0.0,0.102,0.57,country
+Ian Munsick,Long Haul,0.505,0.627,0.0273,0.423,7.4e-05,0.0755,0.296,country
+Steve Miller Band,Abracadabra,0.791,0.534,0.0355,0.0749,1.99e-06,0.156,0.963,country
+Vince Gill;Jenny Gill,Let There Be Peace On Earth,0.453,0.139,0.0302,0.806,3.11e-06,0.121,0.17,country
+Ian Munsick,Long Haul,0.505,0.627,0.0273,0.423,7.4e-05,0.0755,0.296,country
+Ian Munsick;Cody Johnson,Long Live Cowgirls,0.233,0.432,0.0321,0.291,0.0,0.279,0.286,country
+Ingrid Andress,Christmas Always Finds Me,0.386,0.124,0.0306,0.928,0.0,0.116,0.46,country
+Steve Miller Band,The Joker,0.596,0.448,0.0396,0.365,5.22e-06,0.207,0.796,country
+Ingrid Andress,Christmas Always Finds Me,0.386,0.124,0.0306,0.928,0.0,0.116,0.46,country
+Vince Gill,It's The Most Wonderful Time Of The Year,0.519,0.397,0.0293,0.852,3.95e-05,0.217,0.557,country
+Ingrid Andress,Christmas Always Finds Me,0.386,0.124,0.0306,0.928,0.0,0.116,0.46,country
+Scotty McCreery,Christmas In Heaven,0.49,0.515,0.0236,0.623,1.26e-05,0.12,0.256,country
+Ingrid Andress,Christmas Always Finds Me,0.386,0.124,0.0306,0.928,0.0,0.116,0.46,country
+Ingrid Andress,Christmas Always Finds Me,0.386,0.124,0.0306,0.928,0.0,0.116,0.46,country
+Ingrid Andress,Christmas Always Finds Me,0.386,0.124,0.0306,0.928,0.0,0.116,0.46,country
+Ian Munsick,More than Me,0.495,0.746,0.0266,0.49,0.0,0.176,0.463,country
+Steve Miller Band,Abracadabra - Remastered 2017,0.753,0.788,0.0383,0.126,1.07e-06,0.141,0.964,country
+Ian Munsick,Long Haul,0.505,0.627,0.0273,0.423,7.4e-05,0.0755,0.296,country
+Ingrid Andress,Christmas Always Finds Me,0.386,0.124,0.0306,0.928,0.0,0.116,0.46,country
+The Doobie Brothers,What a Fool Believes,0.646,0.625,0.0336,0.275,0.0,0.086,0.977,country
+Ian Munsick,Long Haul,0.505,0.627,0.0273,0.423,7.4e-05,0.0755,0.296,country
+Ian Munsick,More than Me,0.495,0.746,0.0266,0.49,0.0,0.176,0.463,country
+Ingrid Andress,Christmas Always Finds Me,0.386,0.124,0.0306,0.928,0.0,0.116,0.46,country
+Ian Munsick;Cody Johnson,Long Live Cowgirls,0.233,0.432,0.0321,0.291,0.0,0.279,0.286,country
+Ian Munsick,More than Me,0.495,0.746,0.0266,0.49,0.0,0.176,0.463,country
+Steve Miller Band,Abracadabra,0.791,0.534,0.0355,0.0749,1.99e-06,0.156,0.963,country
+Eli Young Band,When It Rains,0.604,0.666,0.0309,0.172,4.48e-06,0.236,0.24,country
+Ian Munsick;Ryan Charles,Cowboy Killer,0.784,0.723,0.04,0.0163,0.0,0.16,0.739,country
+Ian Munsick;Cody Johnson,Long Live Cowgirls,0.233,0.432,0.0321,0.291,0.0,0.279,0.286,country
+Steve Miller Band,Abracadabra,0.791,0.534,0.0355,0.0749,1.99e-06,0.156,0.963,country
+Steve Miller Band,Abracadabra - Remastered 2017,0.753,0.788,0.0383,0.126,1.07e-06,0.141,0.964,country
+Thomas Rhett;Katy Perry,Where We Started,0.6,0.533,0.0256,0.272,0.0,0.0927,0.626,country
+Chris Stapleton,Tennessee Whiskey,0.392,0.37,0.0298,0.205,0.0096,0.0821,0.512,country
+Bob Dylan,Blowin' in the Wind,0.38,0.0993,0.0509,0.914,2.32e-05,0.0605,0.44,country
+John Denver,Annie's Song,0.304,0.305,0.0298,0.871,0.00368,0.367,0.464,country
+The Band Perry,If I Die Young,0.606,0.497,0.0277,0.348,0.0,0.275,0.362,country
+Dan + Shay,Glad You Exist,0.741,0.499,0.0356,0.23,0.0,0.125,0.692,country
+Danielle Bradbery,Look At The Mess I'm In,0.333,0.478,0.031,0.367,2.28e-06,0.115,0.291,country
+Hunter Hayes,Wanted,0.414,0.475,0.0299,0.268,0.0,0.0816,0.3,country
+Conner Smith,I Hate Alabama,0.203,0.818,0.0621,0.188,0.0,0.343,0.392,country
+Upchurch,Hank Hill,0.786,0.798,0.268,0.0579,0.0,0.247,0.714,country
+Hunter Hayes,Tattoo - UK Pop Mix,0.443,0.9,0.0589,0.0102,1.36e-06,0.16,0.72,country
+Koe Wetzel,Gravedigger,0.383,0.801,0.0494,0.0404,0.0,0.285,0.506,country
+Hunter Hayes,Wanted,0.414,0.475,0.0299,0.268,0.0,0.0816,0.3,country
+Chris Janson,Keys to the Country,0.569,0.852,0.0373,0.0258,0.0,0.355,0.654,country
+Chris Janson,Keys to the Country,0.569,0.852,0.0373,0.0258,0.0,0.355,0.654,country
+Hunter Hayes,This Christmas,0.438,0.649,0.068,0.179,1.46e-06,0.0676,0.745,country
+Trisha Yearwood,Away In A Manger,0.309,0.135,0.0313,0.933,1.16e-05,0.355,0.34,country
+Hunter Hayes,This Christmas,0.438,0.649,0.068,0.179,1.46e-06,0.0676,0.745,country
+Danielle Bradbery,Stop Draggin' Your Boots,0.463,0.76,0.11,0.0379,0.0,0.115,0.65,country
+Hunter Hayes,Storm Warning,0.483,0.844,0.0833,0.0331,0.0,0.133,0.772,country
+Hunter Hayes,This Christmas,0.438,0.649,0.068,0.179,1.46e-06,0.0676,0.745,country
+Chris Janson,Holdin' Her,0.353,0.574,0.0331,0.426,2.27e-05,0.0939,0.386,country
+Chris Janson;Eric Church,"You, Me & the River",0.332,0.452,0.0319,0.505,3.27e-06,0.133,0.333,country
+Loretta Lynn,"I Love You, I Love You",0.565,0.234,0.0286,0.723,0.000354,0.0854,0.484,country
+Chris Janson;Eric Church,"You, Me & the River",0.332,0.452,0.0319,0.505,3.27e-06,0.133,0.333,country
+Loretta Lynn,Country Christmas,0.783,0.386,0.0395,0.795,4.92e-05,0.129,0.834,country
+Trisha Yearwood,XXX's And OOO's (An American Girl),0.704,0.735,0.031,0.18,0.0,0.172,0.766,country
+Chris Janson,It Is Christmas,0.289,0.424,0.0329,0.826,3.02e-06,0.104,0.188,country
+Hunter Hayes;The Shadowboxers,You Should Be Loved,0.609,0.66,0.0343,0.123,0.0,0.134,0.571,country
+Chris Janson,Fix a Drink,0.561,0.887,0.0889,0.0297,0.0,0.352,0.792,country
+Loretta Lynn,"I Love You, I Love You",0.565,0.234,0.0286,0.723,0.000354,0.0854,0.484,country
+Chris Janson,It Is Christmas,0.289,0.424,0.0329,0.826,3.02e-06,0.104,0.188,country
+Chris Janson,Holdin' Her,0.353,0.574,0.0331,0.426,2.27e-05,0.0939,0.386,country
+Sturgill Simpson,Brace for Impact - Live a Little,0.616,0.706,0.0233,0.00975,0.309,0.111,0.655,country
+Loretta Lynn,"I Love You, I Love You",0.565,0.234,0.0286,0.723,0.000354,0.0854,0.484,country
+Chris Janson,Holdin' Her,0.353,0.574,0.0331,0.426,2.27e-05,0.0939,0.386,country
+John Michael Montgomery,Weekend Superstar,0.587,0.876,0.0684,0.245,0.0,0.331,0.891,country
+Chris Janson;Eric Church,"You, Me & the River",0.332,0.452,0.0319,0.505,3.27e-06,0.133,0.333,country
+Chris Janson;Eric Church,"You, Me & the River",0.332,0.452,0.0319,0.505,3.27e-06,0.133,0.333,country
+John Michael Montgomery,The Christmas Song (Chestnuts Roasting on an Open Fire),0.308,0.394,0.0305,0.483,0.000866,0.0853,0.251,country
+Chris Janson,It Is Christmas,0.289,0.424,0.0329,0.826,3.02e-06,0.104,0.188,country
+Chris Janson,Holdin' Her,0.353,0.574,0.0331,0.426,2.27e-05,0.0939,0.386,country
+Chris Janson,Buy Me a Boat,0.574,0.742,0.0513,0.309,0.0,0.11,0.69,country
+Chris Janson,Who's Your Farmer,0.618,0.861,0.0427,0.0108,0.0,0.15,0.798,country
+Sturgill Simpson,In Bloom,0.433,0.366,0.0311,0.0682,0.248,0.123,0.267,country
+Sturgill Simpson,All Around You,0.312,0.562,0.0298,0.123,0.165,0.136,0.513,country
+Sturgill Simpson,All Around You,0.312,0.562,0.0298,0.123,0.165,0.136,0.513,country
+Sturgill Simpson,Brace for Impact - Live a Little,0.616,0.706,0.0233,0.00975,0.309,0.111,0.655,country
+Sturgill Simpson,In Bloom,0.433,0.366,0.0311,0.0682,0.248,0.123,0.267,country
+Gary Allan,Please Come Home For Christmas,0.625,0.808,0.0364,0.205,1.92e-05,0.421,0.583,country
+John Denver,"Take Me Home, Country Roads",0.38,0.43,0.0288,0.546,1.71e-05,0.188,0.547,country
+Kacey Musgraves,Butterflies,0.689,0.614,0.0306,0.252,1.95e-05,0.178,0.411,country
+Carrie Underwood,Before He Cheats,0.519,0.749,0.0405,0.271,0.0,0.119,0.29,country
+Spencer Crandall,My Person,0.567,0.757,0.0485,0.0936,0.0,0.13,0.754,country
+Jana Kramer,I Got the Boy,0.625,0.569,0.0271,0.26,0.0,0.127,0.361,country
+Eagles,Love Will Keep Us Alive,0.658,0.374,0.026,0.721,1.28e-05,0.112,0.367,country
+Thomas Rhett,Die A Happy Man,0.595,0.389,0.0349,0.418,1.39e-06,0.116,0.4,country
+Lynyrd Skynyrd,Free Bird,0.249,0.834,0.0577,0.0738,9.48e-05,0.0924,0.338,country
+Kenny Rogers,The Gambler,0.671,0.501,0.0594,0.342,0.0,0.194,0.86,country
+Don Williams,Some Broken Hearts Never Mend,0.622,0.466,0.0257,0.868,0.888,0.108,0.71,country
+Luke Combs,Beautiful Crazy,0.551,0.402,0.0262,0.676,0.0,0.0928,0.382,country
+Dolly Parton,Jolene,0.674,0.537,0.0363,0.566,0.0,0.131,0.809,country
+Don Williams,"Lord, I Hope This Day Is Good - Single Version",0.526,0.388,0.029,0.252,0.00137,0.114,0.702,country
+Kane Brown;Katelyn Brown,Thank God,0.738,0.455,0.0352,0.695,0.0,0.107,0.441,country
+Koe Wetzel,L.T.W.Y.H.M.,0.439,0.528,0.0262,0.398,0.0,0.0703,0.079,country
+Simon Casey,My Lord and My God,0.199,0.119,0.0381,0.99,0.269,0.0912,0.0991,country
+Devin Dawson,Christmas Time Is Here,0.431,0.195,0.0516,0.806,1.19e-06,0.0862,0.156,country
+Devin Dawson,Christmas Time Is Here,0.431,0.195,0.0516,0.806,1.19e-06,0.0862,0.156,country
+William Clark Green,Drunk Again,0.473,0.603,0.026,0.0225,9e-06,0.156,0.423,country
+Devin Dawson,Christmas Time Is Here,0.431,0.195,0.0516,0.806,1.19e-06,0.0862,0.156,country
+Devin Dawson,All on Me,0.634,0.666,0.029,0.139,0.0,0.216,0.625,country
+Uncle Kracker,Drift Away,0.584,0.66,0.0375,0.18,0.0,0.0979,0.868,country
+Flatland Cavalry,Ain't Over You Yet,0.503,0.525,0.0255,0.126,1.31e-06,0.129,0.208,country
+Devin Dawson,Range Rover,0.765,0.718,0.0473,0.415,0.0,0.0545,0.75,country
+Devin Dawson,Range Rover,0.765,0.718,0.0473,0.415,0.0,0.0545,0.75,country
+Don Henley,The Boys Of Summer,0.516,0.775,0.0412,0.396,0.00129,0.21,0.858,country
+Devin Dawson,All on Me,0.634,0.666,0.029,0.139,0.0,0.216,0.625,country
+Jon Langston,Beers Got Drank,0.55,0.883,0.0615,0.0239,0.0,0.285,0.571,country
+Uncle Kracker,No Stranger to Shame,0.627,0.845,0.25,0.0707,0.0,0.359,0.773,country
+J.J. Cale,Cocaine,0.797,0.496,0.0382,0.396,0.111,0.149,0.587,country
+Devin Dawson,I Don't Care Who Sees,0.659,0.663,0.0483,0.0169,0.0,0.0726,0.685,country
+J.J. Cale,Cocaine,0.797,0.496,0.0382,0.396,0.111,0.149,0.587,country
+Don Henley,The Boys Of Summer,0.516,0.775,0.0412,0.396,0.00129,0.21,0.858,country
+Devin Dawson,All on Me,0.634,0.666,0.029,0.139,0.0,0.216,0.625,country
+Big & Rich;Bon Jovi,Born Again,0.476,0.888,0.0534,0.0131,0.0,0.277,0.617,country
+Rotlaus,Aldri tilbake,0.611,0.867,0.0317,0.226,5.1e-05,0.152,0.669,country
+Vassendgutane,Skrekkraude Rapala,0.462,0.903,0.033,0.0684,0.0,0.341,0.784,country
+Easton Corbin,A Girl Like You,0.733,0.768,0.0354,0.0197,1.03e-06,0.0643,0.83,country
+Big & Rich,Blue Christmas,0.514,0.901,0.114,0.0915,1.47e-05,0.076,0.422,country
+Big & Rich,Blue Christmas,0.514,0.901,0.114,0.0915,1.47e-05,0.076,0.422,country
+Glen Campbell,Gentle On My Mind - Remastered 2001,0.597,0.415,0.0323,0.189,0.0,0.122,0.826,country
+Sugarland,Winter Wonderland,0.587,0.876,0.0432,0.12,0.0,0.0921,0.724,country
+Steve Earle,Jerusalem,0.445,0.776,0.0346,0.00252,0.0074,0.0981,0.403,country
+Tracy Lawrence,Excitable Boy,0.628,0.854,0.0343,0.0827,0.0232,0.153,0.922,country
+Steve Earle,Go Amanda,0.326,0.716,0.0306,0.00227,0.00171,0.123,0.648,country
+Big & Rich;Bon Jovi,Born Again,0.476,0.888,0.0534,0.0131,0.0,0.277,0.617,country
+Joe Diffie,Pickup Man,0.712,0.745,0.0389,0.408,0.0,0.346,0.843,country
+Tracy Lawrence,Just You and Me,0.585,0.34,0.0243,0.767,4.36e-06,0.254,0.26,country
+Riley Green,Hell Of A Way To Go - Live,0.44,0.472,0.0596,0.86,0.0,0.968,0.548,country
+Lasse Stefanz;N!NE,Peppelinos bar - N!NE EPA Remix,0.603,0.918,0.0446,0.00877,3.01e-06,0.0581,0.874,country
+Kane Brown,Heaven,0.677,0.556,0.0306,0.263,0.0,0.105,0.521,country
+Dolly Parton;Kenny Rogers,Islands in the Stream,0.611,0.524,0.035,0.68,0.0,0.0753,0.73,country
+Morgan Wallen,You Proof,0.731,0.85,0.0336,0.252,0.0,0.605,0.644,country
+Rascal Flatts,What Hurts The Most,0.537,0.674,0.0277,0.0088,0.0,0.265,0.33,country
+America;George Martin,A Horse with No Name,0.654,0.506,0.0535,0.686,0.0155,0.155,0.831,country
+Parmalee,Take My Name,0.559,0.66,0.0512,0.222,0.0,0.193,0.574,country
+Jordan Davis;Luke Bryan,Buy Dirt,0.586,0.559,0.05,0.639,0.0,0.0872,0.437,country
+Jake Owen,Made For You,0.581,0.441,0.0268,0.77,2.75e-05,0.111,0.337,country
+Shania Twain,Man! I Feel Like A Woman!,0.657,0.639,0.0412,0.581,0.0,0.278,0.674,country
+Kacey Musgraves,Rainbow,0.581,0.197,0.0329,0.88,0.0,0.107,0.349,country
+Gabby Barrett,The Good Ones,0.519,0.552,0.0259,0.18,0.0,0.149,0.331,country
+Lonestar,Amazed,0.561,0.543,0.0324,0.26,0.0,0.124,0.243,country
+Shania Twain,From This Moment On - Pop On-Tour Version,0.46,0.505,0.0266,0.42,0.0,0.134,0.22,country
+Don Williams,I Believe In You,0.512,0.212,0.0483,0.88,0.00573,0.115,0.51,country
+Cole Swindell,She Had Me At Heads Carolina,0.607,0.912,0.0611,0.124,0.0,0.332,0.722,country
+Walker Hayes,Fancy Like,0.647,0.765,0.06,0.111,0.0,0.315,0.855,country
+Eagles,Take It Easy - 2013 Remaster,0.575,0.67,0.0318,0.343,4.95e-06,0.129,0.74,country
+Tyler Childers,Good Thing Windin' down,0.401,0.114,0.0357,0.921,0.0,0.122,0.456,country
+Tyler Farr,C.O.U.N.T.R.Y.,0.459,0.89,0.044,0.00245,7.23e-06,0.306,0.809,country
+Simon Casey,You’ll Never Walk Alone,0.481,0.373,0.0313,0.65,0.000208,0.112,0.142,country
+Florida Georgia Line;Jason Aldean,Can’t Hide Red,0.514,0.864,0.0502,0.0256,0.0,0.103,0.471,country
+Michael Ray,Whiskey and Rain,0.653,0.623,0.0244,0.505,3.61e-06,0.279,0.718,country
+Creedence Clearwater Revival,Bad Moon Rising,0.508,0.774,0.0321,0.0586,4.87e-06,0.063,0.942,country
+Jason Aldean,Talk About Georgia,0.434,0.889,0.0649,0.0232,0.0,0.0464,0.527,country
+Michael Ray,Get to You,0.481,0.562,0.0319,0.348,0.000428,0.106,0.212,country
+Parker McCollum,Galveston Bay,0.527,0.375,0.0243,0.482,0.0,0.132,0.318,country
+Upchurch,Dukes of Hazzard,0.759,0.644,0.0379,0.000607,0.0,0.125,0.129,country
+Travis Denning,After A Few,0.619,0.855,0.0346,0.0155,0.0,0.162,0.656,country
+Michael Ray,Blank Space,0.529,0.825,0.0324,0.158,0.0131,0.385,0.227,country
+Michael Ray,Her World or Mine,0.568,0.499,0.0288,0.638,0.0,0.122,0.243,country
+Travis Denning,"Red, White And Blue",0.497,0.879,0.0583,0.0755,0.0,0.0651,0.276,country
+Michael Ray,One That Got Away,0.566,0.825,0.0416,0.00308,0.0,0.0779,0.609,country
+Koe Wetzel,I'll Be Fine,0.663,0.644,0.0375,0.0721,0.0,0.0736,0.372,country
+Michael Ray,Time Marches On (The Bootlegger Sessions),0.84,0.507,0.0304,0.29,0.0,0.241,0.703,country
+Clay Walker,Frosty the Snowman,0.586,0.473,0.0829,0.668,0.0,0.0746,0.713,country
+Big & Rich;Bon Jovi,Born Again,0.476,0.888,0.0534,0.0131,0.0,0.277,0.617,country
+Michael Ray,Holy Water,0.534,0.722,0.0339,0.0367,1.68e-06,0.11,0.224,country
+Clay Walker,Frosty the Snowman,0.586,0.473,0.0829,0.668,0.0,0.0746,0.713,country
+Michael Ray,Holy Water,0.534,0.722,0.0339,0.0367,1.68e-06,0.11,0.224,country
+Michael Ray,Livin' It Up,0.41,0.947,0.0747,0.00101,0.00477,0.26,0.502,country
+Allman Brothers Band,Trouble No More,0.556,0.567,0.0333,0.0577,0.00144,0.0907,0.856,country
+Michael Ray,Time Marches On (The Bootlegger Sessions),0.84,0.507,0.0304,0.29,0.0,0.241,0.703,country
+Big & Rich,Blue Christmas,0.514,0.901,0.114,0.0915,1.47e-05,0.076,0.422,country
+Allman Brothers Band,Midnight Rider,0.346,0.589,0.036,0.21,0.00703,0.15,0.638,country
+Michael Ray,Time Marches On (The Bootlegger Sessions),0.84,0.507,0.0304,0.29,0.0,0.241,0.703,country
+Koe Wetzel,Crying From The Bathroom,0.322,0.457,0.0321,0.292,1.51e-05,0.0639,0.0729,country
+Michael Ray,Holy Water,0.534,0.722,0.0339,0.0367,1.68e-06,0.11,0.224,country
+Michael Ray,Time Marches On (The Bootlegger Sessions),0.84,0.507,0.0304,0.29,0.0,0.241,0.703,country
+Michael Ray,Barefoot Blue Jean Night (The Next Performance),0.518,0.601,0.0428,0.00694,0.0,0.204,0.464,country
+Michael Ray,Time Marches On (The Bootlegger Sessions),0.84,0.507,0.0304,0.29,0.0,0.241,0.703,country
+Jim Croce,Time in a Bottle,0.533,0.155,0.0376,0.888,0.0,0.108,0.592,country
+Dan + Shay,Tequila,0.489,0.581,0.0281,0.0312,0.0,0.132,0.494,country
+Florida Georgia Line,H.O.L.Y.,0.523,0.666,0.0327,0.401,0.0,0.0728,0.564,country
+Gabby Barrett;Charlie Puth,I Hope (feat. Charlie Puth),0.563,0.576,0.0401,0.171,0.0,0.158,0.412,country
+Morgan Wallen,Wasted On You,0.505,0.657,0.0318,0.373,0.00107,0.126,0.252,country
+Lady A,Need You Now,0.587,0.622,0.0303,0.0927,0.000636,0.2,0.231,country
+Gabby Barrett,I Hope,0.466,0.536,0.0429,0.0951,0.0,0.114,0.377,country
+Lady A,Just A Kiss,0.593,0.639,0.0307,0.446,0.0,0.0998,0.332,country
+Boston,More Than a Feeling,0.377,0.681,0.0298,0.00088,0.0023,0.0504,0.285,country
+Music Travel Love,You Are My Sunshine,0.64,0.315,0.0328,0.655,1.63e-06,0.108,0.584,country
+Luke Combs,The Kind of Love We Make,0.608,0.745,0.0277,0.0226,6.47e-06,0.0942,0.464,country
+Eagles,"Hotel California - Live On MTV, 1994",0.55,0.49,0.0572,0.368,9.96e-05,0.917,0.609,country
+ZZ Top,La Grange - 2005 Remaster,0.545,0.64,0.224,0.00249,0.0304,0.196,0.606,country
+Luke Combs,Forever After All,0.487,0.65,0.0253,0.191,0.0,0.0933,0.456,country
+Dan + Shay,Steal My Love,0.59,0.633,0.0328,0.619,0.0,0.157,0.751,country
+Brad Paisley;Alison Krauss,Whiskey Lullaby (feat. Alison Krauss),0.52,0.333,0.0302,0.816,0.0,0.188,0.198,country
+Riley Green,North On 21,0.614,0.589,0.0351,0.472,0.0,0.109,0.351,country
+Koe Wetzel,One and Only,0.394,0.734,0.0335,0.0113,0.0,0.139,0.371,country
+Gerry Rafferty,Right Down the Line,0.783,0.322,0.0343,0.215,0.00243,0.114,0.77,country
+Casey Donahew,Stockyards,0.708,0.622,0.0409,0.0104,0.0,0.0735,0.777,country
+Glen Campbell,Christmas Is For Children,0.32,0.288,0.0291,0.363,0.00561,0.0943,0.181,country
+Rotlaus,Her,0.62,0.724,0.0262,0.104,0.000354,0.26,0.279,country
+Riley Green,Jesus And Wranglers,0.579,0.754,0.0261,0.00805,0.0,0.0803,0.734,country
+Upchurch,White Lightning,0.792,0.577,0.0952,0.0471,2.83e-06,0.167,0.541,country
+Tyler Braden,Try Losing One,0.455,0.4,0.0293,0.546,0.0,0.0971,0.103,country
+Tyler Braden,Try Losing One,0.455,0.4,0.0293,0.546,0.0,0.0971,0.103,country
+Tyler Braden,Try Losing One,0.455,0.4,0.0293,0.546,0.0,0.0971,0.103,country
+Tyler Braden;American Song Contest,Seventeen,0.401,0.656,0.0315,0.117,2.02e-05,0.107,0.27,country
+Tyler Braden,Try Losing One,0.455,0.4,0.0293,0.546,0.0,0.0971,0.103,country
+George Thorogood & The Destroyers,Rock And Roll Christmas,0.348,0.981,0.137,0.00479,0.0883,0.0905,0.704,country
+Michael Ray,Time Marches On (The Bootlegger Sessions),0.84,0.507,0.0304,0.29,0.0,0.241,0.703,country
+Steppenwolf,The Pusher,0.508,0.47,0.0262,0.201,0.0553,0.14,0.69,country
+Ashley McBryde,A Little Dive Bar in Dahlonega,0.651,0.479,0.0447,0.426,0.0,0.151,0.575,country
+Ashley McBryde,First Thing I Reach For,0.597,0.787,0.0409,0.196,0.000362,0.239,0.886,country
+Steppenwolf,Hey Lawdy Mama - Single Version,0.589,0.831,0.0615,0.0195,2.41e-05,0.0635,0.511,country
+Ashley McBryde,A Little Dive Bar in Dahlonega,0.651,0.479,0.0447,0.426,0.0,0.151,0.575,country
+Ashley McBryde,A Little Dive Bar in Dahlonega,0.651,0.479,0.0447,0.426,0.0,0.151,0.575,country
+Lasse Stefanz,Du försvann som en vind,0.633,0.696,0.0296,0.0914,4.08e-05,0.266,0.714,country
+Gunslingers,Bygdaslaur,0.576,0.793,0.0481,0.288,0.0,0.188,0.438,country
+Dr. Hook,When You're In Love With A Beautiful Woman - Remastered 1996,0.593,0.768,0.0515,0.0535,0.0049,0.0476,0.874,country
+Ashley McBryde,Styrofoam,0.737,0.701,0.0446,0.0495,1.11e-06,0.108,0.844,country
+Ashley McBryde,Martha Divine,0.582,0.939,0.0781,0.0069,0.00365,0.0732,0.594,country
+Emmylou Harris,Christmas Time's A-Coming,0.715,0.404,0.0262,0.583,0.0,0.115,0.709,country
+Ashley McBryde,One Night Standards,0.537,0.686,0.0293,0.0287,0.00704,0.0988,0.611,country
+Steppenwolf,Born To Be Wild - Single Version,0.468,0.81,0.0724,0.00169,0.0314,0.567,0.464,country
+The Band,Christmas Must Be Tonight - Remastered 2001,0.668,0.665,0.0267,0.0519,6.68e-05,0.109,0.766,country
+The Band,Christmas Must Be Tonight - Remastered 2001,0.668,0.665,0.0267,0.0519,6.68e-05,0.109,0.766,country
+Emmylou Harris,Christmas Time's A-Coming,0.715,0.404,0.0262,0.583,0.0,0.115,0.709,country
+The Band,Christmas Must Be Tonight - Remastered 2001,0.668,0.665,0.0267,0.0519,6.68e-05,0.109,0.766,country
+Joe Diffie,John Deere Green,0.701,0.805,0.0272,0.106,0.0,0.0581,0.696,country
+Hannah Ellis;Nick Wayne,If the World Was Ending,0.492,0.399,0.0653,0.771,0.0,0.189,0.637,country
+Dolly Parton,9 to 5,0.554,0.783,0.0457,0.416,1.54e-06,0.631,0.813,country
+Buffalo Springfield,For What It's Worth,0.653,0.519,0.0497,0.406,0.0209,0.101,0.822,country
+Thomas Rhett,Marry Me,0.333,0.412,0.029,0.0977,0.0,0.113,0.474,country
+Darius Rucker,Wagon Wheel,0.537,0.66,0.0296,0.455,0.0,0.135,0.574,country
+Jordan Davis,Next Thing You Know,0.557,0.597,0.048,0.646,0.0,0.0974,0.414,country
+Emily Hackett;Will Anderson,Take My Hand (The Wedding Song) [feat. Will Anderson],0.592,0.465,0.0279,0.663,0.000776,0.0918,0.283,country
+Steppenwolf,Born To Be Wild,0.438,0.71,0.0919,0.262,0.537,0.221,0.53,country
+Shania Twain;Bryan White,From This Moment On,0.305,0.323,0.0284,0.483,0.0,0.107,0.103,country
+Badfinger,Baby Blue - Remastered 2010,0.623,0.876,0.066,0.0189,0.0134,0.0728,0.515,country
+Tim McGraw;Taylor Swift;Keith Urban,Highway Don't Care,0.477,0.79,0.0394,0.0261,0.0,0.0841,0.505,country
+Florida Georgia Line,Life,0.485,0.663,0.0338,0.0686,0.0,0.129,0.38,country
+Don Williams,Good Ole Boys Like Me,0.658,0.325,0.0282,0.712,0.00261,0.158,0.483,country
+Dan + Shay,Good Things,0.529,0.621,0.0296,0.13,0.0,0.173,0.617,country
+Morgan Evans,Country Outta My Girl,0.448,0.932,0.0976,0.0174,0.0,0.347,0.709,country
+Morgan Evans;Kelsea Ballerini,Dance with Me,0.611,0.519,0.035,0.481,4.82e-06,0.107,0.462,country
+Morgan Evans,Country Outta My Girl,0.448,0.932,0.0976,0.0174,0.0,0.347,0.709,country
+Tyler Rich,Trucks Don't Lie,0.424,0.774,0.0359,0.0573,8.54e-06,0.0854,0.346,country
+Morgan Evans,I Do,0.509,0.761,0.0441,0.122,0.0,0.137,0.71,country
+Morgan Evans,Country Outta My Girl,0.448,0.932,0.0976,0.0174,0.0,0.347,0.709,country
+Morgan Evans;Kelsea Ballerini,Dance with Me,0.611,0.519,0.035,0.481,4.82e-06,0.107,0.462,country
+Morgan Evans,Country Outta My Girl,0.448,0.932,0.0976,0.0174,0.0,0.347,0.709,country
+Morgan Evans,Country Outta My Girl,0.448,0.932,0.0976,0.0174,0.0,0.347,0.709,country
+Florida Georgia Line,Simple,0.362,0.882,0.0973,0.0791,0.0,0.15,0.864,country
+Little River Band,Reminiscing - Remastered,0.362,0.466,0.0403,0.65,0.00589,0.132,0.342,country
+Parker McCollum,To Be Loved By You,0.475,0.805,0.0377,0.000453,0.0,0.143,0.488,country
+Morgan Evans,Country Outta My Girl,0.448,0.932,0.0976,0.0174,0.0,0.347,0.709,country
+Morgan Evans,Country Outta My Girl,0.448,0.932,0.0976,0.0174,0.0,0.347,0.709,country
+Morgan Evans;Kelsea Ballerini,Dance with Me,0.611,0.519,0.035,0.481,4.82e-06,0.107,0.462,country
+Tyler Braden,Try Losing One,0.455,0.4,0.0293,0.546,0.0,0.0971,0.103,country
+Upchurch,Traveler,0.786,0.599,0.0602,0.454,6.95e-06,0.111,0.482,country
+Tyler Braden,Try Losing One,0.455,0.4,0.0293,0.546,0.0,0.0971,0.103,country
+Steve Winwood,Valerie,0.679,0.766,0.0291,0.32,0.015,0.111,0.679,country
+Morgan Evans,Song for the Summer,0.606,0.817,0.0327,0.0279,8.79e-05,0.228,0.645,country
+Gunslingers,32-18,0.646,0.836,0.038,0.133,0.0,0.116,0.405,country
+Tyler Braden,Try Losing One,0.455,0.4,0.0293,0.546,0.0,0.0971,0.103,country
+Upchurch;Katie Noel;Chucky V,Dance with the Devil (feat. Katie Noel & Chucky V),0.711,0.813,0.0535,0.0248,0.0,0.0941,0.347,country
+Steve Winwood,Valerie,0.679,0.766,0.0291,0.32,0.015,0.111,0.679,country
+Koe Wetzel,Outcast,0.511,0.347,0.025,0.726,0.00105,0.375,0.0514,country
+Upchurch,Tunnel Vision,0.773,0.516,0.0613,0.457,0.0,0.278,0.358,country
+BEIST;Stjørna Heimbrentslag,Kongen av campen,0.65,0.844,0.116,0.418,0.0,0.291,0.341,country
+Salebarbes,Good Lord,0.54,0.932,0.0551,0.0427,0.0,0.337,0.905,country
+Lasse Stefanz,Huaröd,0.647,0.813,0.0758,0.135,0.0,0.173,0.826,country
+Rotlaus,Syng mej en song,0.549,0.872,0.0332,0.00262,0.0,0.302,0.66,country
+Tyler Braden;American Song Contest,Seventeen,0.401,0.656,0.0315,0.117,2.02e-05,0.107,0.27,country
+Tomgang,Hjortefall,0.538,0.646,0.0423,0.0805,0.00671,0.0887,0.459,country
+Bachman-Turner Overdrive,Hey You,0.491,0.849,0.0309,0.0526,0.0094,0.274,0.932,country
+Bachman-Turner Overdrive,Takin' Care Of Business,0.728,0.919,0.0494,0.0495,0.0,0.152,0.963,country
+Three Dog Night,An Old Fashioned Love Song - Single Version,0.456,0.555,0.0369,0.508,0.0194,0.106,0.776,country
+Three Dog Night,An Old Fashioned Love Song - Single Version,0.456,0.555,0.0369,0.508,0.0194,0.106,0.776,country
+Rascal Flatts,Bless The Broken Road,0.588,0.448,0.0265,0.668,1.37e-05,0.156,0.362,country
+John Denver,"Leaving, On a Jet Plane - ""Greatest Hits"" Version",0.406,0.188,0.0324,0.852,0.0,0.105,0.629,country
+Thomas Rhett;Kane Brown;Ava Max,On Me (feat. Ava Max),0.548,0.721,0.0472,0.0119,0.0,0.216,0.594,country
+Mitchell Tenpenny,Truth About You,0.492,0.708,0.0334,0.0975,0.0,0.12,0.697,country
+Seaforth,Breakups,0.531,0.552,0.0309,0.436,0.0,0.0786,0.328,country
+Randy Travis,"Forever and Ever, Amen",0.701,0.68,0.0264,0.303,1.51e-05,0.159,0.704,country
+Restless Road;Kane Brown,Take Me Home (with Kane Brown),0.397,0.508,0.0384,0.443,0.0,0.135,0.323,country
+Ingrid Andress,More Hearts Than Mine,0.375,0.428,0.029,0.109,0.0,0.105,0.361,country
+Dan + Shay,I Should Probably Go To Bed,0.721,0.277,0.0365,0.634,0.0,0.112,0.309,country
+Kane Brown;Lauren Alaina,What Ifs (feat. Lauren Alaina),0.612,0.799,0.0275,0.00898,0.0,0.172,0.687,country
+Eddie Rabbitt,The Room at the Top of the Stairs - 2008 Version,0.772,0.412,0.0305,0.378,0.000199,0.184,0.605,country
+Little Big Town,Girl Crush,0.5,0.225,0.0302,0.842,0.0,0.112,0.355,country
+Don Williams,Sing Me Back Home,0.738,0.417,0.0261,0.392,0.00196,0.186,0.639,country
+Don Williams,Shot Full Of Love,0.666,0.252,0.0264,0.548,0.0221,0.113,0.547,country
+Don Williams,Lay Down Beside Me,0.496,0.196,0.0284,0.631,0.0473,0.102,0.207,country
+Kenny Rogers,Coward Of The County,0.652,0.433,0.0588,0.134,7.37e-06,0.146,0.675,country
+Dolly Parton;Kenny Rogers,Islands in the Stream,0.592,0.473,0.0354,0.681,0.0,0.0732,0.741,country
+Bob Dylan,Like a Rolling Stone,0.482,0.721,0.0321,0.731,0.0,0.189,0.557,country
+Tyler Childers,The Harvest,0.588,0.163,0.0341,0.936,0.0,0.115,0.559,country
+The Bellamy Brothers,Let Your Love Flow,0.679,0.553,0.0316,0.0611,7.16e-06,0.139,0.946,country
+Mini Thin,City Bitch,0.791,0.606,0.296,0.0706,0.0,0.33,0.799,country
+Zach Bryan,From Austin,0.5,0.485,0.0422,0.633,1.26e-06,0.107,0.379,country
+RaeLynn,Lonely Call,0.588,0.722,0.0289,0.0663,0.0,0.0721,0.243,country
+Cody Johnson,Holes,0.47,0.572,0.0283,0.0574,0.0,0.0902,0.422,country
+Upchurch,Wake Me Up,0.67,0.575,0.0423,0.0441,0.0,0.231,0.135,country
+RaeLynn,Lonely Call,0.588,0.722,0.0289,0.0663,0.0,0.0721,0.243,country
+Upchurch,Legend,0.909,0.77,0.271,0.115,0.0,0.106,0.757,country
+Riley Green,Trouble With You,0.764,0.646,0.0403,0.254,0.0,0.113,0.434,country
+RaeLynn,Tailgate,0.608,0.755,0.114,0.0525,0.0,0.0998,0.75,country
+RaeLynn,Tailgate,0.608,0.755,0.114,0.0525,0.0,0.0998,0.75,country
+38 Special,Caught Up In You,0.361,0.787,0.0363,0.0197,0.000586,0.0421,0.889,country
+Hellbillies,20 år på vegen,0.356,0.568,0.0295,0.191,0.0,0.183,0.42,country
+RaeLynn,Queens Don't,0.658,0.695,0.0279,0.0708,0.0,0.13,0.572,country
+Boz Scaggs,I'm Easy,0.474,0.771,0.0571,0.115,0.0,0.0712,0.898,country
+38 Special,Hold On Loosely,0.565,0.707,0.0298,0.0101,8.16e-05,0.0851,0.831,country
+Adam Calhoun,Tombstone,0.671,0.733,0.361,0.229,0.0,0.139,0.62,country
+RaeLynn,Queens Don't,0.658,0.695,0.0279,0.0708,0.0,0.13,0.572,country
+RaeLynn,Queens Don't,0.658,0.695,0.0279,0.0708,0.0,0.13,0.572,country
+Rotlaus;Synne,Ei tid - Akustisk versjon,0.492,0.694,0.0276,0.0765,0.0006,0.316,0.366,country
+RaeLynn,The Apple,0.593,0.646,0.0396,0.173,0.0,0.112,0.571,country
+Parker McCollum,Never Loved You At All,0.552,0.891,0.0344,0.0908,0.0,0.391,0.851,country
+Staut,Slepp me inn,0.585,0.789,0.039,0.102,0.0,0.258,0.97,country
+Tomgang,Scaniakusken,0.585,0.731,0.056,0.473,1.23e-05,0.134,0.853,country
+Bailey Zimmerman,Never Comin' Home - Live Acoustic,0.585,0.51,0.0322,0.427,0.0,0.0997,0.436,country
+Upchurch,Walking Tall,0.789,0.572,0.115,0.203,0.0,0.119,0.689,country
+Free,All Right Now,0.785,0.481,0.101,0.0062,2.38e-06,0.122,0.77,country
+Bailey Zimmerman,Never Comin' Home,0.556,0.59,0.029,0.25,0.0,0.109,0.573,country
+Roger Miller,King Of The Road - Single Version,0.69,0.366,0.0634,0.62,0.0,0.121,0.544,country
+Lasse Stefanz,Vi går mot ljuset,0.614,0.768,0.0288,0.419,1.81e-06,0.0839,0.846,country
+Gunslingers,Hardanger,0.64,0.722,0.0396,0.0965,0.0,0.272,0.52,country
+Niko Moon,GOOD TIME,0.802,0.59,0.0493,0.0874,0.0,0.275,0.687,country
+Keith Urban,Blue Ain't Your Color,0.69,0.416,0.0335,0.617,1.37e-06,0.102,0.479,country
+Juice Newton,Angel Of The Morning,0.452,0.313,0.026,0.433,2.6e-05,0.0772,0.344,country
+Bailey Zimmerman,Rock and A Hard Place,0.582,0.568,0.0275,0.577,0.0,0.105,0.394,country
+Music Travel Love;Francis Greg,I Want It That Way,0.575,0.368,0.0317,0.289,0.0,0.245,0.621,country
+The Handsome Family,Far From Any Road,0.707,0.556,0.0303,0.19,0.0159,0.388,0.746,country
+LeAnn Rimes,How Do I Live,0.577,0.462,0.0279,0.128,0.0,0.0822,0.258,country
+Leo Sayer,More Than I Can Say - Remastered,0.726,0.506,0.0239,0.213,3.41e-05,0.332,0.72,country
+Dan + Shay,Glad You Exist - Acoustic,0.538,0.386,0.0309,0.797,0.0,0.119,0.653,country
+Faith Hill,Breathe,0.529,0.496,0.029,0.173,0.0,0.251,0.278,country
+Dan + Shay,You,0.544,0.572,0.0319,0.118,0.0,0.234,0.52,country
+Don Williams,Amanda,0.653,0.369,0.0307,0.747,0.0059,0.115,0.478,country
+Billy Ray Cyrus,Achy Breaky Heart,0.8,0.563,0.0303,0.051,0.0,0.0797,0.961,country
+Spencer Crandall,My Person,0.567,0.753,0.0487,0.0894,0.0,0.13,0.756,country
+The Chicks,Cowboy Take Me Away,0.467,0.622,0.031,0.365,0.00527,0.0982,0.455,country
+Alan Jackson,Chattahoochee,0.606,0.706,0.0379,0.362,0.0,0.16,0.819,country
+Rascal Flatts,I Won't Let Go,0.557,0.406,0.0278,0.742,0.0,0.113,0.222,country
+Dan Seals,One Friend,0.459,0.0565,0.0371,0.815,0.0,0.105,0.386,country
+Riley Green,Play Her Tonight,0.529,0.906,0.0677,0.265,0.0,0.1,0.836,country
+Tyler Childers,We've Had Our Fun,0.574,0.306,0.0292,0.865,0.00258,0.117,0.491,country
+Upchurch,Hideas 9,0.942,0.76,0.163,0.0648,5.79e-05,0.134,0.37,country
+Tenille Arts,Somebody Like That,0.574,0.798,0.0485,0.0152,0.0,0.111,0.58,country
+The J. Geils Band,On Borrowed Time,0.511,0.42,0.0418,0.633,0.000267,0.0417,0.405,country
+Joe Nichols,Good Day for Living,0.436,0.849,0.0689,0.0122,0.0,0.122,0.696,country
+Rotlaus,Bygderamp,0.487,0.723,0.0278,0.0567,0.0,0.377,0.257,country
+Upchurch,Radio Jam,0.465,0.612,0.0529,0.304,0.0,0.0407,0.282,country
+Bleu Edmondson,$50 Dollars and a Flask of Crown,0.748,0.695,0.0358,0.215,0.000264,0.246,0.876,country
+Riley Green,Dixieland Delight - Live,0.254,0.909,0.0713,0.00112,0.000334,0.925,0.437,country
+Crashville,PØBEL,0.558,0.742,0.0287,0.0132,4.48e-06,0.0817,0.809,country
+Reckless Kelly,Crazy Eddie's Last Hurrah,0.53,0.87,0.0936,0.0146,6.84e-06,0.367,0.735,country
+Cody Johnson,Chain Drinkin',0.575,0.793,0.0426,0.199,0.0,0.0818,0.817,country
+Adam Calhoun;Big Murph,Shut Up,0.837,0.654,0.16,0.0771,0.0,0.432,0.292,country
+Upchurch,Bells,0.528,0.795,0.039,0.00458,0.000264,0.125,0.539,country
+Canned Heat,Goin' Up The Country,0.628,0.356,0.0386,0.932,0.000608,0.116,0.605,country
+Derek & The Dominos,Layla - 40th Anniversary Version / 2010 Remastered,0.403,0.903,0.0664,0.574,0.305,0.287,0.498,country
+Tomgang,Ei tid e forbi,0.647,0.809,0.0267,0.00781,4.18e-05,0.237,0.665,country
+Upchurch,Roots Run Deep,0.535,0.64,0.0286,0.28,1.29e-05,0.101,0.388,country
+High Valley,I Be U Be,0.442,0.746,0.0335,0.0074,0.0,0.0996,0.415,country
+High Valley,I Be U Be,0.442,0.746,0.0335,0.0074,0.0,0.0996,0.415,country
+Upchurch,Spotlight,0.432,0.692,0.0337,0.000363,0.0,0.149,0.373,country
+Cody Johnson,Hurtin',0.487,0.821,0.0406,0.0407,0.0,0.272,0.539,country
+High Valley,Roads We've Never Taken,0.627,0.962,0.0574,0.0111,2.43e-06,0.204,0.559,country
+High Valley,River's Still Running,0.542,0.795,0.0262,0.0251,0.0,0.122,0.476,country
+Rotlaus,Ei runde til,0.608,0.832,0.0237,0.0153,1.07e-05,0.179,0.525,country
+High Valley,River's Still Running,0.542,0.795,0.0262,0.0251,0.0,0.122,0.476,country
+High Valley,I Be U Be,0.442,0.746,0.0335,0.0074,0.0,0.0996,0.415,country
+High Valley,River's Still Running,0.542,0.795,0.0262,0.0251,0.0,0.122,0.476,country
+Byting,Huldersølv,0.701,0.637,0.0265,0.243,0.0,0.0934,0.865,country
+Bailey Zimmerman,Small Town Crazy,0.502,0.877,0.0746,0.0129,0.0,0.244,0.696,country
+Corey Smith,F*** the Po-Po,0.481,0.468,0.0605,0.817,0.0,0.933,0.443,country
+Music Travel Love,"Take Me Home, Country Roads (Acoustic)",0.703,0.316,0.0332,0.736,0.0,0.222,0.645,country
+Gerry Rafferty,Right Down the Line,0.783,0.322,0.0343,0.213,0.00243,0.114,0.77,country
+Shania Twain,Forever And For Always,0.469,0.722,0.0326,0.232,0.0,0.123,0.529,country
+Alan Jackson,What A Friend We Have In Jesus,0.449,0.174,0.0292,0.903,0.0,0.124,0.288,country
+Morgan Wallen,Whiskey Glasses,0.614,0.68,0.0289,0.369,1.84e-06,0.115,0.707,country
+Brett Eldredge,Wanna Be That Song,0.518,0.686,0.0313,0.114,0.0,0.114,0.334,country
+Shania Twain,You're Still The One - Remixed/Remastered 2004,0.545,0.597,0.0336,0.3,0.0,0.0783,0.559,country
+Sam Hunt,Body Like A Back Road,0.732,0.458,0.0311,0.447,0.0,0.136,0.661,country
+Luke Bryan,Play It Again,0.506,0.886,0.0655,0.0916,0.0,0.0734,0.595,country
+Eagles,New Kid in Town - 2013 Remaster,0.649,0.425,0.0267,0.378,0.0013,0.108,0.651,country
+Hunter Hayes,Wanted,0.421,0.476,0.0298,0.268,0.0,0.0816,0.3,country
+Avery Anna,Narcissist,0.322,0.48,0.0492,0.746,0.0,0.113,0.304,country
+Alan Jackson,Good Time,0.652,0.767,0.0372,0.0355,6.92e-06,0.397,0.73,country
+Kelsea Ballerini,MUSCLE MEMORY,0.596,0.786,0.0391,0.00715,0.0,0.192,0.788,country
+Don Williams,Stay Young,0.77,0.482,0.026,0.729,0.00983,0.0725,0.707,country
+Derek & The Dominos,Layla,0.404,0.902,0.0665,0.577,0.297,0.287,0.497,country
+Lynyrd Skynyrd,Simple Man,0.422,0.752,0.0449,0.0366,0.000119,0.129,0.403,country
+Lady A,What If I Never Get Over You,0.576,0.724,0.0274,0.016,0.0,0.107,0.34,country
+Kenny Rogers;Sheena Easton,We've Got Tonight,0.543,0.227,0.0298,0.767,4.29e-05,0.103,0.292,country
+Bob Dylan,Mr. Tambourine Man,0.39,0.31,0.0676,0.794,0.0,0.379,0.584,country
+Dolly Parton,Jolene,0.674,0.537,0.0363,0.566,0.0,0.131,0.809,country
+Eagles,Desperado - 2013 Remaster,0.228,0.224,0.0311,0.946,0.000222,0.273,0.18,country
+Music Travel Love,When You Say Nothing at All (Live in Nashville),0.717,0.397,0.0269,0.743,0.0,0.112,0.48,country
+Zach Bryan,Late July,0.532,0.354,0.0504,0.736,0.0,0.11,0.419,country
+Aaron Watson,Barbed Wire Halo,0.546,0.383,0.032,0.403,0.0,0.0924,0.372,country
+Upchurch,Hillbilly Psycho,0.488,0.737,0.0941,0.0131,0.0,0.349,0.272,country
+Stoney LaRue,Look At Me Fly,0.532,0.821,0.0323,0.0553,0.0014,0.113,0.368,country
+Koe Wetzel,SideChick,0.497,0.366,0.0255,0.33,0.0,0.0907,0.139,country
+Upchurch,Busy,0.806,0.873,0.243,0.00872,0.0,0.0897,0.705,country
+Vassendgutane,Hjortejakt,0.62,0.828,0.0251,0.0658,0.0,0.293,0.766,country
+Upchurch,Don't Come Knockin,0.67,0.717,0.111,0.00406,0.0,0.166,0.313,country
+Too Far Gone,Kæm Tok Ho Me Sæ,0.545,0.621,0.0289,0.159,3.85e-05,0.292,0.339,country
+Avery Anna,Narcissist,0.322,0.48,0.0492,0.746,0.0,0.113,0.304,country
+Derek & The Dominos,Layla,0.459,0.89,0.0487,0.451,0.11,0.306,0.447,country
+Spelloppmaker,Langt Herifrå,0.547,0.676,0.0336,0.498,0.0,0.147,0.149,country
+Plumbo,Gamle helter,0.686,0.797,0.0288,0.0184,0.0,0.345,0.854,country
+Kenny Chesney;Jimmy Buffett,Trying to Reason With Hurricane Season (with Jimmy Buffett),0.738,0.503,0.0309,0.613,1.16e-05,0.1,0.556,country
+Peter Frampton,Show Me The Way,0.7,0.726,0.0329,0.436,1.11e-06,0.0914,0.64,country
+Cayouche,La chaîne de mon tracteur,0.603,0.198,0.0319,0.952,0.000146,0.0999,0.734,country
+Gunnar & The Grizzly Boys,Standard American,0.72,0.922,0.113,0.0323,0.0,0.452,0.687,country
+Salebarbes,Marcher l'plancher - Live,0.401,0.659,0.0678,0.184,9.56e-05,0.822,0.787,country
+Ashley Monroe,Hands On You,0.356,0.417,0.038,0.0313,1.36e-05,0.155,0.316,country
+Koe Wetzel,Lubbock,0.562,0.948,0.0359,0.0323,0.0,0.369,0.94,country
+Riley Green,Hell Of A Way To Go,0.481,0.74,0.0277,0.0262,0.0,0.157,0.669,country
+Tomgang,Ein Anleggsslusk,0.563,0.653,0.0464,0.068,0.000357,0.374,0.613,country
+Salebarbes,Gagner sa vie,0.602,0.875,0.0422,0.291,0.0,0.386,0.977,country
+Canned Heat,Let's Work Together,0.748,0.703,0.0362,0.114,1.39e-06,0.0646,0.882,country
+Ashley Monroe,Tennessee Christmas,0.653,0.433,0.0243,0.505,1.65e-05,0.193,0.423,country
+Ashley Monroe,Tennessee Christmas,0.653,0.433,0.0243,0.505,1.65e-05,0.193,0.423,country
+Ashley Monroe,Tennessee Christmas,0.653,0.433,0.0243,0.505,1.65e-05,0.193,0.423,country
+Russell Dickerson,Yours,0.554,0.722,0.034,0.119,0.0,0.0861,0.558,country
+Carrie Underwood;Ludacris,The Champion,0.663,0.875,0.183,0.0821,0.0,0.124,0.51,country
+Megan Moroney,Tennessee Orange,0.38,0.488,0.029,0.126,7.23e-06,0.115,0.268,country
+Maren Morris,My Church,0.517,0.743,0.0363,0.243,3.36e-06,0.107,0.664,country
+Collin Raye,"Love, Me",0.6,0.242,0.031,0.697,0.0,0.128,0.3,country
+George Strait,Amarillo By Morning,0.606,0.361,0.0346,0.264,3.39e-05,0.38,0.621,country
+Kelsea Ballerini,I Hate Love Songs,0.385,0.446,0.0298,0.247,0.0,0.189,0.401,country
+David J,Lost My Heartbreak,0.56,0.802,0.0373,0.0863,0.0,0.116,0.423,country
+Bob Seger,Old Time Rock & Roll,0.714,0.937,0.0399,0.206,0.0,0.0731,0.964,country
+Brooks & Dunn,Boot Scootin' Boogie,0.656,0.817,0.0435,0.22,0.0,0.304,0.862,country
+Shania Twain,Any Man Of Mine,0.592,0.725,0.0412,0.207,0.0,0.148,0.784,country
+Tyler Childers,Silence,0.502,0.301,0.0315,0.835,9.95e-05,0.34,0.261,country
+Randall King,You in a Honky Tonk,0.626,0.705,0.0256,0.121,1.67e-05,0.341,0.62,country
+Randall King,You in a Honky Tonk,0.626,0.705,0.0256,0.121,1.67e-05,0.341,0.62,country
+Randall King,You in a Honky Tonk,0.626,0.705,0.0256,0.121,1.67e-05,0.341,0.62,country
+Don Henley,The Boys Of Summer,0.516,0.549,0.0373,0.501,0.00572,0.184,0.907,country
+Blake Shelton;Gwen Stefani,Nobody But You (Duet with Gwen Stefani),0.463,0.653,0.0273,0.111,0.000136,0.172,0.233,country
+Randall King,You in a Honky Tonk,0.626,0.705,0.0256,0.121,1.67e-05,0.341,0.62,country
+Stoney LaRue,Empty Glass,0.593,0.581,0.0249,0.548,0.000202,0.108,0.256,country
+Randall King,You in a Honky Tonk,0.626,0.705,0.0256,0.121,1.67e-05,0.341,0.62,country
+Upchurch,Who,0.853,0.791,0.246,0.0942,0.0,0.388,0.596,country
+Avery Anna,Narcissist,0.322,0.48,0.0492,0.746,0.0,0.113,0.304,country
+Avery Anna,Narcissist,0.322,0.48,0.0492,0.746,0.0,0.113,0.304,country
+Avery Anna,Critic,0.529,0.467,0.0263,0.23,0.0,0.0922,0.24,country
+Avery Anna,Critic,0.529,0.467,0.0263,0.23,0.0,0.0922,0.24,country
+BEIST,Bøgdafest,0.712,0.844,0.103,0.146,0.0,0.138,0.679,country
+Jameson Rodgers,Some Girls,0.429,0.831,0.0473,0.0781,0.0,0.312,0.348,country
+Avery Anna,Narcissist,0.322,0.48,0.0492,0.746,0.0,0.113,0.304,country
+Hellbillies,Råka tå ei pil,0.306,0.771,0.0352,0.00416,0.0,0.114,0.348,country
+Randall King,Baby Do,0.674,0.86,0.033,0.00469,0.00345,0.115,0.637,country
+Avery Anna,Narcissist,0.322,0.48,0.0492,0.746,0.0,0.113,0.304,country
+Randall King,Baby Do,0.674,0.86,0.033,0.00469,0.00345,0.115,0.637,country
+Upchurch,Different Cloth,0.615,0.737,0.0268,0.00357,8.75e-06,0.0995,0.629,country
+Frankie Ballard,Sunshine & Whiskey,0.67,0.737,0.0434,0.223,0.0,0.325,0.753,country
+Jon Pardi,Empty Beer Cans,0.645,0.83,0.0452,0.0192,0.0,0.18,0.471,country
+Randall King,I Only Want You for Christmas,0.621,0.844,0.0496,0.0384,2.23e-05,0.0709,0.478,country
+The Oak Ridge Boys,The Angels Must Have Cried,0.205,0.443,0.0326,0.985,0.0463,0.103,0.269,country
+Avery Anna,Narcissist,0.322,0.48,0.0492,0.746,0.0,0.113,0.304,country
+Randall King,Baby Do,0.674,0.86,0.033,0.00469,0.00345,0.115,0.637,country
+Upchurch,Vibes,0.898,0.518,0.0526,0.0267,0.00936,0.132,0.307,country
+BEIST,Råne-Ræser,0.715,0.649,0.0286,0.639,0.000339,0.491,0.722,country
+Robert Earl Keen,Cowboys Don't Cry,0.681,0.564,0.0448,0.42,0.0,0.098,0.42,country
+Randall King,I Only Want You for Christmas,0.621,0.844,0.0496,0.0384,2.23e-05,0.0709,0.478,country
+Rotlaus,På vei,0.467,0.789,0.029,0.0235,6.21e-06,0.128,0.351,country
+Juice Newton,Queen Of Hearts,0.647,0.821,0.0535,0.564,0.000629,0.235,0.969,country
+Rotlaus,Når vi to blir en,0.558,0.898,0.0301,0.0096,0.0,0.38,0.737,country
+Salebarbes,Gin à l'eau salée,0.494,0.966,0.0724,0.0158,0.0,0.178,0.566,country
+Sawyer Brown,Some Girls Do,0.64,0.852,0.028,0.0907,0.0,0.151,0.903,country
+Upchurch,Blow My Smoke,0.449,0.848,0.0669,0.0152,0.0,0.882,0.643,country
+Lasse Stefanz,I ett fotoalbum,0.593,0.555,0.0254,0.483,0.0,0.0937,0.648,country
+AP Dhillon,Summer High,0.86,0.541,0.0325,0.165,0.163,0.0663,0.952,rap
+Shubh,No Love,0.768,0.487,0.0431,0.24,0.0,0.175,0.722,rap
+Shubh;Ikky,Baller,0.711,0.702,0.233,0.00487,0.0163,0.0932,0.674,rap
+AP Dhillon;Shinda Kahlon;Gurinder Gill;Gminxr,Insane,0.796,0.572,0.0545,0.416,2.55e-05,0.0975,0.304,rap
+The Kid LAROI;Justin Bieber,STAY (with Justin Bieber),0.591,0.764,0.0483,0.0383,0.0,0.103,0.478,rap
+Chani Nattan;Inderpal Moga,Daku,0.847,0.558,0.0663,0.325,0.0,0.135,0.495,rap
+AP Dhillon;Shinda Kahlon,Dil Nu,0.811,0.655,0.0353,0.0947,1.63e-06,0.068,0.925,rap
+AP Dhillon;Shinda Kahlon,All Night (Live),0.723,0.456,0.0359,0.137,2.95e-05,0.081,0.0383,rap
+Shubh,Elevated,0.828,0.533,0.091,0.214,2.8e-05,0.307,0.605,rap
+AP Dhillon,Wo Noor,0.761,0.554,0.0854,0.193,0.00844,0.0802,0.555,rap
+AP Dhillon;Gurinder Gill;Intense,Excuses,0.837,0.717,0.0822,0.0842,0.0,0.149,0.494,rap
+Shubh,We Rollin,0.82,0.504,0.141,0.261,7e-06,0.104,0.275,rap
+King,OOPS,0.918,0.673,0.184,0.314,0.0,0.0555,0.828,rap
+aleemrk;Umair,Cold Hours,0.737,0.613,0.358,0.316,1.26e-06,0.343,0.493,rap
+King,Ektarfa,0.748,0.472,0.125,0.596,1.1e-05,0.102,0.364,rap
+XXXTENTACION,Hope,0.592,0.457,0.0603,0.661,0.000331,0.146,0.225,rap
+AP Dhillon;Gminxr;Gurinder Gill;Shinda Kahlon,Brown Munde,0.854,0.611,0.0864,0.223,0.0,0.119,0.417,rap
+Maninder Buttar,Sakhiyaan,0.706,0.674,0.044,0.3,0.0,0.202,0.359,rap
+The PropheC,Kina Chir,0.622,0.431,0.0293,0.0955,0.0,0.088,0.365,rap
+AP Dhillon;Gurinder Gill,TERE TE,0.692,0.488,0.135,0.0508,0.0,0.154,0.299,rap
+Sidhu Moose Wala,So High,0.538,0.763,0.205,0.0152,0.0,0.109,0.484,rap
+Akhil,Khaab,0.662,0.661,0.0514,0.417,0.0,0.0784,0.222,rap
+King,Tu Aake Dekhle,0.77,0.84,0.107,0.515,0.00452,0.145,0.192,rap
+Sidhu Moose Wala,The Last Ride,0.792,0.647,0.334,0.0299,0.0,0.119,0.638,rap
+Badshah;Nikhita Gandhi,Jugnu,0.716,0.803,0.0445,0.03,0.0,0.0817,0.325,rap
+Sidhu Moose Wala;Sunny Malton;The Kidd,Levels,0.592,0.728,0.311,0.00148,0.0,0.379,0.577,rap
+Sidhu Moose Wala,0 to 100,0.742,0.675,0.0907,0.139,0.0,0.167,0.679,rap
+AP Dhillon;Gurinder Gill,DESIRES,0.863,0.387,0.256,0.365,0.00238,0.06,0.39,rap
+Sidhu Moose Wala,295,0.557,0.794,0.2,0.179,0.0,0.106,0.432,rap
+Karan Aujla,Sheesha,0.708,0.672,0.0582,0.322,0.0,0.135,0.399,rap
+Akhil;Dhvani Bhanushali;Abhijit Vaghani;Bob,"Duniyaa (From ""Luka Chuppi"")",0.435,0.658,0.0368,0.699,0.0,0.125,0.524,rap
+AP Dhillon;Shinda Kahlon;Gminxr,SPACESHIP,0.69,0.683,0.0968,0.076,0.000113,0.134,0.549,rap
+Vilen,Chidiya,0.486,0.494,0.0324,0.715,0.0,0.109,0.414,rap
+Sidhu Moose Wala,Everybody Hurts,0.738,0.599,0.0393,0.434,0.0,0.13,0.575,rap
+Sachin-Jigar;Shreya Ghoshal;Tochi Raina,Saibo,0.619,0.429,0.028,0.738,1.35e-05,0.136,0.545,rap
+Sidhu Moose Wala;Sunny Malton,Never Fold (feat. Sunny Malton),0.814,0.786,0.232,0.069,0.0,0.0976,0.797,rap
+Anirudh Ravichander,Vikram - Title Track,0.638,0.842,0.0524,0.174,0.000356,0.126,0.145,rap
+Anirudh Ravichander,Rolex Theme - Background Score,0.61,0.925,0.114,0.00804,0.767,0.131,0.442,rap
+Anirudh Ravichander;Adithya RK,"Bae (From ""Don"")",0.697,0.663,0.0486,0.0701,1.04e-05,0.112,0.407,rap
+Dabzee;SA,"Manavaalan Thug - From ""Thallumaala""",0.809,0.583,0.0605,0.356,0.0,0.0622,0.478,rap
+Anirudh Ravichander,Lokiverse - Background Score,0.64,0.86,0.101,0.302,0.468,0.109,0.516,rap
+Anirudh Ravichander;Anthony Daasan,"Dippam Dappam (From ""Kaathuvaakula Rendu Kaadhal"")",0.827,0.717,0.111,0.0908,0.000523,0.0511,0.772,rap
+Anirudh Ravichander,Once Upon a Time,0.646,0.879,0.0823,0.00659,0.0607,0.117,0.429,rap
+Anirudh Ravichander;Jonita Gandhi,"Private Party (From ""Don"")",0.862,0.886,0.123,0.184,1.33e-06,0.0565,0.896,rap
+Anirudh Ravichander;Kamal Haasan,"Pathala Pathala (From ""Vikram"")",0.826,0.779,0.375,0.35,0.0,0.0657,0.936,rap
+Anirudh Ravichander;Jonita Gandhi,"Arabic Kuthu - Halamithi Habibo (From ""Beast"")",0.608,0.757,0.164,0.259,0.00216,0.259,0.625,rap
+Anirudh Ravichander,"Life of Pazham (From ""Thiruchitrambalam"")",0.503,0.665,0.0801,0.124,0.000155,0.175,0.597,rap
+Anirudh Ravichander;Rokesh,"Jalabulajangu (From ""Don"")",0.635,0.823,0.153,0.0261,0.0,0.0481,0.457,rap
+Anirudh Ravichander;Ramya Behra;Sahithi Chaganti,Bimbilikki Pilapi,0.645,0.947,0.238,0.426,2.26e-06,0.463,0.823,rap
+Anirudh Ravichander;Vijay Yesudas;Shweta Mohan,Nee Paartha Vizhigal - The Touch of Love,0.665,0.596,0.0278,0.293,3.67e-05,0.247,0.644,rap
+Lil Nas X;Jack Harlow,INDUSTRY BABY (feat. Jack Harlow),0.736,0.704,0.0615,0.0203,0.0,0.0501,0.894,rap
+Lil Nas X,THATS WHAT I WANT,0.737,0.846,0.22,0.00614,0.0,0.0486,0.546,rap
+AP Dhillon;Amari,Ma Belle,0.908,0.314,0.116,0.0424,4.15e-05,0.0727,0.244,rap
+Bohemia;Sidhu Moose Wala,Same Beef,0.779,0.854,0.219,0.0462,0.0,0.21,0.379,rap
+AP Dhillon,Summer High,0.86,0.541,0.0325,0.165,0.163,0.0663,0.952,rap
+AP Dhillon;Intense,Toxic,0.802,0.737,0.0432,0.309,0.0,0.0815,0.577,rap
+King,Maan Meri Jaan,0.698,0.505,0.0356,0.354,0.0,0.0995,0.396,rap
+Yo Yo Honey Singh,Desi Kalakaar,0.751,0.67,0.267,0.0796,0.00018,0.0908,0.766,rap
+AP Dhillon;Gurinder Gill;Money Musik,Saada Pyaar,0.743,0.655,0.0866,0.0391,0.0,0.118,0.164,rap
+XXXTENTACION,Everybody Dies In Their Nightmares,0.734,0.57,0.133,0.847,2.14e-05,0.112,0.689,rap
+Armani White,BILLIE EILISH.,0.9,0.509,0.257,0.115,1.67e-06,0.0937,0.765,rap
+Imran Khan,Amplifier,0.727,0.714,0.0872,0.0209,0.0,0.153,0.618,rap
+Wiz Khalifa;Charlie Puth,See You Again (feat. Charlie Puth),0.689,0.481,0.0815,0.369,1.03e-06,0.0649,0.283,rap
+AP Dhillon,Hills,0.779,0.331,0.0794,0.411,0.00577,0.11,0.182,rap
+DIVINE,3:59 AM,0.669,0.588,0.339,0.177,0.0,0.179,0.237,rap
+Yo Yo Honey Singh,Love Dose,0.843,0.768,0.117,0.256,0.0,0.614,0.662,rap
+Arjun Kanungo;Momina Mustehsan,Aaya Na Tu,0.665,0.539,0.0474,0.825,5.85e-06,0.121,0.368,rap
+Shubh,Offshore,0.801,0.346,0.252,0.0468,0.00169,0.112,0.653,rap
+Imran Khan,Bewafa,0.704,0.563,0.0297,0.594,0.0,0.133,0.0739,rap
+Yo Yo Honey Singh,Blue Eyes,0.77,0.51,0.192,0.137,0.000106,0.0346,0.533,rap
+Sidhu Moose Wala;AR Paisley,Love Sick (feat. AR Paisley),0.824,0.543,0.209,0.101,0.0,0.178,0.548,rap
+AP Dhillon;Shinda Kahlon;Gminxr,Final Thoughts,0.691,0.614,0.0534,0.027,0.106,0.158,0.061,rap
+Karan Aujla;YG,Gangsta,0.791,0.687,0.104,0.00665,2.12e-06,0.0986,0.513,rap
+Kailash Kher;Paresh Kamath;Naresh Kamath,Saiyyan,0.473,0.562,0.0451,0.65,0.000117,0.12,0.316,rap
+Tegi Pannu;Manni Sandhu,Schedule,0.826,0.581,0.21,0.518,2.49e-06,0.0703,0.787,rap
+Guri,Nira Ishq,0.703,0.609,0.0444,0.111,0.0,0.0515,0.696,rap
+Maninder Buttar,Ik Tera,0.826,0.712,0.0727,0.095,0.0,0.105,0.49,rap
+Guru Randhawa;Asees Kaur,"Nain Ta Heere (From ""Jugjugg Jeeyo"")",0.69,0.575,0.124,0.345,0.0,0.309,0.509,rap
+MC STAN,Shana Bann,0.674,0.514,0.227,0.0126,0.0,0.158,0.192,rap
+MC STAN,Basti Ka Hasti,0.726,0.624,0.382,0.156,0.0,0.601,0.421,rap
+Sidhu Moose Wala,East Side Flow,0.767,0.867,0.247,0.109,0.0,0.155,0.786,rap
+Anirudh Ravichander;Dhanush;Shruti Haasan,Kannazhaga - The Kiss of Love,0.574,0.496,0.0277,0.431,0.0,0.399,0.61,rap
+Sidhu Moose Wala,SYL,0.628,0.703,0.0812,0.0263,0.0,0.26,0.594,rap
+DIVINE,Kaam 25 - Sacred Games,0.484,0.948,0.451,0.0473,0.0,0.0565,0.686,rap
+Sidhu Moose Wala;Byg Bird,Outlaw,0.727,0.672,0.0426,0.181,0.0,0.189,0.135,rap
+Sidhu Moose Wala;Raja Kumari,US (feat. Raja Kumari),0.524,0.601,0.0404,0.663,0.0,0.114,0.598,rap
+Maninder Buttar;Zahrah S Khan;Tanishk Bagchi,Sakhiyan2.0,0.817,0.715,0.0484,0.183,0.0,0.214,0.398,rap
+Sidhu Moose Wala;Bohemia,These Days (feat. Bohemia),0.73,0.748,0.152,0.0936,0.0,0.282,0.694,rap
+The Kid LAROI;Justin Bieber,STAY (with Justin Bieber),0.591,0.764,0.0483,0.0383,0.0,0.103,0.478,rap
+Mika Singh;Ali Quli Mirza,Ishqam,0.735,0.839,0.0381,0.129,0.0,0.41,0.609,rap
+Tegi Pannu;Manni Sandhu,Untouchable,0.658,0.603,0.0676,0.472,0.0,0.124,0.519,rap
+Anirudh Ravichander,Pablo Sandhanam - Background Score,0.843,0.579,0.352,0.278,0.0174,0.384,0.395,rap
+Neeraj Shridhar;Kavita Seth,Tum Hi Ho Bandhu,0.715,0.89,0.051,0.00111,0.000837,0.0297,0.891,rap
+Anirudh Ravichander;Ravi G;Shashaa Tirupati,"Naan Pizhai (From ""Kaathuvaakula Rendu Kaadhal"")",0.401,0.488,0.0288,0.6,0.0,0.124,0.455,rap
+Sachin-Jigar;Rashmeet Kaur;Shamur;IP Singh,"Nadiyon Paar (Let the Music Play Again) (From ""Roohi"")",0.875,0.846,0.0716,0.137,1.15e-05,0.123,0.697,rap
+Anirudh Ravichander,"Beast Mode (From ""Beast"")",0.584,0.847,0.0933,0.00105,0.000525,0.333,0.371,rap
+Stephen Zechariah;Srinisha Jayaseelan,Adi Penne,0.591,0.648,0.0392,0.449,0.0,0.382,0.423,rap
+Anirudh Ravichander,Kanave Kanave,0.47,0.513,0.0294,0.373,6.5e-06,0.123,0.477,rap
+Anirudh Ravichander;Ajesh,Idhazhin Oram - The Innocence of Love,0.65,0.783,0.0377,0.22,3.71e-06,0.182,0.302,rap
+Anirudh Ravichander;Mohit Chauhan,Po Nee Po - The Pain of Love,0.549,0.619,0.0344,0.372,7.67e-06,0.146,0.407,rap
+Drake;Wizkid;Kyla,One Dance,0.788,0.605,0.0578,0.00899,0.00275,0.318,0.427,rap
+Coolio;L.V.,Gangsta's Paradise,0.647,0.514,0.0593,0.0655,0.0,0.398,0.386,rap
+Ali Gatie,It's You,0.732,0.463,0.0287,0.374,0.0,0.194,0.397,rap
+Yo Yo Honey Singh;Millind Gaba;Asli GOLD,Paris Ka Trip,0.814,0.723,0.235,0.178,0.0,0.0445,0.768,rap
+DIVINE,Gunehgar,0.643,0.906,0.31,0.105,0.0,0.861,0.541,rap
+Ritviz,Liggi,0.786,0.667,0.054,0.0112,0.053,0.074,0.688,rap
+Vilen,Ek Raat,0.645,0.534,0.0306,0.147,4.3e-06,0.0858,0.302,rap
+Imran Khan,Aaja We Mahiya,0.639,0.594,0.0347,0.131,0.0,0.119,0.378,rap
+Guru Randhawa;Sanjoy,Moon Rise,0.756,0.713,0.122,0.365,0.000153,0.228,0.597,rap
+Paradox,Jaadugar,0.674,0.566,0.0802,0.77,0.0,0.181,0.186,rap
+XXXTENTACION,SAD!,0.74,0.613,0.145,0.258,0.00372,0.123,0.473,rap
+Ritviz,Udd Gaye,0.595,0.817,0.0474,0.000712,0.0386,0.142,0.483,rap
+Arjun Kanungo;King,Ilzaam (From the Album 'Industry'),0.697,0.66,0.0352,0.472,0.0,0.243,0.301,rap
+The Landers,Gustakhiyan,0.824,0.589,0.39,0.257,0.0,0.254,0.565,rap
+King,Pablo,0.731,0.73,0.123,0.411,0.0,0.052,0.503,rap
+Bhalwaan;Signature By SB,Sift,0.767,0.745,0.0589,0.45,0.0,0.281,0.448,rap
+Karan Aujla;KR$NA;Mehar Vaani,Ykwim,0.837,0.575,0.127,0.0361,7.23e-06,0.457,0.655,rap
+AP Dhillon;Shinda Kahlon;Gminxr,Arrogant,0.751,0.739,0.045,0.2,0.0,0.0926,0.405,rap
+Jass Manak;DIVINE,No Competition,0.868,0.635,0.227,0.164,0.0,0.0898,0.621,rap
+Emiway Bantai,GRIND,0.848,0.735,0.0445,0.291,0.0,0.0713,0.57,rap
+Jaura Phagwara,Sarkar,0.69,0.399,0.0576,0.202,0.0,0.247,0.311,rap
+Badshah;Aastha Gill,Paani Paani,0.886,0.579,0.209,0.236,4.23e-06,0.0586,0.427,rap
+Imran Khan,Satisfya,0.726,0.652,0.11,0.00451,3.32e-05,0.226,0.803,rap
+Zack Knight;Jasmin Walia,Bom Diggy Diggy,0.782,0.827,0.0627,0.159,0.0,0.226,0.498,rap
+Bilal Saeed,Teri Khair Mangdi,0.718,0.58,0.028,0.602,0.0,0.196,0.31,rap
+Vilen,Kyun Dhunde,0.711,0.346,0.0291,0.766,0.0,0.212,0.771,rap
+Sidhu Moose Wala;Stefflon Don,Invincible (feat. Stefflon Don),0.774,0.672,0.0621,0.276,1.82e-05,0.111,0.307,rap
+Sidhu Moose Wala;Tion Wayne,Celebrity Killer (feat. Tion Wayne),0.714,0.72,0.136,0.102,0.0,0.344,0.592,rap
+Lil Nas X,MONTERO (Call Me By Your Name),0.593,0.503,0.22,0.293,0.0,0.405,0.71,rap
+AP Dhillon;Shinda Kahlon;Gurinder Gill;Gminxr,MAJHE AALE,0.871,0.496,0.0721,0.035,2.83e-05,0.0742,0.287,rap
+Sidhu Moose Wala,Bitch I'm Back,0.71,0.772,0.103,0.203,0.0,0.853,0.789,rap
+Jordan Sandhu,Freestyle,0.733,0.812,0.272,0.0872,0.0,0.136,0.535,rap
+Anirudh Ravichander;Sunidhi Chauhan;Sanjana Kalmanje,"Two Two Two (From ""Kaathuvaakula Rendu Kaadhal"")",0.821,0.69,0.187,0.0202,0.00398,0.199,0.648,rap
+Badshah;Diljit Dosanjh;Aastha Gill,Proper Patola,0.77,0.824,0.0851,0.485,0.0,0.318,0.49,rap
+Lil Baby,Emotionally Scarred,0.585,0.641,0.133,0.0286,0.0,0.316,0.266,rap
+Lil Baby,In A Minute,0.643,0.605,0.297,0.0336,0.0,0.112,0.145,rap
+Future;Lil Uzi Vert,Tic Tac,0.942,0.566,0.226,0.0773,0.0,0.11,0.479,rap
+Anirudh Ravichander,"Porkanda Singam (EDM Version) [From ""Vikram""]",0.685,0.755,0.0476,0.102,0.194,0.159,0.422,rap
+Lil Baby;Gunna,Drip Too Hard,0.897,0.662,0.292,0.0852,0.0,0.534,0.39,rap
+Anirudh Ravichander,Sandhanam Theme - Background Score,0.619,0.84,0.0515,0.082,0.275,0.28,0.0805,rap
+Anirudh Ravichander;Vishal Dadlani,Oh Penne,0.483,0.65,0.0349,0.573,2.97e-05,0.228,0.637,rap
+Sidhu Moose Wala,Signed to God,0.833,0.67,0.194,0.046,0.0,0.0468,0.7,rap
+Lil Baby,All In,0.836,0.649,0.332,0.0716,0.0,0.0943,0.294,rap
+Anirudh Ravichander;Ravi G,Porkanda Singam,0.527,0.591,0.0282,0.626,0.00798,0.385,0.543,rap
+Hiphop Tamizha,Sakkarakatti,0.607,0.782,0.0856,0.305,0.0,0.062,0.747,rap
+Anirudh Ravichander,Wasted,0.651,0.827,0.0319,0.00162,0.0902,0.0803,0.851,rap
+Lil Baby;EST Gee,Real As It Gets,0.779,0.705,0.163,0.00471,0.0,0.0971,0.196,rap
+Lil Baby;EST Gee,Real As It Gets,0.779,0.705,0.163,0.00471,0.0,0.0971,0.196,rap
+Lil Baby;EST Gee,Real As It Gets,0.779,0.705,0.163,0.00471,0.0,0.0971,0.196,rap
+Hiphop Tamizha;Raghu Dixit;Sathyaprakash D.;Jithin Raj,Neeyum Naanum Anbe,0.467,0.826,0.049,0.298,0.0,0.204,0.417,rap
+French Montana;Swae Lee,Unforgettable,0.726,0.769,0.123,0.0293,0.0101,0.104,0.733,rap
+XXXTENTACION,Moonlight,0.921,0.537,0.0804,0.556,0.00404,0.102,0.711,rap
+Farasat Anees;Slick Trick;Toshi,BIBA,0.758,0.573,0.0428,0.0888,0.000677,0.0834,0.284,rap
+Brodha V,Aathma Raama,0.78,0.758,0.138,0.115,0.0,0.183,0.711,rap
+Zack Knight,Nakhre,0.524,0.632,0.0785,0.255,0.0,0.277,0.416,rap
+Sidhu Moose Wala;Sunny Malton,Fuck Em All,0.818,0.726,0.216,0.0916,1.01e-06,0.106,0.345,rap
+Zack Knight;Nora Fatehi,Dirty Little Secret,0.868,0.572,0.112,0.101,0.0,0.103,0.485,rap
+Ritviz;Nucleya,Baaraat,0.678,0.449,0.0869,0.477,0.0,0.536,0.606,rap
+DIVINE,Satya,0.598,0.804,0.123,0.0576,0.0,0.252,0.322,rap
+Eminem,Without Me,0.908,0.669,0.0738,0.00286,0.0,0.237,0.662,rap
+Bilal Saeed;Momina Mustehsan,Baari,0.658,0.539,0.0433,0.857,1.45e-06,0.0999,0.461,rap
+The Landers,Rule Over (Putt Jattan Dey),0.681,0.549,0.399,0.66,0.0,0.0936,0.549,rap
+King,Dejalo,0.768,0.444,0.0811,0.112,0.00314,0.145,0.563,rap
+Imran Khan,Pata Chalgea,0.771,0.69,0.174,0.0267,5.09e-06,0.0647,0.423,rap
+Anirudh Ravichander;Dhanush,Why This Kolaveri Di? - The Soup of Love,0.82,0.785,0.158,0.59,1.79e-05,0.372,0.894,rap
+Bhalwaan;Signature By SB,Priceless,0.665,0.572,0.262,0.37,0.0,0.282,0.634,rap
+Akhil,Bachalo,0.756,0.538,0.0485,0.654,0.0,0.172,0.516,rap
+Badshah;Neha Kakkar;Varun Dhawan,"Garmi (From ""Street Dancer 3D"") (feat. Varun Dhawan)",0.788,0.87,0.177,0.123,1.43e-05,0.0692,0.884,rap
+Raftaar;Rashmeet Kaur;Surbhi Jyoti,Ghana Kasoota (feat. Surbhi Jyoti),0.877,0.781,0.0548,0.0315,0.000397,0.239,0.373,rap
+MC STAN,Bitch,0.754,0.674,0.102,0.623,0.0,0.129,0.517,rap
+Karan Aujla,Oouuu,0.779,0.693,0.0885,0.0832,0.0,0.0874,0.469,rap
+MC STAN,Snake,0.707,0.625,0.145,0.709,2.77e-06,0.298,0.477,rap
+Kanika Kapoor;Devi Sri Prasad,"Oo Bolega Ya Oo Oo Bolega (From ""Pushpa The Rise Part - 01"")",0.922,0.763,0.0974,0.261,0.0672,0.464,0.478,rap
+Sidhu Moose Wala;Sunny Malton,Youngest In Charge,0.595,0.689,0.283,0.00463,0.0,0.154,0.519,rap
+Sidhu Moose Wala,GOAT,0.724,0.728,0.218,0.0459,5.84e-06,0.122,0.47,rap
+Daddy Yankee;Plan B,Sábado Rebelde,0.771,0.905,0.155,0.11,7.46e-06,0.656,0.858,rap
+Daddy Yankee;Bad Bunny,X ÚLTIMA VEZ,0.812,0.855,0.0554,0.0789,0.000167,0.108,0.573,rap
+Daddy Yankee;Bad Bunny,X ÚLTIMA VEZ,0.812,0.855,0.0554,0.0789,0.000167,0.108,0.573,rap
+Daddy Yankee;Bad Bunny,Vuelve,0.734,0.531,0.0321,0.196,0.0,0.119,0.199,rap
+Daddy Yankee;Bad Bunny,X ÚLTIMA VEZ,0.812,0.855,0.0554,0.0789,0.000167,0.108,0.573,rap
+Sidhu Moose Wala;Mr. Capone-E,Bloodlust (feat. Mr. Capone-E),0.552,0.667,0.333,0.0381,0.0,0.0777,0.348,rap
+Daddy Yankee;Bad Bunny,X ÚLTIMA VEZ,0.812,0.855,0.0554,0.0789,0.000167,0.108,0.573,rap
+Daddy Yankee;El Alfa;Lil Jon,BOMBÓN,0.843,0.789,0.247,0.0028,2.41e-05,0.0322,0.571,rap
+Anirudh Ravichander;Ananthakrrishnan,"So Baby (From ""Doctor"")",0.607,0.843,0.218,0.103,4.42e-05,0.107,0.582,rap
+Daddy Yankee;Bad Bunny,X ÚLTIMA VEZ,0.812,0.855,0.0554,0.0789,0.000167,0.108,0.573,rap
+Daddy Yankee;Sech,Definitivamente,0.812,0.764,0.101,0.59,0.0,0.253,0.431,rap
+Anirudh Ravichander;Jonita Gandhi,"Chellamma (From ""Doctor"")",0.498,0.679,0.214,0.256,0.000325,0.0589,0.743,rap
+Daddy Yankee;Wisin & Yandel,Si Supieras,0.691,0.894,0.115,0.291,0.0,0.104,0.623,rap
+Daddy Yankee,RUMBATÓN,0.685,0.909,0.0396,0.0471,0.0,0.35,0.922,rap
+Daddy Yankee,Limbo,0.805,0.878,0.0864,0.0754,0.00329,0.0656,0.922,rap
+Daddy Yankee;Myke Towers;Jhayco,SÚBELE EL VOLUMEN,0.83,0.623,0.0801,0.0219,0.0,0.0812,0.614,rap
+Hiphop Tamizha;Teejay;Al Rufian,Kadhal Oru Aagayam,0.488,0.585,0.0263,0.664,0.0,0.386,0.399,rap
+Daddy Yankee,RUMBATÓN,0.685,0.909,0.0396,0.0471,0.0,0.35,0.922,rap
+Daddy Yankee;Wisin & Yandel,Si Supieras,0.691,0.894,0.115,0.291,0.0,0.104,0.623,rap
+Daddy Yankee,Limbo,0.805,0.878,0.0864,0.0754,0.00329,0.0656,0.922,rap
+Daddy Yankee,RUMBATÓN,0.685,0.909,0.0396,0.0471,0.0,0.35,0.922,rap
+Daddy Yankee;Nicky Jam;Plan B;Rome & Urba,Shaky Shaky - Remix,0.813,0.786,0.154,0.107,0.0,0.238,0.828,rap
+Daddy Yankee,Pasarela,0.839,0.907,0.0453,0.101,0.0,0.332,0.737,rap
+Daddy Yankee;Divino,Nada Ha Cambiao’,0.735,0.906,0.11,0.0342,0.0,0.292,0.71,rap
+Daddy Yankee,Dura,0.783,0.84,0.051,0.174,0.0,0.412,0.838,rap
+Future,Mask Off,0.833,0.434,0.431,0.0102,0.0219,0.165,0.281,rap
+XXXTENTACION,Jocelyn Flores,0.872,0.391,0.242,0.469,4.13e-06,0.297,0.437,rap
+The Local Train,Choo Lo,0.512,0.695,0.0271,0.0265,0.00815,0.146,0.351,rap
+Drake;21 Savage,Jimmy Cooks (feat. 21 Savage),0.529,0.673,0.175,0.000307,2.41e-06,0.093,0.366,rap
+Yo Yo Honey Singh,Dheere Dheere,0.73,0.58,0.124,0.0399,2.48e-05,0.0703,0.55,rap
+Masked Wolf,Astronaut In The Ocean,0.778,0.695,0.0913,0.175,0.0,0.15,0.472,rap
+AP Dhillon;Gurinder Gill;Money Musik;AR Paisley,Takeover,0.788,0.752,0.0843,0.0711,0.0,0.61,0.236,rap
+King,Na Ja Tu,0.815,0.427,0.082,0.59,0.0,0.0648,0.167,rap
+AP Dhillon;Gurinder Gill;Gminxr,Droptop,0.899,0.479,0.272,0.0126,0.0,0.142,0.309,rap
+King,Sinner,0.731,0.694,0.0896,0.721,0.0,0.154,0.656,rap
+King,Champagne Talk,0.677,0.68,0.103,0.0616,4.49e-05,0.0812,0.473,rap
+Sidhu Moose Wala;Byg Byrd,"Dollar - From ""Dakuaan Da Munda""",0.612,0.829,0.0583,0.0606,0.0,0.38,0.694,rap
+Daddy Yankee;Plan B,Sábado Rebelde,0.771,0.905,0.155,0.11,7.46e-06,0.656,0.858,rap
+Daddy Yankee;Bad Bunny,X ÚLTIMA VEZ,0.812,0.855,0.0554,0.0789,0.000167,0.108,0.573,rap
+Daddy Yankee;Bad Bunny,X ÚLTIMA VEZ,0.812,0.855,0.0554,0.0789,0.000167,0.108,0.573,rap
+Daddy Yankee;Bad Bunny,X ÚLTIMA VEZ,0.812,0.855,0.0554,0.0789,0.000167,0.108,0.573,rap
+Eminem,The Real Slim Shady,0.949,0.661,0.0572,0.0302,0.0,0.0454,0.76,rap
+XXXTENTACION,SAD!,0.74,0.613,0.145,0.258,0.00372,0.123,0.473,rap
+King,IICONIC,0.549,0.751,0.179,0.637,0.0,0.113,0.164,rap
+Daddy Yankee;Bad Bunny,X ÚLTIMA VEZ,0.812,0.855,0.0554,0.0789,0.000167,0.108,0.573,rap
+Daddy Yankee;Bad Bunny,Vuelve,0.734,0.531,0.0321,0.196,0.0,0.119,0.199,rap
+Daddy Yankee;El Alfa;Lil Jon,BOMBÓN,0.843,0.789,0.247,0.0028,2.41e-05,0.0322,0.571,rap
+Daddy Yankee;Bad Bunny,Vuelve,0.734,0.531,0.0321,0.196,0.0,0.119,0.199,rap
+Daddy Yankee;Bad Bunny,X ÚLTIMA VEZ,0.812,0.855,0.0554,0.0789,0.000167,0.108,0.573,rap
+Sidhu Moose Wala;The Kidd,"Hathyar - From ""Sikander 2""",0.537,0.768,0.177,0.139,0.0,0.108,0.508,rap
+Daddy Yankee;Bad Bunny,X ÚLTIMA VEZ,0.812,0.855,0.0554,0.0789,0.000167,0.108,0.573,rap
+Daddy Yankee,RUMBATÓN,0.685,0.909,0.0396,0.0471,0.0,0.35,0.922,rap
+Daddy Yankee,RUMBATÓN,0.685,0.909,0.0396,0.0471,0.0,0.35,0.922,rap
+Daddy Yankee,RUMBATÓN,0.685,0.909,0.0396,0.0471,0.0,0.35,0.922,rap
+Daddy Yankee;Wisin & Yandel,Si Supieras,0.691,0.894,0.115,0.291,0.0,0.104,0.623,rap
+Daddy Yankee;Snow,Con Calma,0.737,0.86,0.0594,0.11,1.94e-06,0.0574,0.656,rap
+Daddy Yankee,RUMBATÓN,0.685,0.909,0.0396,0.0471,0.0,0.35,0.922,rap
+Daddy Yankee,RUMBATÓN,0.685,0.909,0.0396,0.0471,0.0,0.35,0.922,rap
+Daddy Yankee,Dura,0.783,0.84,0.051,0.174,0.0,0.412,0.838,rap
+Anirudh Ravichander;Jonita Gandhi,Private Party,0.861,0.886,0.122,0.182,1.29e-06,0.0559,0.898,rap
+Daddy Yankee,RUMBATÓN,0.685,0.909,0.0396,0.0471,0.0,0.35,0.922,rap
+Daddy Yankee,RUMBATÓN,0.685,0.909,0.0396,0.0471,0.0,0.35,0.922,rap
+Daddy Yankee;Nicky Jam;Plan B;Rome & Urba,Shaky Shaky - Remix,0.813,0.786,0.154,0.107,0.0,0.238,0.828,rap
+Daddy Yankee,Limbo,0.805,0.878,0.0864,0.0754,0.00329,0.0656,0.922,rap
+Daddy Yankee,Limbo,0.805,0.878,0.0864,0.0754,0.00329,0.0656,0.922,rap
+Daddy Yankee;Wisin & Yandel,Si Supieras,0.691,0.894,0.115,0.291,0.0,0.104,0.623,rap
+Daddy Yankee,Lovumba,0.73,0.939,0.0532,0.0347,0.0,0.335,0.939,rap
+Daddy Yankee,La Nueva Y La Ex,0.639,0.943,0.136,0.0462,0.0,0.141,0.639,rap
+Hiphop Tamizha;Kaushik Krish;Padmalatha,Kannala Kannala - The Melting Point of Love,0.593,0.776,0.0325,0.216,2.94e-05,0.329,0.634,rap
+Daddy Yankee,Shaky Shaky,0.899,0.626,0.292,0.076,0.0,0.0631,0.873,rap
+Daddy Yankee,Hula Hoop,0.799,0.818,0.0801,0.113,0.00315,0.0942,0.951,rap
+Daddy Yankee;Natalia Jiménez,La Noche De Los Dos,0.762,0.79,0.0988,0.109,2.73e-06,0.172,0.748,rap
+Daddy Yankee;Natti Natasha;Becky G;Bad Bunny,Dura - Remix,0.772,0.803,0.0468,0.187,0.0,0.434,0.853,rap
+Daddy Yankee,Sígueme Y Te Sigo,0.736,0.878,0.0428,0.0682,6.4e-05,0.756,0.662,rap
+Daddy Yankee,Sígueme Y Te Sigo,0.736,0.878,0.0428,0.0682,6.4e-05,0.756,0.662,rap
+Drake,God's Plan,0.754,0.449,0.109,0.0332,8.29e-05,0.552,0.357,rap
+Lil Nas X,Old Town Road,0.907,0.53,0.127,0.0578,2.23e-06,0.101,0.507,rap
+Yo Yo Honey Singh,Brown Rang,0.804,0.902,0.0846,0.265,0.000402,0.065,0.72,rap
+XXXTENTACION,Look At Me!,0.763,0.726,0.282,0.259,0.0,0.0976,0.349,rap
+Lil Nas X,MONTERO (Call Me By Your Name),0.61,0.508,0.152,0.297,0.0,0.384,0.758,rap
+KR$NA,Machayenge 4,0.833,0.8,0.298,0.262,0.0,0.435,0.685,rap
+AP Dhillon;Gurinder Gill;Manni Sandhu,Majhail,0.811,0.844,0.0898,0.31,0.0,0.731,0.889,rap
+Vishal Dadlani,Jee Le Zaraa,0.584,0.698,0.0376,0.447,0.0,0.0699,0.436,rap
+King,Pablo,0.731,0.73,0.123,0.411,0.0,0.052,0.503,rap
+Lil Nas X,STAR WALKIN' (League of Legends Worlds Anthem),0.637,0.715,0.0455,0.148,0.0,0.0892,0.308,rap
+King,OOPS,0.918,0.673,0.184,0.314,0.0,0.0555,0.828,rap
+PSY;SUGA,That That (prod. & feat. SUGA of BTS),0.905,0.962,0.0856,0.0299,0.0,0.0272,0.906,rap
+KR$NA,No Cap,0.888,0.782,0.21,0.23,0.0,0.315,0.82,rap
+Tegi Pannu;Manni Sandhu,Fully Loaded,0.783,0.607,0.133,0.091,0.0,0.0986,0.862,rap
+Varinder Brar,12 Bande,0.706,0.693,0.259,0.0123,0.0,0.346,0.838,rap
+MC STAN,Broke Is A Joke,0.74,0.648,0.0374,0.659,0.0,0.11,0.4,rap
+King,Broken Dreams,0.859,0.599,0.145,0.511,0.0,0.11,0.183,rap
+Sidhu Moose Wala,Death Route,0.699,0.633,0.139,0.397,0.0,0.0864,0.534,rap
+Benny Dayal;Shalmali Kholgade;Pritam,Lat Lag Gayee,0.79,0.892,0.0404,0.228,1.18e-06,0.206,0.896,rap
+Lil Nas X;Jack Harlow,INDUSTRY BABY (feat. Jack Harlow),0.741,0.691,0.0672,0.0221,0.0,0.0476,0.892,rap
+Rav Aulakh,Lethal,0.781,0.768,0.183,0.744,5.92e-06,0.11,0.816,rap
+Sidhu Moose Wala,Jaat Da Muqabala,0.716,0.934,0.0448,0.0561,7.33e-06,0.147,0.749,rap
+Sidhu Moose Wala,Dawood,0.664,0.834,0.0846,0.0326,0.0,0.273,0.47,rap
+King,Me & Me,0.82,0.491,0.28,0.237,0.0,0.102,0.547,rap
+Tegi Pannu;Manni Sandhu,Into You,0.72,0.711,0.0457,0.309,0.0,0.492,0.713,rap
+Anirudh Ravichander;Shweta Mohan,Enna Solla - The New Life of Tamizh,0.621,0.515,0.0453,0.616,0.000137,0.11,0.657,rap
+Ranveer Singh;Dub Sharma;DIVINE,Apna Time Aayega,0.766,0.618,0.124,0.0187,0.000115,0.181,0.513,rap
+Eminem;Nate Dogg,Till I Collapse,0.548,0.847,0.186,0.0622,0.0,0.0816,0.1,rap
+Vilen,Aankhein,0.416,0.363,0.0294,0.512,1.3e-05,0.106,0.469,rap
+Wazir Patar;Azaad,Pind Da Riwaaz,0.904,0.767,0.232,0.0457,9.17e-06,0.072,0.656,rap
+Daler Mehndi;Hrishikesh;Neuman;FRANCO;Shazneen Arethna;Samantha;Sunayana,Aasman Ko Chukar,0.536,0.438,0.103,0.119,0.0,0.129,0.127,rap
+Karan Aujla,Game Over,0.846,0.573,0.0633,0.0437,0.0,0.0856,0.553,rap
+Sidhu Moose Wala;Shooter Kahlon,Satisfy,0.683,0.8,0.168,0.431,0.0,0.357,0.748,rap
+Sidhu Moose Wala,Built Different,0.739,0.706,0.0487,0.141,0.0,0.299,0.784,rap
+Mugen Rao;Prashan Sean,Pogiren,0.455,0.774,0.0569,0.843,0.0,0.131,0.215,rap
+Badshah,She Move It Like,0.832,0.477,0.0481,0.00725,6.47e-05,0.205,0.844,rap
+Sidhu Moose Wala,Legend,0.754,0.845,0.161,0.126,0.0,0.603,0.793,rap
+Anirudh Ravichander,"Enakenna Yaarum Illaye (From ""Aakko"")",0.571,0.818,0.0857,0.0966,0.0,0.16,0.781,rap
+Sidhu Moose Wala,"Jailaan (From ""Moosa Jatt"")",0.593,0.791,0.165,0.0343,0.0,0.0654,0.881,rap
+Anirudh Ravichander;Dhanush,Po Indru Neeyaga,0.489,0.595,0.0273,0.262,0.0,0.0813,0.459,rap
+Anirudh Ravichander;Yuvan Shankar Raja,Andha Kanna Paathaakaa,0.747,0.86,0.279,0.301,0.0383,0.0743,0.625,rap
+Sidhu Moose Wala;Sonam Bajwa,Brown Shortie (feat. Sonam Bajwa),0.794,0.862,0.223,0.246,0.0,0.337,0.852,rap
+Ajay-Atul;Ajay Gogavale,Deva Shree Ganesha,0.34,0.96,0.0802,0.238,4.32e-06,0.0378,0.475,rap
+Sidhu Moose Wala,Burberry,0.681,0.738,0.287,0.225,0.0,0.532,0.624,rap
+Sidhu Moose Wala,Malwa Block,0.494,0.786,0.284,0.165,0.0,0.783,0.594,rap
+Anirudh Ravichander;Dhanush;Shruti Haasan,Kannuladha - The Kiss of Love,0.592,0.548,0.0282,0.436,1.59e-05,0.296,0.583,rap
+Sidhu Moose Wala;Sikander Kahlon,Racks and Rounds (feat. Sikander Kahlon),0.657,0.836,0.127,0.376,0.0,0.0919,0.837,rap
+Anirudh Ravichander;Shakthisree Gopalan,Yaanji,0.692,0.624,0.0337,0.368,0.0,0.108,0.487,rap
+Anirudh Ravichander;Anthony Daasan,Dippam Dappam,0.828,0.719,0.106,0.0919,0.000488,0.051,0.748,rap
+Stephen Zechariah;Saindhavi,Nesamaguren,0.413,0.419,0.0314,0.602,0.000113,0.13,0.264,rap
+Drake;Wizkid;Kyla,One Dance,0.792,0.625,0.0536,0.00776,0.0018,0.329,0.37,rap
+Eminem;Dido,Stan,0.78,0.768,0.238,0.0371,2.34e-06,0.518,0.507,rap
+Kailash Kher;Paresh Kamath;Naresh Kamath,Teri Deewani,0.447,0.6,0.0332,0.324,0.0,0.0962,0.434,rap
+Travis Scott;HVME,Goosebumps - Remix,0.841,0.593,0.0379,0.418,0.0,0.124,0.808,rap
+Sidhu Moose Wala;The PropheC,Sohne Lagde,0.589,0.716,0.145,0.354,0.0,0.109,0.327,rap
+Ajey Nagar (CarryMinati);Wily Frenzy,Yalgaar,0.726,0.818,0.176,0.538,1.01e-06,0.111,0.812,rap
+Karan Aujla,Don't Look,0.576,0.889,0.198,0.185,0.0,0.71,0.623,rap
+Wazir Patar,Notorious,0.829,0.615,0.261,0.0657,0.0,0.0683,0.525,rap
+Jass Manak,Prada,0.721,0.65,0.0903,0.0361,0.0,0.358,0.502,rap
+Paradox,Bt Ho Gayi,0.805,0.703,0.399,0.113,0.0,0.165,0.771,rap
+Akull,Laal Bindi,0.746,0.599,0.0463,0.407,0.0,0.162,0.283,rap
+Sidhu Moose Wala;Afsana Khan,Dhakka,0.731,0.727,0.327,0.0907,2.67e-05,0.852,0.79,rap
+Jass Manak,Naah,0.572,0.533,0.0645,0.347,0.0,0.0794,0.441,rap
+Mustafa Zahid,Bhula Dena,0.515,0.508,0.0297,0.633,0.0,0.203,0.235,rap
+Sunanda Sharma;Tanishk Bagchi,"Mummy Nu Pasand (From ""Jai Mummy Di"")",0.776,0.969,0.105,0.0149,0.000153,0.352,0.802,rap
+Badshah;Payal Dev,"Sajna, Say Yes To The Dress",0.633,0.776,0.173,0.296,0.0,0.225,0.889,rap
+Guru Randhawa;Nikhita Gandhi;Tanishk Bagchi;Nora Fatehi,Naach Meri Rani,0.676,0.488,0.154,0.0613,0.0,0.0707,0.151,rap
+Sidhu Moose Wala;Blockboi Twitch,G-Shit (feat. Blockboi Twitch),0.658,0.761,0.257,0.0531,0.0,0.216,0.843,rap
+Gunna;Future;Young Thug,Pushin P,0.773,0.422,0.187,0.00783,0.00693,0.129,0.488,rap
+Jordan Sandhu;Mehar Vaani;Desi Crew,Black Effect,0.676,0.739,0.159,0.137,0.0,0.233,0.755,rap
+Eminem;Juice WRLD,Godzilla (feat. Juice WRLD),0.808,0.745,0.342,0.145,0.0,0.292,0.829,rap
+Gunna;Future;Young Thug,Pushin P,0.773,0.422,0.187,0.00783,0.00693,0.129,0.488,rap
+Satinder Sartaaj,Udaarian,0.659,0.712,0.0352,0.584,0.0,0.201,0.883,rap
+Raj Ranjodh,Attitude,0.644,0.77,0.0561,0.0541,0.0,0.22,0.367,rap
+Gunna,Banking on Me,0.793,0.308,0.0466,0.613,1.68e-05,0.0953,0.46,rap
+Anirudh Ravichander,Gaali Vaaluga,0.677,0.81,0.0378,0.643,3e-06,0.168,0.614,rap
+MC STAN,Ek Din Pyaar,0.717,0.699,0.251,0.223,0.0,0.139,0.689,rap
+Kahlon,Gucci di Sole,0.658,0.87,0.308,0.0113,0.0,0.351,0.376,rap
+Gunna,Banking on Me,0.793,0.308,0.0466,0.613,1.68e-05,0.0953,0.46,rap
+Gunna,Banking on Me,0.793,0.308,0.0466,0.613,1.68e-05,0.0953,0.46,rap
+Anirudh Ravichander;Jonita Gandhi,"Halamithi Habibo (From ""Beast"")",0.705,0.852,0.252,0.226,0.000626,0.14,0.671,rap
+Gunna,Banking on Me,0.793,0.308,0.0466,0.613,1.68e-05,0.0953,0.46,rap
+Gunna;Future;Young Thug,Pushin P,0.773,0.422,0.187,0.00783,0.00693,0.129,0.488,rap
+Gunna;Future;Young Thug,Pushin P,0.773,0.422,0.187,0.00783,0.00693,0.129,0.488,rap
+Gunna;Future;Young Thug,Pushin P,0.773,0.422,0.187,0.00783,0.00693,0.129,0.488,rap
+Gunna;Future;Young Thug,Pushin P,0.773,0.422,0.187,0.00783,0.00693,0.129,0.488,rap
+Gunna;Chlöe,you & me,0.744,0.535,0.0736,0.279,0.0,0.143,0.106,rap
+Sidhu Moose Wala,Regret,0.348,0.636,0.0577,0.467,0.0,0.0944,0.466,rap
+Karan Aujla,They Know,0.753,0.72,0.232,0.063,0.0,0.237,0.613,rap
+Anirudh Ravichander;Mohit Chauhan,Po Ve Po - The Pain of Love,0.568,0.62,0.0358,0.489,2.16e-05,0.108,0.347,rap
+Anirudh Ravichander;Gana Balachandar,Vaathi Coming,0.643,0.952,0.246,0.276,0.49,0.0588,0.585,rap
+Young Thug,Best Friend,0.959,0.598,0.0713,0.0358,0.0,0.358,0.408,rap
+Gunna;Future;Young Thug,Pushin P,0.773,0.422,0.187,0.00783,0.00693,0.129,0.488,rap
+Sidhu Moose Wala,Aroma,0.554,0.524,0.0377,0.325,0.0,0.0964,0.253,rap
+Anirudh Ravichander,Senjitaley,0.655,0.941,0.14,0.476,3.22e-06,0.215,0.344,rap
+Anirudh Ravichander;Arjun Kanungo;Srinidhi Venkatesh,Sirikkadhey,0.632,0.629,0.0354,0.151,0.00382,0.114,0.456,rap
+King,She Don't Give A,0.557,0.471,0.355,0.517,2.6e-06,0.112,0.26,rap
+Gunna;Young Thug,mop,0.878,0.575,0.284,0.00293,0.0,0.273,0.399,rap
+Hiphop Tamizha;Anirudh Ravichander,"Takkunu Takkunu - From ""Mr. Local""",0.811,0.587,0.0872,0.0829,0.0,0.173,0.758,rap
+Hiphop Tamizha;Christopher Stanley;Sudarshan Ashok;Srinisha Jayaseelan,"Vilambara Idaiveli - From ""Imaikkaa Nodigal""",0.631,0.818,0.0338,0.11,0.0,0.091,0.551,rap
+Kendrick Lamar;SZA,All The Stars (with SZA),0.698,0.633,0.0597,0.0605,0.000194,0.0926,0.552,rap
+Ritviz,Aaj Na,0.659,0.345,0.107,0.106,0.0,0.107,0.338,rap
+Lizzo,About Damn Time,0.836,0.743,0.0656,0.0995,0.0,0.335,0.722,rap
+The Yellow Diary;Shilpa Rao,Roz Roz,0.653,0.446,0.0351,0.546,4.52e-05,0.109,0.472,rap
+Raftaar;Sukh-E Muzical Doctorz,All Black,0.813,0.734,0.0577,0.072,0.0,0.118,0.652,rap
+Emiway Bantai,Machayenge,0.807,0.628,0.204,0.0146,0.0,0.0598,0.718,rap
+Arivu,Who Am I ?,0.692,0.746,0.0744,0.565,0.535,0.572,0.917,rap
+Ritviz,Sage,0.663,0.412,0.364,0.00434,0.019,0.215,0.356,rap
+DIVINE,Chal Bombay,0.862,0.619,0.318,0.0434,0.0,0.117,0.512,rap
+Badshah;J Balvin;Tainy,Voodoo (with J Balvin & Tainy),0.797,0.782,0.0504,0.00335,0.0,0.138,0.503,rap
+AP Dhillon,Top Boy,0.804,0.609,0.268,0.375,1.74e-06,0.109,0.652,rap
+AP Dhillon;Gurinder Gill;Money Musik;Shinda Kahlon,Fate,0.632,0.761,0.0865,0.173,0.579,0.113,0.0679,rap
+Amrit Maan;The PropheC,Hanji Hanji,0.871,0.553,0.0484,0.346,1.43e-05,0.11,0.53,rap
+MC SQUARE,Ram Ram,0.718,0.655,0.0751,0.187,0.0,0.498,0.569,rap
+Jass Manak,Naah Lofi,0.41,0.449,0.046,0.576,4.59e-06,0.757,0.235,rap
+Jordan Sandhu,Teeje Week,0.679,0.77,0.19,0.0583,0.0,0.0825,0.839,rap
+Deep Jandu;DIVINE,Bombay to Punjab,0.584,0.739,0.369,0.117,0.0,0.0534,0.361,rap
+Badshah;Payal Dev,Genda Phool (feat. Payal Dev),0.955,0.538,0.0734,0.132,0.00146,0.0704,0.837,rap
+Guru Randhawa;Arjun,Suit Suit,0.767,0.869,0.0908,0.14,0.0,0.221,0.751,rap
+Eminem,Not Afraid,0.855,0.954,0.264,0.529,0.0,0.205,0.668,rap
+Karan Aujla,Laut Aana,0.518,0.664,0.038,0.374,0.0,0.336,0.44,rap
+Oliver Tree,Life Goes On,0.7,0.49,0.076,0.186,0.0,0.117,0.569,rap
+Sidhu Moose Wala;Intense,Famous,0.701,0.607,0.264,0.04,0.0,0.353,0.544,rap
+Dilpreet Dhillon;Desi Crew;Kaur B,Gaddi Vich,0.875,0.555,0.076,0.179,0.0,0.124,0.59,rap
+Sukhwinder Singh,Haule Haule,0.712,0.776,0.213,0.541,2.17e-06,0.0896,0.96,rap
+Badshah,Mercy,0.835,0.767,0.0877,0.0716,0.000187,0.173,0.786,rap
+Sidhu Moose Wala;Sunny Malton,Chosen,0.726,0.809,0.358,0.47,0.0,0.3,0.622,rap
+The Local Train,Dil Mere,0.655,0.473,0.0267,0.842,0.0323,0.167,0.572,rap
+Mac Miller;Ariana Grande,My Favorite Part,0.861,0.329,0.0527,0.629,1.88e-06,0.14,0.717,rap
+Sidhu Moose Wala,Tibeyan Da Putt,0.54,0.56,0.381,0.0466,0.0,0.218,0.727,rap
+Mac Miller,Ascension,0.763,0.53,0.132,0.368,3.41e-06,0.154,0.296,rap
+Sachin-Jigar;Priya Saraiya;Jaideep Sahni,Gulabi,0.673,0.663,0.0446,0.0648,1.79e-05,0.117,0.678,rap
+Mac Miller;Ty Dolla $ign,Cinderella,0.408,0.533,0.0536,0.235,0.0,0.345,0.239,rap
+Kid Cudi,The Prayer,0.735,0.76,0.114,0.366,1.52e-05,0.606,0.687,rap
+Anirudh Ravichander;Dhanush;Nikhita Gandhi,Oh Oh - The First Love of Tamizh,0.594,0.587,0.0268,0.413,0.00013,0.0904,0.448,rap
+Anirudh Ravichander,Udhungada Sangu,0.449,0.802,0.1,0.22,0.0,0.0654,0.741,rap
+Anirudh Ravichander;Kamal Haasan,Pathala Pathala,0.827,0.78,0.375,0.356,0.0,0.0651,0.938,rap
+Anirudh Ravichander;Bjorn Surrao,"Master the Blaster (From ""Master"")",0.756,0.816,0.0972,0.3,0.0,0.172,0.899,rap
+Jack Harlow,ICE,0.937,0.632,0.157,0.0265,0.0,0.111,0.542,rap
+Anirudh Ravichander;Sid Sriram,Yennai Maatrum Kadhale,0.515,0.766,0.0936,0.46,3.27e-06,0.136,0.346,rap
+Vishal Dadlani;Sachin-Jigar,"Kudi Nu Nachne De (From ""Angrezi Medium"")",0.834,0.688,0.0653,0.175,0.0,0.174,0.876,rap
+Sidhu Moose Wala;DIVINE,Moosedrilla (feat. DIVINE),0.709,0.829,0.245,0.0698,0.0,0.561,0.654,rap
+Mac Miller,What's the Use?,0.759,0.492,0.12,0.736,0.0102,0.107,0.561,rap
+Mac Miller;Chief Keef,Cut the Check,0.842,0.685,0.251,0.0473,0.0,0.119,0.499,rap
+Mac Miller;Kendrick Lamar,"God Is Fair, Sexy Nasty",0.504,0.409,0.188,0.347,3.09e-05,0.112,0.137,rap
+Mac Miller;Earl Sweatshirt,Polo Jeans,0.732,0.635,0.41,0.493,7.02e-06,0.388,0.581,rap
+Kid Cudi;MGMT;Ratatat;Steve Aoki,Pursuit Of Happiness - Extended Steve Aoki Remix,0.721,0.687,0.0554,0.00957,0.0041,0.0462,0.619,rap
+Mac Miller;Earl Sweatshirt;Da$H,New Faces v2,0.479,0.598,0.323,0.0536,0.0,0.456,0.244,rap
+Stephen Zechariah;Pragathi Guruprasad,Usuraiya Tholaichaen,0.567,0.585,0.0329,0.517,4.84e-06,0.115,0.374,rap
+Mac Miller,When in Rome,0.838,0.7,0.0735,0.0513,0.0,0.262,0.216,rap
+Alfaaz,Hai Mera Dil,0.739,0.839,0.0356,0.475,0.0,0.341,0.904,rap
+Eminem;Rihanna,Love The Way You Lie,0.749,0.925,0.227,0.241,0.0,0.52,0.641,rap
+Yung Gravy,Betty (Get Money),0.723,0.772,0.0792,0.00524,1.15e-05,0.367,0.58,rap
+Sidhu Moose Wala,Selfmade,0.659,0.666,0.041,0.0988,0.0,0.278,0.326,rap
+Jack Harlow,First Class,0.905,0.563,0.102,0.0254,9.71e-06,0.113,0.324,rap
+AP Dhillon;Gurinder Gill;Money Musik,Goat,0.725,0.821,0.154,0.103,3e-06,0.118,0.135,rap
+Jack Harlow,RAIN,0.877,0.607,0.102,0.00181,1.69e-05,0.107,0.131,rap
+Jack Harlow,First Class,0.905,0.563,0.102,0.0254,9.71e-06,0.113,0.324,rap
+Jack Harlow;Drake,Churchill Downs,0.71,0.522,0.36,0.615,0.0,0.11,0.37,rap
+Jass Manak,Tera Mera Viah,0.793,0.719,0.125,0.352,0.0,0.574,0.435,rap
+Jack Harlow,First Class,0.905,0.563,0.102,0.0254,9.71e-06,0.113,0.324,rap
+Jack Harlow,First Class,0.905,0.563,0.102,0.0254,9.71e-06,0.113,0.324,rap
+Jack Harlow,First Class,0.905,0.563,0.102,0.0254,9.71e-06,0.113,0.324,rap
+Jack Harlow,ICE,0.937,0.632,0.157,0.0265,0.0,0.111,0.542,rap
+VTORNIK;Phonk,Money Rain - Phonk Remix,0.936,0.791,0.235,0.355,0.00628,0.168,0.746,rap
+Jack Harlow,First Class,0.905,0.563,0.102,0.0254,9.71e-06,0.113,0.324,rap
+Jack Harlow,Nail Tech,0.647,0.581,0.0884,0.0029,7.76e-06,0.119,0.113,rap
+Dabzee;SA,"Manavaalan Thug - From ""Thallumaala""",0.809,0.583,0.0605,0.356,0.0,0.0622,0.478,rap
+Jack Harlow;Drake,Churchill Downs,0.71,0.522,0.36,0.615,0.0,0.11,0.37,rap
+Sidhu Moose Wala,B & W,0.886,0.749,0.0966,0.185,0.0,0.0983,0.833,rap
+Jack Harlow,First Class,0.905,0.563,0.102,0.0254,9.71e-06,0.113,0.324,rap
+Jack Harlow,SUNDAY NIGHT,0.764,0.776,0.0329,0.124,0.000512,0.327,0.772,rap
+Jack Harlow,First Class,0.905,0.563,0.102,0.0254,9.71e-06,0.113,0.324,rap
+Jack Harlow,First Class,0.905,0.563,0.102,0.0254,9.71e-06,0.113,0.324,rap
+Jack Harlow,First Class,0.905,0.563,0.102,0.0254,9.71e-06,0.113,0.324,rap
+Jack Harlow;Drake,Churchill Downs,0.71,0.522,0.36,0.615,0.0,0.11,0.37,rap
+Jack Harlow;Drake,Churchill Downs,0.71,0.522,0.36,0.615,0.0,0.11,0.37,rap
+Jack Harlow;Adam Levine,Same Guy,0.791,0.586,0.147,0.181,0.0,0.105,0.643,rap
+Jack Harlow;Drake,Churchill Downs,0.71,0.522,0.36,0.615,0.0,0.11,0.37,rap
+Jack Harlow;Drake,Churchill Downs,0.71,0.522,0.36,0.615,0.0,0.11,0.37,rap
+Jack Harlow,SUNDOWN,0.816,0.754,0.152,0.163,0.00199,0.105,0.703,rap
+Jack Harlow;Drake,Churchill Downs,0.71,0.522,0.36,0.615,0.0,0.11,0.37,rap
+Sachin-Jigar;Parineeti Chopra;Kausar Munir,Maana Ke Hum Yaar Nahin,0.537,0.367,0.0241,0.815,0.0,0.132,0.348,rap
+Jack Harlow;Drake,Churchill Downs,0.71,0.522,0.36,0.615,0.0,0.11,0.37,rap
+Jack Harlow;jetsonmade,I WANNA SEE SOME ASS,0.907,0.652,0.0578,0.284,0.000337,0.135,0.93,rap
+Jack Harlow,WALK IN THE PARK,0.956,0.519,0.167,0.0712,0.0,0.106,0.529,rap
+Sidhu Moose Wala,Calaboose,0.747,0.758,0.0742,0.0568,0.0,0.331,0.56,rap
+Jack Harlow,First Class,0.905,0.563,0.102,0.0254,9.71e-06,0.113,0.324,rap
+Jack Harlow,First Class,0.905,0.563,0.102,0.0254,9.71e-06,0.113,0.324,rap
+Jack Harlow,First Class,0.905,0.563,0.102,0.0254,9.71e-06,0.113,0.324,rap
+Jack Harlow,First Class,0.905,0.563,0.102,0.0254,9.71e-06,0.113,0.324,rap
+Jack Harlow;Big Sean,Way Out,0.945,0.582,0.0719,0.114,0.0,0.103,0.907,rap
+Jack Harlow,First Class,0.905,0.563,0.102,0.0254,9.71e-06,0.113,0.324,rap
+Jack Harlow,2STYLISH,0.941,0.618,0.079,0.0112,0.0,0.0911,0.489,rap
+Jack Harlow,I'd Do Anything to Make You Smile,0.832,0.522,0.05,0.012,0.079,0.377,0.253,rap
+Jack Harlow,BIG CHILLIN,0.81,0.69,0.299,0.0102,0.0,0.292,0.585,rap
+Jack Harlow;Pooh Shiesty,SUVs (Black on Black),0.813,0.706,0.425,0.139,0.0,0.0994,0.44,rap
+Jack Harlow;Big Sean,Way Out,0.945,0.582,0.0719,0.114,0.0,0.103,0.907,rap
+Jack Harlow,First Class,0.905,0.563,0.102,0.0254,9.71e-06,0.113,0.324,rap
+Jack Harlow;DaBaby;Tory Lanez;Lil Wayne,WHATS POPPIN - Remix,0.904,0.723,0.26,0.0631,0.0,0.185,0.835,rap
+J. Cole,No Role Modelz,0.69,0.521,0.339,0.324,0.0,0.0534,0.494,rap
+Yashraj;Dropped Out;Talwiinder,Dhundhala,0.648,0.45,0.167,0.134,7.31e-05,0.137,0.472,rap
+XXXTENTACION,the remedy for a broken heart (why am I so in love),0.699,0.304,0.0993,0.779,0.000993,0.137,0.271,rap
+Travis Scott,HIGHEST IN THE ROOM,0.598,0.427,0.0317,0.0546,5.83e-06,0.21,0.0605,rap
+Yo Yo Honey Singh,Together Forever,0.737,0.832,0.165,0.26,0.0,0.108,0.67,rap
+Arjun Kanungo;Badshah,Baaki Baatein Peene Baad (Shots) (feat. Badshah),0.566,0.862,0.105,0.0246,0.0,0.103,0.455,rap
+King,Baazi,0.696,0.847,0.0312,0.344,0.0,0.171,0.68,rap
+Jaura Phagwara;Enzo,Black Matte,0.734,0.805,0.247,0.246,0.0,0.108,0.71,rap
+Nicki Minaj,Super Freaky Girl,0.95,0.891,0.241,0.0645,1.77e-05,0.309,0.912,rap
+Yo Yo Honey Singh,Brown Rang,0.804,0.902,0.0846,0.265,0.000413,0.0651,0.72,rap
+Young Stunners;Talha Anjum;Talhah Yunus,Gumaan,0.716,0.542,0.304,0.358,0.0,0.106,0.571,rap
+KR$NA,Untitled,0.906,0.811,0.278,0.393,1.28e-05,0.0703,0.667,rap
+King,Tum Saath Rehnaa,0.443,0.668,0.294,0.693,0.000443,0.0579,0.512,rap
+Lil Nas X;Billy Ray Cyrus,Old Town Road - Remix,0.878,0.619,0.102,0.0533,0.0,0.113,0.639,rap
+KR$NA,Lil Bunty,0.869,0.826,0.333,0.211,0.0,0.0696,0.503,rap
+Mustafa Zahid,Zaroorat,0.354,0.712,0.0589,0.358,4.19e-05,0.274,0.238,rap
+Sidhu Moose Wala,Dark Love,0.736,0.672,0.113,0.435,0.0,0.132,0.616,rap
+AP Dhillon;Gurinder Gill,WAR,0.674,0.508,0.298,0.159,0.000361,0.348,0.322,rap
+Amrit Maan;Sidhu Moose Wala,Bambiha Bole,0.775,0.618,0.086,0.2,0.0,0.468,0.654,rap
+Lehmber Hussainpuri,Sadi Gali,0.726,0.994,0.0543,0.021,0.0108,0.222,0.779,rap
+Jordan Sandhu,Majhail 1.0,0.778,0.648,0.318,0.238,0.0,0.278,0.678,rap
+Wajid;Labh Janjua;Sneha Pant,Soni De Nakhre,0.829,0.852,0.0477,0.00698,0.000278,0.055,0.912,rap
+Jack Harlow,First Class,0.905,0.563,0.102,0.0254,9.71e-06,0.113,0.324,rap
+Jack Harlow,First Class,0.905,0.563,0.102,0.0254,9.71e-06,0.113,0.324,rap
+Sidhu Moose Wala,Devil,0.57,0.793,0.228,0.183,0.0,0.664,0.472,rap
+Amar Sandhu,Bapu Tere Karke,0.726,0.654,0.051,0.436,0.0,0.156,0.388,rap
+Kailash Kher,Allah Ke Bande,0.543,0.44,0.0597,0.795,0.0,0.224,0.726,rap
+Anirudh Ravichander,Amar Theme - Background Score,0.679,0.724,0.0423,0.121,0.79,0.164,0.0764,rap
+Anirudh Ravichander;Gana Balachandar,"Vaathi Coming (From ""Master"")",0.649,0.947,0.26,0.218,0.383,0.0532,0.579,rap
+Anirudh Ravichander;Yo Yo Honey Singh;Hiphop Tamizha,Ethir Neechal,0.752,0.97,0.0943,0.0556,1.21e-06,0.0999,0.537,rap
+Jack Harlow,First Class,0.905,0.563,0.102,0.0254,9.71e-06,0.113,0.324,rap
+Jack Harlow,Dua Lipa,0.833,0.652,0.0762,0.00161,0.0985,0.106,0.405,rap
+Jack Harlow,Dua Lipa,0.833,0.652,0.0762,0.00161,0.0985,0.106,0.405,rap
+Anirudh Ravichander;Vishal Dadlani,Aathi,0.59,0.822,0.056,0.236,0.0,0.678,0.438,rap
+Sidhu Moose Wala,Sin,0.769,0.832,0.182,0.111,0.0,0.574,0.34,rap
+Akhil,Kalla Sohna Nai,0.802,0.499,0.0345,0.454,0.0,0.143,0.763,rap
+Varinder Brar,Jatt Life,0.613,0.583,0.113,0.143,0.0,0.114,0.565,rap
+Sukhwinder Singh,Taal Se Taal - Western Version,0.771,0.72,0.0867,0.203,0.0011,0.335,0.492,rap
+Anirudh Ravichander,Porkanda Singam EDM Version (Additional Song),0.687,0.769,0.0464,0.105,0.256,0.159,0.413,rap
+Jack Harlow,Dua Lipa,0.833,0.652,0.0762,0.00161,0.0985,0.106,0.405,rap
+Anirudh Ravichander;Inno Genga,Hoyna Hoyna,0.713,0.727,0.0388,0.183,1.22e-06,0.0756,0.515,rap
+Jack Harlow,Nail Tech,0.647,0.581,0.0884,0.0029,7.76e-06,0.119,0.113,rap
+Jack Harlow,Dua Lipa,0.833,0.652,0.0762,0.00161,0.0985,0.106,0.405,rap
+Jack Harlow,Dua Lipa,0.833,0.652,0.0762,0.00161,0.0985,0.106,0.405,rap
+Jack Harlow,Dua Lipa,0.833,0.652,0.0762,0.00161,0.0985,0.106,0.405,rap
+Jack Harlow,Dua Lipa,0.833,0.652,0.0762,0.00161,0.0985,0.106,0.405,rap
+Jack Harlow,First Class,0.905,0.563,0.102,0.0254,9.71e-06,0.113,0.324,rap
+Jack Harlow,Dua Lipa,0.833,0.652,0.0762,0.00161,0.0985,0.106,0.405,rap
+Stephen Zechariah,Adi Penne - Dad's Love,0.581,0.56,0.0278,0.835,0.0,0.372,0.445,rap
+Jack Harlow,First Class,0.905,0.563,0.102,0.0254,9.71e-06,0.113,0.324,rap
+Kendrick Lamar,HUMBLE.,0.908,0.621,0.102,0.000282,5.39e-05,0.0958,0.421,rap
+Jack Harlow,First Class,0.905,0.563,0.102,0.0254,9.71e-06,0.113,0.324,rap
+G-Eazy;Halsey,Him & I (with Halsey),0.589,0.731,0.0868,0.0534,0.0,0.308,0.191,rap
+Eminem;Dina Rae,Superman,0.802,0.755,0.0564,0.0215,0.0,0.295,0.58,rap
+Travis Scott,goosebumps,0.841,0.728,0.0484,0.0847,0.0,0.149,0.43,rap
+Emiway Bantai,KR L$DA SIGN,0.709,0.716,0.246,0.129,0.0,0.243,0.608,rap
+AP Dhillon;Gurinder Gill;Gminxr,Feels,0.71,0.698,0.0368,0.108,0.0,0.098,0.0823,rap
+The Kid LAROI,Thousand Miles,0.376,0.657,0.0768,0.0858,0.0,0.0884,0.203,rap
+The Kid LAROI,WITHOUT YOU,0.662,0.413,0.0299,0.213,0.0,0.134,0.467,rap
+Benny Dayal;Shreya Ghoshal,Kaise Mujhe,0.59,0.414,0.0346,0.781,0.000522,0.146,0.292,rap
+Sultaan;Gavy Dhaliwal;Bhallwaan;Swapan Sekhon;Gur Chahal,Puff Puff Pass,0.666,0.618,0.185,0.218,0.0,0.197,0.56,rap
+Maninder Buttar,Laare,0.384,0.658,0.05,0.201,0.0,0.245,0.67,rap
+Tegi Pannu;Manni Sandhu,Roll Deep,0.753,0.687,0.149,0.52,2.32e-06,0.0663,0.754,rap
+Sukhbir;Ikka,Oh Ho Ho Ho (Remix),0.676,0.935,0.0892,0.00917,0.0,0.097,0.802,rap
+AP Dhillon;Gurinder Gill;Gminxr;Shinda Kahlon,AGAINST ALL ODDS,0.828,0.642,0.306,0.227,7.51e-06,0.275,0.726,rap
+Vishal Dadlani,Tu Meri,0.679,0.687,0.0294,0.0779,0.0,0.704,0.424,rap
+Guru Randhawa;Yo Yo Honey Singh;Divya Khosla Kumar,Designer,0.41,0.907,0.101,0.0689,0.0,0.247,0.793,rap
+Sidhu Moose Wala;Sunny Malton,B-Town (feat. Sunny Malton),0.752,0.861,0.163,0.327,0.0,0.126,0.666,rap
+Yo Yo Honey Singh;Neha Kakkar,Manali Trance,0.614,0.842,0.0745,0.00814,1.33e-05,0.212,0.915,rap
+Ajay-Atul;Shreya Ghoshal,Chikni Chameli,0.693,0.956,0.071,0.289,0.0,0.294,0.665,rap
+Playboi Carti,R.I.P.,0.725,0.725,0.159,0.0119,0.0,0.086,0.515,rap
+Vishal Dadlani;Amit Trivedi,Ud-daa Punjab,0.909,0.906,0.206,0.09,1.25e-05,0.287,0.625,rap
+Sidhu Moose Wala,Trend,0.626,0.725,0.207,0.0755,0.0,0.245,0.556,rap
+Eminem,Venom - Music From The Motion Picture,0.75,0.789,0.0647,0.0148,0.0,0.501,0.467,rap
+Ty Dolla $ign,Famous,0.617,0.298,0.083,0.684,0.0,0.393,0.579,rap
+Badshah;Neeti Mohan,"Bad Boy (From ""Saaho"")",0.892,0.848,0.183,0.242,0.013,0.0992,0.523,rap
+Sidhu Moose Wala;Afsana Khan,Unfuckwithable (Bonus Track from Moosetape),0.713,0.747,0.128,0.117,5.51e-06,0.451,0.711,rap
+Jack Harlow,Dua Lipa,0.833,0.652,0.0762,0.00161,0.0985,0.106,0.405,rap
+DaBaby;Roddy Ricch,ROCKSTAR,0.746,0.69,0.164,0.247,0.0,0.101,0.497,rap
+Raftaar,Baby Marvake Maanegi,0.658,0.815,0.0559,0.00132,0.0106,0.178,0.559,rap
+Anirudh Ravichander,JD Intro - Background Score,0.656,0.925,0.093,0.00898,0.0101,0.108,0.0793,rap
+Anirudh Ravichander;Roop Kumar Rathod;Shreya Ghoshal,Nee Paata Madhuram - The Touch of Love,0.649,0.57,0.029,0.174,1.01e-05,0.496,0.506,rap
+DaBaby,BOP,0.77,0.786,0.368,0.189,0.0,0.129,0.837,rap
+Wiz Khalifa,Bad Ass Bitches,0.904,0.601,0.198,0.0305,0.0,0.615,0.761,rap
+Sidhu Moose Wala,Goat,0.756,0.855,0.208,0.222,0.0,0.188,0.525,rap
+Wiz Khalifa;PARTYNEXTDOOR,Late Night Messages,0.79,0.616,0.0983,0.0865,2.34e-05,0.22,0.312,rap
+DaBaby,Ball If I Want To,0.902,0.669,0.457,0.161,0.0,0.0728,0.628,rap
+DaBaby;Roddy Ricch,ROCKSTAR,0.746,0.69,0.164,0.247,0.0,0.101,0.497,rap
+Jack Harlow,Dua Lipa,0.833,0.652,0.0762,0.00161,0.0985,0.106,0.405,rap
+Jack Harlow,Dua Lipa,0.833,0.652,0.0762,0.00161,0.0985,0.106,0.405,rap
+Wiz Khalifa;Lil Skies,Fr Fr,0.914,0.497,0.202,0.114,2.9e-05,0.282,0.324,rap
+Jack Harlow,Dua Lipa,0.833,0.652,0.0762,0.00161,0.0985,0.106,0.405,rap
+Hiphop Tamizha,Azhage,0.717,0.79,0.0342,0.308,0.0,0.0871,0.536,rap
+Kodak Black;Jeezy,Feeling Like,0.428,0.832,0.338,0.303,0.0,0.142,0.157,rap
+Jack Harlow,Dua Lipa,0.833,0.652,0.0762,0.00161,0.0985,0.106,0.405,rap
+Ty Dolla $ign;Gucci Mane;Quavo,Pineapple,0.964,0.555,0.0499,0.0301,0.000563,0.128,0.338,rap
+Sidhu Moose Wala,Sidhu Son,0.571,0.732,0.154,0.116,0.0,0.378,0.584,rap
+Wiz Khalifa;Charlie Puth,See You Again,0.69,0.48,0.0816,0.369,0.0,0.0649,0.286,rap
+Arjun;Badshah;Bohemia;Diljit Dosanjh;Fateh;Gippy Grewal;Girik Aman;Gupz Sehra;Guru Randhawa;Hans Raj Hans;Harjit Harman;Harrdy Sandhu;Labh Janjua;Neha Kakkar;Ranjit Bawa;Sharry Mann;Sukhbir;Surjit Bindrakhia;Yo Yo Honey Singh;Amit Trivedi;Anand Raj Anand;Atul Sharma;B Praak;Beat Minister;Dr Zeus;Intense;Manj Musik;Mista Baaz;Preet Hundal;Vee;DJ Yogii,Punjabi Mashup,0.418,0.931,0.174,0.0028,7.71e-05,0.332,0.707,rap
+Anirudh Ravichander;Alisha Thomas,Don'u Don'u Don'u - The Don's Romance,0.776,0.82,0.0414,0.287,0.000361,0.242,0.773,rap
+Sean Kingston;Justin Bieber,Eenie Meenie,0.72,0.607,0.0322,0.0543,0.0,0.113,0.828,rap
+Rusha & Blizza,Huzur (Reprise),0.641,0.475,0.0413,0.385,0.0646,0.0771,0.0399,rap
+Benny Dayal;Shalmali Kholgade,Daaru Desi,0.703,0.781,0.0468,0.194,0.000368,0.0928,0.679,rap
+AP Dhillon;Gurinder Gill;Money Musik,Chances,0.621,0.705,0.222,0.195,4.19e-06,0.292,0.437,rap
+Kodak Black,Love & War,0.762,0.649,0.0527,0.58,1.7e-05,0.0971,0.501,rap
+Sidhu Moose Wala,Badfella,0.616,0.844,0.201,0.124,0.0,0.255,0.785,rap
+Kodak Black,Super Gremlin,0.825,0.414,0.144,0.00265,0.0,0.357,0.106,rap
+Wiz Khalifa;PARTYNEXTDOOR,Late Night Messages,0.79,0.616,0.0983,0.0865,2.34e-05,0.22,0.312,rap
+Kodak Black,Love & War,0.762,0.649,0.0527,0.58,1.7e-05,0.0971,0.501,rap
+Mika Singh;Payal Dev;Neha Kakkar;Badshah,Sawan Mein Lag Gayi Aag,0.792,0.813,0.0513,0.388,2.29e-05,0.0541,0.868,rap
+Kodak Black,Walk,0.817,0.512,0.0984,0.037,0.0,0.216,0.17,rap
+Wiz Khalifa;Ty Dolla $ign,Something New,0.816,0.637,0.0784,0.0918,0.0,0.0892,0.783,rap
+Wiz Khalifa;Girl Talk,Big Daddy Wiz,0.9,0.795,0.073,0.107,0.00631,0.131,0.745,rap
+Wiz Khalifa,Memory Lane,0.789,0.71,0.353,0.37,0.0,0.155,0.826,rap
+Wiz Khalifa;PARTYNEXTDOOR,Rain,0.401,0.406,0.0381,0.0327,0.0,0.296,0.102,rap
+Wiz Khalifa;Swae Lee,Hopeless Romantic,0.877,0.477,0.0589,0.307,0.0,0.0929,0.552,rap
+Kodak Black,Remember the Times,0.78,0.712,0.0598,0.155,0.0,0.334,0.0757,rap
+Wiz Khalifa,Memory Lane,0.789,0.71,0.353,0.37,0.0,0.155,0.826,rap
+Kodak Black,Skrt,0.901,0.352,0.0915,0.585,0.0,0.122,0.199,rap
+Kodak Black,Super Gremlin,0.825,0.414,0.144,0.00265,0.0,0.357,0.106,rap
+Kodak Black,Super Gremlin,0.825,0.414,0.144,0.00265,0.0,0.357,0.106,rap
+Kodak Black;XXXTENTACION,Roll in Peace,0.746,0.522,0.248,0.0306,0.0,0.2,0.361,rap
+Kodak Black,Super Gremlin,0.825,0.414,0.144,0.00265,0.0,0.357,0.106,rap
+Kodak Black,Super Gremlin,0.825,0.414,0.144,0.00265,0.0,0.357,0.106,rap
+Kodak Black,Super Gremlin,0.825,0.414,0.144,0.00265,0.0,0.357,0.106,rap
+Kodak Black,Super Gremlin,0.825,0.414,0.144,0.00265,0.0,0.357,0.106,rap
+Wiz Khalifa,Still Wiz,0.833,0.664,0.135,0.0537,0.0,0.0637,0.334,rap
+Wiz Khalifa;Girl Talk,Big Daddy Wiz,0.9,0.795,0.073,0.107,0.00631,0.131,0.745,rap
+Kodak Black,Calling My Spirit,0.918,0.362,0.0905,0.116,0.0,0.263,0.744,rap
+Wiz Khalifa,Memory Lane,0.789,0.71,0.353,0.37,0.0,0.155,0.826,rap
+Kodak Black,Haitian Scarface,0.569,0.459,0.355,0.0648,0.0,0.168,0.0649,rap
+Kodak Black,This Forever,0.753,0.701,0.405,0.00291,7.77e-06,0.151,0.517,rap
+Wiz Khalifa;Girl Talk,Big Daddy Wiz,0.9,0.795,0.073,0.107,0.00631,0.131,0.745,rap
+Kodak Black,Super Gremlin,0.825,0.414,0.144,0.00265,0.0,0.357,0.106,rap
+Kodak Black,Haitian Scarface,0.569,0.459,0.355,0.0648,0.0,0.168,0.0649,rap
+Kodak Black,Don’t Leave Me,0.765,0.613,0.379,0.0512,0.0,0.205,0.254,rap
+Wiz Khalifa;PARTYNEXTDOOR,Rain,0.636,0.435,0.0292,0.0613,0.0,0.289,0.0831,rap
+Wiz Khalifa,Bad Ass Bitches,0.904,0.601,0.198,0.0305,0.0,0.615,0.761,rap
+Kodak Black,Calling My Spirit,0.909,0.365,0.0938,0.0996,0.0,0.261,0.739,rap
+Kodak Black,Haitian Scarface,0.569,0.459,0.355,0.0648,0.0,0.168,0.0649,rap
+Kodak Black,Tunnel Vision,0.497,0.489,0.294,0.0576,9.91e-05,0.122,0.231,rap
+Wiz Khalifa,Bad Ass Bitches,0.904,0.601,0.198,0.0305,0.0,0.615,0.761,rap
+Wiz Khalifa,Bad Ass Bitches,0.904,0.601,0.198,0.0305,0.0,0.615,0.761,rap
+Kodak Black,Usain Boo,0.782,0.669,0.213,0.0733,0.0,0.111,0.598,rap
+Wiz Khalifa,Iced Out Necklace,0.898,0.744,0.0931,0.000253,0.0,0.268,0.299,rap
+Wiz Khalifa;Snoop Dogg,Penthouse,0.878,0.723,0.0599,0.145,0.0,0.708,0.534,rap
+Wiz Khalifa,Bad Ass Bitches,0.904,0.601,0.198,0.0305,0.0,0.615,0.761,rap
+Kodak Black;Lil Wayne,Codeine Dreaming,0.736,0.604,0.222,0.0654,6.43e-05,0.124,0.574,rap
+Wiz Khalifa;Charlie Puth,See You Again,0.69,0.48,0.0816,0.369,0.0,0.0649,0.286,rap
+Kodak Black;John Wicks;Jackboy,Me and Klik,0.709,0.733,0.0782,0.164,0.0,0.113,0.212,rap
+Metro Boomin;Gunna,Space Cadet (feat. Gunna),0.901,0.464,0.0645,0.368,1.71e-05,0.238,0.638,rap
+Mustafa Zahid,Toh Phir Aao,0.459,0.563,0.0263,0.39,1.98e-06,0.107,0.0961,rap
+AFKAP,Aaina,0.578,0.556,0.146,0.726,0.0012,0.171,0.116,rap
+Yo Yo Honey Singh,"Chaar Botal Vodka (From ""Ragini Mms 2"")",0.877,0.881,0.0713,0.421,0.000345,0.12,0.874,rap
+Andro,Иса,0.617,0.649,0.0428,0.422,1.3e-06,0.244,0.487,rap
+Yo Yo Honey Singh,Urvashi,0.792,0.703,0.0368,0.195,0.0,0.072,0.634,rap
+MC STAN,I'm Done,0.712,0.473,0.0342,0.782,1.38e-06,0.229,0.489,rap
+Ghostemane,Fed Up,0.849,0.758,0.256,0.499,0.695,0.147,0.0684,rap
+Sidhu Moose Wala;Sunny Malton,Issa Jatt,0.847,0.583,0.411,0.12,0.0,0.555,0.837,rap
+Sidhu Moose Wala,My Block,0.609,0.639,0.0682,0.357,0.0,0.239,0.211,rap
+Badshah;Sunanda Sharma,"Tere Naal Nachna (From ""Nawabzaade"")",0.912,0.677,0.0713,0.193,0.0,0.0939,0.94,rap
+Benny Dayal;Neeti Mohan,Bang Bang,0.705,0.678,0.0415,0.0483,7.01e-05,0.496,0.691,rap
+Ty Dolla $ign;Musiq Soulchild;Tish Hyman;6LACK,Your Turn,0.533,0.389,0.0542,0.18,0.0,0.112,0.248,rap
+KR$NA,Blowing Up,0.842,0.776,0.103,0.0898,0.0,0.215,0.287,rap
+Eminem,Rap God,0.708,0.843,0.314,0.397,0.0,0.799,0.625,rap
+Emiway Bantai,Khatam Hue Waande,0.756,0.903,0.14,0.232,0.0,0.0548,0.729,rap
+Ty Dolla $ign;The Weeknd;Wiz Khalifa;DJ Mustard,Or Nah - Remix,0.793,0.348,0.0855,0.214,0.0,0.0964,0.155,rap
+Karan Aujla;Gurlez Akhtar,It Ain't Legal,0.746,0.637,0.161,0.00155,0.0,0.404,0.32,rap
+Mustafa Zahid,Tera Mera Rishta,0.575,0.895,0.0541,0.0521,0.00142,0.104,0.648,rap
+Sidhu Moose Wala,Scapegoat,0.752,0.518,0.207,0.0422,0.0,0.196,0.548,rap
+Ty Dolla $ign;Post Malone,Spicy,0.785,0.523,0.0489,0.144,0.0,0.117,0.134,rap
+The Landers;Davi Singh,Kamm Koi Na,0.688,0.841,0.277,0.242,1.02e-06,0.134,0.748,rap
+Ty Dolla $ign;Kiana Ledé,Alone for Christmas,0.69,0.745,0.205,0.167,0.0,0.184,0.666,rap
+MC STAN,Astaghfirullah,0.653,0.725,0.0912,0.091,0.000426,0.251,0.349,rap
+Guru Randhawa;Tulsi Kumar;Sachin-Jigar;Vee,"Lagdi Lahore Di (From ""Street Dancer 3D"")",0.786,0.797,0.0414,0.233,0.0,0.0861,0.453,rap
+Ty Dolla $ign;Post Malone,Spicy,0.782,0.51,0.0419,0.143,0.0,0.115,0.118,rap
+Ty Dolla $ign;Kehlani,Universe,0.596,0.473,0.218,0.0273,0.0,0.203,0.365,rap
+Ty Dolla $ign;Post Malone,Spicy,0.782,0.51,0.0419,0.143,0.0,0.115,0.118,rap
+Ty Dolla $ign;The Weeknd;Wiz Khalifa;DJ Mustard,Or Nah - Remix,0.804,0.329,0.101,0.22,0.0,0.105,0.214,rap
+Ty Dolla $ign;Kehlani,Universe,0.596,0.473,0.218,0.0273,0.0,0.203,0.365,rap
+Ty Dolla $ign;Post Malone,Spicy,0.785,0.523,0.0489,0.144,0.0,0.117,0.134,rap
+Ty Dolla $ign;Post Malone,Spicy,0.782,0.51,0.0419,0.143,0.0,0.115,0.118,rap
+Ajay-Atul;Vishal Dadlani,Brothers Anthem,0.552,0.668,0.0473,0.421,0.0117,0.159,0.152,rap
+Vishal Dadlani;Alyssa Mendonsa,Adhoore,0.799,0.542,0.0308,0.0858,1.5e-06,0.126,0.673,rap
+Ty Dolla $ign;Jhené Aiko;Mustard,By Yourself,0.771,0.526,0.0718,0.0804,0.0,0.663,0.182,rap
+Anirudh Ravichander,Thangamey,0.585,0.901,0.0745,0.479,0.0,0.248,0.62,rap
+Ty Dolla $ign;Kanye West;FKA twigs;Skrillex,Ego Death,0.818,0.598,0.113,0.0573,1.32e-06,0.634,0.331,rap
+Kodak Black,Save You,0.708,0.637,0.052,0.107,3.09e-06,0.102,0.187,rap
+Ty Dolla $ign;Kanye West;FKA twigs;Skrillex,Ego Death,0.818,0.598,0.113,0.0573,1.32e-06,0.634,0.331,rap
+Anirudh Ravichander;Niranjana Ramanan,"Soul of Doctor (Theme) [From ""Doctor""]",0.473,0.837,0.0336,0.0968,0.912,0.297,0.212,rap
+Kodak Black;XXXTENTACION,Roll in Peace,0.746,0.522,0.248,0.0306,0.0,0.2,0.361,rap
+Kodak Black,Calling My Spirit,0.918,0.362,0.0905,0.116,0.0,0.263,0.744,rap
+Kodak Black,Super Gremlin,0.825,0.414,0.144,0.00265,0.0,0.357,0.106,rap
+Snoop Dogg;Pharrell Williams,Drop It Like It's Hot,0.888,0.622,0.213,0.16,0.0,0.101,0.664,rap
+Ty Dolla $ign;Lil Wayne;The-Dream,Love U Better,0.627,0.562,0.0364,0.0628,0.0,0.31,0.389,rap
+Kodak Black;John Wicks;Jackboy,Me and Klik,0.709,0.733,0.0782,0.164,0.0,0.113,0.212,rap
+Snoop Dogg;Pharrell Williams,Drop It Like It's Hot,0.888,0.622,0.213,0.16,0.0,0.101,0.664,rap
+Snoop Dogg;Wiz Khalifa;Bruno Mars,"Young, Wild & Free",0.722,0.655,0.137,0.0525,0.0,0.115,0.532,rap
+Snoop Dogg;Wiz Khalifa;Bruno Mars,"Young, Wild & Free",0.722,0.655,0.137,0.0525,0.0,0.115,0.532,rap
+Snoop Dogg;Wiz Khalifa;Bruno Mars,"Young, Wild & Free",0.722,0.655,0.137,0.0525,0.0,0.115,0.532,rap
+Kendrick Lamar,N95,0.79,0.67,0.105,0.377,2.32e-06,0.119,0.408,rap
+XXXTENTACION;Trippie Redd,Fuck Love (feat. Trippie Redd),0.797,0.533,0.0412,0.0172,0.000152,0.103,0.329,rap
+50 Cent,In Da Club,0.899,0.713,0.366,0.255,0.0,0.0708,0.777,rap
+Dr Zeus;Master Rakesh;Shortie;Deepti,Kangna,0.756,0.858,0.0585,0.035,0.000254,0.061,0.764,rap
+Jaz Dhami;Yo Yo Honey Singh,High Heels,0.891,0.913,0.149,0.394,0.000173,0.373,0.772,rap
+Yo Yo Honey Singh,One Bottle Down,0.655,0.629,0.0415,0.00109,0.063,0.0752,0.193,rap
+DIVINE;Major C,Sher Aaya Sher,0.832,0.657,0.209,0.0433,2.93e-05,0.0752,0.756,rap
+Guru Randhawa,Ishq Tera,0.438,0.689,0.0479,0.117,7.23e-06,0.154,0.507,rap
+Maninder Buttar,Dilaan De Rajya,0.778,0.743,0.0288,0.356,0.0,0.259,0.834,rap
+Jass Manak,Viah,0.533,0.757,0.0453,0.00733,0.0,0.111,0.358,rap
+AP Dhillon;Gurinder Gill;Gminxr,Most Wanted,0.85,0.573,0.274,0.0439,0.0,0.0871,0.49,rap
+Emiway Bantai,MACHAYENGE 4,0.614,0.797,0.315,0.197,0.0,0.113,0.608,rap
+Yo Yo Honey Singh,Aankhon Aankhon,0.746,0.988,0.0637,0.29,0.00218,0.131,0.61,rap
+Arjun Kanungo,La La La (Reprise),0.708,0.626,0.0529,0.605,0.0,0.115,0.569,rap
+Bizarrap;Quevedo,"Quevedo: Bzrp Music Sessions, Vol. 52",0.621,0.782,0.044,0.0125,0.033,0.23,0.55,rap
+Guru Randhawa;Neha Kakkar;Tanishk Bagchi;Panjabi MC,"Morni Banke (From ""Badhaai Ho"")",0.816,0.922,0.149,0.178,0.0,0.373,0.887,rap
+Akhil,Deewana,0.544,0.531,0.0397,0.761,0.0,0.115,0.471,rap
+Sukhwinder Singh;Sapna Awasthi,Chaiyya Chaiyya,0.786,0.579,0.142,0.186,0.0,0.118,0.481,rap
+Guru Randhawa;Dhvani Bhanushali,Baby Girl,0.815,0.801,0.143,0.229,1.14e-05,0.0762,0.533,rap
+Ajay-Atul;Shreya Ghoshal,Chandra (Featuring. Shreya Ghoshal),0.615,0.748,0.0948,0.412,0.000288,0.0621,0.505,rap
+Sidhu Moose Wala,Its All About You,0.585,0.635,0.0488,0.0964,0.0,0.134,0.55,rap
+Navv Inder;Lisa Mishra;Raja Kumari,The Wakhra Song,0.788,0.894,0.198,0.339,0.000253,0.0649,0.588,rap
+Sidhu Moose Wala;Sunny Malton,Forget About It (feat. Sunny Malton),0.794,0.884,0.179,0.0634,0.0,0.319,0.716,rap
+Kailash Kher;Mounima,Kaun Hain Voh,0.468,0.742,0.0844,0.333,1.39e-05,0.0825,0.372,rap
+Bilal Saeed;Momina Mustehsan,Uchiyaan Dewaraan,0.428,0.577,0.0912,0.842,0.0,0.0954,0.244,rap
+Ajay-Atul,Zingaat,0.834,0.788,0.213,0.359,0.27,0.396,0.705,rap
+Jordan Sandhu,Band Theke,0.79,0.672,0.0654,0.1,0.0,0.215,0.49,rap
+Sukhwinder Singh;Shreya Ghoshal;Vikram Montrose,"Kar Har Maidaan Fateh (From ""Sanju"")",0.557,0.821,0.0573,0.0189,0.0,0.0863,0.184,rap
+Vishal Dadlani,Ik Junoon (Paint It Red),0.79,0.848,0.0508,0.364,0.00147,0.148,0.641,rap
+Quavo,WORKIN ME,0.79,0.628,0.142,0.182,7.06e-06,0.338,0.267,rap
+Jordan Sandhu,Balcony,0.537,0.712,0.207,0.131,0.0,0.174,0.432,rap
+Quavo;Takeoff,HOTEL LOBBY (Unc & Phew),0.821,0.636,0.169,0.142,0.0,0.233,0.163,rap
+Anirudh Ravichander;Ajesh,Yedhalo Oka Mounam - The Innocence of Love,0.645,0.798,0.0359,0.204,0.000198,0.318,0.386,rap
+Badshah;Nikhita Gandhi,Bad Boy X Bad Girl (feat. Nikhita Gandhi),0.896,0.764,0.0767,0.174,2.36e-05,0.0677,0.601,rap
+Anirudh Ravichander;Jonita Gandhi,Chellamma,0.525,0.68,0.207,0.254,0.000348,0.0601,0.734,rap
+Anirudh Ravichander;Kamal Haasan,"Mathuga Mathuga (From ""Vikram Hitlist"")",0.829,0.811,0.392,0.321,0.0,0.056,0.919,rap
+Guru Randhawa,"High Rated Gabru (From ""Nawabzaade"")",0.685,0.841,0.0942,0.118,0.0,0.26,0.59,rap
+Guru Randhawa;Dhvani Bhanushali,"Ishare Tere (From ""Ishare Tere"")",0.707,0.941,0.041,0.0173,3.65e-05,0.134,0.337,rap
+Jordan Sandhu,Positivity,0.68,0.698,0.26,0.172,0.0,0.15,0.501,rap
+Sachin-Jigar;Darshan Raval;Neha Kakkar,"Odhani (From ""Made in China"")",0.711,0.731,0.0569,0.233,0.0,0.178,0.474,rap
+Sidhu Moose Wala,Aj Kal Ve,0.761,0.532,0.0735,0.739,2.33e-06,0.306,0.932,rap
+Anirudh Ravichander;Shweta Mohan,Emannavoo,0.457,0.542,0.0575,0.408,0.0,0.127,0.652,rap
+Anirudh Ravichander,"Ilamai Thirumbudhe - From ""Petta""",0.395,0.425,0.0625,0.719,0.0,0.175,0.457,rap
+Chris G.;Mc Sai;Sahi Siva,Nenjinile Rebirth,0.706,0.913,0.139,0.115,0.0,0.256,0.712,rap
+Anirudh Ravichander;Dhanush,What a Karavaad,0.431,0.794,0.428,0.0759,0.0,0.85,0.448,rap
+Anirudh Ravichander;Arivu,Vaathi Raid,0.806,0.93,0.132,0.253,1.94e-05,0.106,0.666,rap
+Anirudh Ravichander;Prudhvi Chandra,Vikram Title Track - Telugu,0.643,0.874,0.0508,0.253,0.00198,0.127,0.118,rap
+Wisin & Yandel;Anthony Santos,Noche De Sexo,0.721,0.714,0.234,0.107,0.0,0.562,0.506,rap
+"Wisin & Yandel;Franco ""El Gorilla"";Jayko",Me Estas Tentando - Remix,0.819,0.897,0.0484,0.117,4.72e-06,0.311,0.805,rap
+Anirudh Ravichander;Sunidhi Chauhan;Sanjana Kalmanje,Two Two Two,0.837,0.691,0.147,0.0207,0.00361,0.198,0.648,rap
+Drake;Travis Scott,Fair Trade (with Travis Scott),0.666,0.465,0.26,0.0503,0.0,0.215,0.292,rap
+The PropheC,Secrets,0.817,0.475,0.0465,0.356,8.85e-06,0.26,0.736,rap
+Yo Yo Honey Singh;Deep Money,Dope Shope,0.754,0.914,0.0548,0.424,2.62e-05,0.116,0.865,rap
+Badshah,Paagal,0.687,0.854,0.308,0.0619,0.000645,0.147,0.721,rap
+Karan Aujla;Gurlez Akhtar,Chitta Kurta,0.834,0.738,0.199,0.2,0.0,0.0797,0.656,rap
+Daler Mehndi;Dee MC;Shashwat Sachdev,Jagga Jiteya,0.774,0.783,0.0857,0.0173,0.0,0.19,0.206,rap
+Jordan Sandhu;Zikar Sandhu,Blood Talks,0.763,0.735,0.185,0.154,0.0,0.391,0.532,rap
+Anirudh Ravichander,Moaning Theme - Background Score,0.797,0.71,0.0581,0.343,0.906,0.0932,0.502,rap
+Karan Aujla,Let 'em Play,0.776,0.651,0.151,0.0136,2.72e-06,0.0771,0.747,rap
+Amantej Hundal;Karan Aujla,Few Days,0.797,0.627,0.145,0.0143,0.0,0.324,0.526,rap
+MC SQUARE,Badmos Chora,0.698,0.828,0.241,0.0868,0.0,0.212,0.86,rap
+MC STAN,Kahan Par Hai,0.706,0.695,0.0541,0.461,0.0,0.306,0.489,rap
+Neeraj Shridhar,Twist,0.719,0.945,0.136,0.033,7.26e-05,0.0857,0.748,rap
+Neeraj Shridhar;Master Saleem;Suzi Q,Aahun Aahun,0.78,0.904,0.2,0.163,8.54e-05,0.0662,0.664,rap
+Anirudh Ravichander;Sam C.S.,"Kanne Kanne (From ""Ayogya"")",0.684,0.489,0.0595,0.639,0.0,0.105,0.375,rap
+Badshah;Amaal Mallik;Fazilpuria;Sukriti Kakar;Neha Kakkar,Kar Gayi Chull,0.827,0.737,0.0764,0.0316,0.000322,0.211,0.873,rap
+Vishal Dadlani;Hamsika Iyer,One Two Three Four (Get On The Dance Floor),0.721,0.867,0.225,0.0885,0.000119,0.0372,0.87,rap
+Anirudh Ravichander;Dhanush,Maari Thara Local - Here Comes Maari,0.709,0.956,0.255,0.622,1.1e-06,0.0982,0.664,rap
+Wisin & Yandel;Chris Brown;T-Pain,Algo Me Gusta De Ti,0.626,0.769,0.0325,0.00291,0.0,0.0598,0.237,rap
+Machine Gun Kelly;Camila Cabello,Bad Things,0.679,0.697,0.14,0.232,0.0,0.178,0.287,rap
+Machine Gun Kelly,el diablo,0.765,0.725,0.143,0.00471,0.000194,0.154,0.578,rap
+Anirudh Ravichander;S. P. Balasubrahmanyam,"Marana Mass - From ""Petta""",0.471,0.873,0.373,0.47,8.13e-05,0.146,0.737,rap
+Wisin & Yandel;Chris Brown;T-Pain,Algo Me Gusta De Ti,0.626,0.769,0.0325,0.00291,0.0,0.0598,0.237,rap
+Wisin & Yandel;Chris Brown;T-Pain,Algo Me Gusta De Ti,0.626,0.769,0.0325,0.00291,0.0,0.0598,0.237,rap
+Wisin & Yandel,Estoy Enamorado,0.78,0.725,0.0503,0.288,0.0,0.0851,0.431,rap
+Machine Gun Kelly,born with horns,0.569,0.919,0.135,0.00089,9.44e-05,0.0524,0.256,rap
+Wisin & Yandel,Estoy Enamorado,0.78,0.725,0.0503,0.288,0.0,0.0851,0.431,rap
+Wisin & Yandel;Chris Brown;T-Pain,Algo Me Gusta De Ti,0.626,0.769,0.0325,0.00291,0.0,0.0598,0.237,rap
+Wisin & Yandel,Pegao,0.792,0.804,0.259,0.537,0.0,0.342,0.807,rap
+Machine Gun Kelly;blackbear,my ex's best friend,0.732,0.671,0.0415,0.00323,0.0,0.108,0.328,rap
+Wisin & Yandel,Hipnotízame,0.775,0.828,0.139,0.289,0.0,0.434,0.571,rap
+Machine Gun Kelly,RAP DEVIL,0.895,0.839,0.227,0.217,2.89e-06,0.239,0.754,rap
+Gorillaz,Clint Eastwood,0.663,0.694,0.171,0.0253,0.0,0.0698,0.525,rap
+Wisin & Yandel,Sexy Movimiento,0.787,0.858,0.0373,0.405,2.95e-06,0.133,0.814,rap
+Wisin & Yandel,Sexy Movimiento,0.787,0.858,0.0373,0.405,2.95e-06,0.133,0.814,rap
+Machine Gun Kelly;WILLOW,emo girl,0.41,0.881,0.087,0.000406,4.26e-05,0.922,0.357,rap
+Wisin & Yandel,Pam Pam,0.874,0.69,0.114,0.121,0.0,0.249,0.735,rap
+Wisin & Yandel,Pam Pam,0.874,0.69,0.114,0.121,0.0,0.249,0.735,rap
+Wisin & Yandel,Pegao,0.792,0.804,0.259,0.537,0.0,0.342,0.807,rap
+Machine Gun Kelly,bloody valentine,0.52,0.856,0.0806,0.000193,0.0,0.157,0.47,rap
+Wisin & Yandel,Tu Olor,0.821,0.753,0.0817,0.0148,6.13e-06,0.109,0.364,rap
+Wisin & Yandel,Me Estas Tentando,0.81,0.916,0.0537,0.312,7.63e-06,0.347,0.794,rap
+Wisin & Yandel,Sexy Movimiento,0.787,0.858,0.0373,0.405,2.95e-06,0.133,0.814,rap
+Wisin & Yandel,Sexy Movimiento,0.787,0.858,0.0373,0.405,2.95e-06,0.133,0.814,rap
+Wisin & Yandel,Sexy Movimiento,0.787,0.858,0.0373,0.405,2.95e-06,0.133,0.814,rap
+Wisin & Yandel;Anthony Santos,Noche De Sexo,0.721,0.714,0.234,0.107,0.0,0.562,0.506,rap
+"Wisin & Yandel;Tego Calderón;Franco ""El Gorilla""",Sigan Bailando,0.753,0.831,0.247,0.148,2.32e-05,0.0902,0.684,rap
+Gorillaz,Clint Eastwood,0.663,0.694,0.171,0.0253,0.0,0.0698,0.525,rap
+Wisin & Yandel;Chris Brown;T-Pain,Algo Me Gusta De Ti,0.626,0.769,0.0325,0.00291,0.0,0.0598,0.237,rap
+Gorillaz;Beck,The Valley of the Pagans,0.75,0.856,0.0457,0.0778,3.65e-05,0.117,0.94,rap
+Kendrick Lamar;Blxst;Amanda Reifer,Die Hard,0.775,0.736,0.247,0.319,0.00116,0.127,0.362,rap
+Future;Drake;Tems,WAIT FOR U (feat. Drake & Tems),0.463,0.642,0.34,0.314,0.0,0.0686,0.339,rap
+Travis Scott,SICKO MODE,0.834,0.73,0.222,0.00513,0.0,0.124,0.446,rap
+A$AP Rocky;Skepta,Praise The Lord (Da Shine) (feat. Skepta),0.854,0.569,0.106,0.0609,0.0816,0.1,0.294,rap
+Ritviz;Seedhe Maut,Chalo Chalein,0.461,0.5,0.0614,0.00245,0.03,0.116,0.572,rap
+Yo Yo Honey Singh;Neha Kakkar;Nushrratt Bharuccha,Saiyaan Ji,0.896,0.678,0.0815,0.0137,4.1e-05,0.11,0.604,rap
+Ritviz;Nucleya,Roz,0.833,0.639,0.0676,0.152,0.0,0.101,0.448,rap
+Emiway Bantai,CHUSAMBA,0.777,0.816,0.275,0.349,0.0,0.195,0.667,rap
+Tech N9ne;Joey Cool;King Iso;Dwayne Johnson,Face Off,0.693,0.935,0.224,0.18,0.0,0.179,0.391,rap
+Sukhwinder Singh;Alka Yagnik,Ramta Jogi,0.798,0.636,0.0431,0.327,0.0,0.128,0.799,rap
+SAMBATA,Pinnak,0.781,0.684,0.37,0.011,0.0,0.0971,0.543,rap
+J. Cole;Cults;Amber Coffman,She Knows (feat. Amber Coffman & Cults),0.766,0.74,0.0807,0.0193,0.0784,0.229,0.183,rap
+DIVINE;MC Altaf;Stylo G;Phenom,Mirchi,0.871,0.608,0.4,0.142,0.0,0.0876,0.818,rap
+Guri,Yaar Beli,0.612,0.853,0.0704,0.00522,0.0,0.422,0.566,rap
+Vilen,Bekaar,0.605,0.552,0.0296,0.479,0.0,0.0916,0.313,rap
+Sidhu Moose Wala,8 Cylinder,0.627,0.673,0.204,0.337,0.0,0.0646,0.735,rap
+Ajey Nagar (CarryMinati);Wily Frenzy,Vardaan,0.675,0.735,0.381,0.136,0.0,0.152,0.139,rap
+Paradox,Gang wale munde,0.584,0.76,0.296,0.0532,0.0,0.109,0.327,rap
+Guri,Billian Billian,0.708,0.893,0.0549,0.0188,5.47e-05,0.471,0.753,rap
+Badshah;Harrdy Sandhu;Lisa Mishra;Asees Kaur,Chandigarh Mein,0.809,0.873,0.0556,0.00612,9.07e-06,0.0732,0.34,rap
+Amrit Maan;Nimrat Khaira,Sira E Hou,0.745,0.549,0.203,0.337,0.0,0.152,0.788,rap
+Mathan;Naven,Somberi,0.707,0.795,0.234,0.537,0.0,0.0922,0.612,rap
+Mika Singh,Long Drive,0.753,0.89,0.187,0.44,6.82e-06,0.0854,0.283,rap
+Mustafa Zahid,Maine Khud Ko,0.648,0.52,0.0249,0.674,0.00129,0.0821,0.492,rap
+Anirudh Ravichander;Dhanush,Why This Kolaveri Di? - The Soup of Love,0.817,0.774,0.153,0.543,1.61e-05,0.394,0.884,rap
+Anirudh Ravichander;Hiphop Tamizha,Pakkam Vanthu,0.762,0.964,0.138,0.353,0.00278,0.489,0.846,rap
+MC STAN,Tadipaar,0.62,0.813,0.161,0.449,1.48e-06,0.21,0.37,rap
+Guru Randhawa;Tulsi Kumar,"Lagdi Lahore Di (From ""Street Dancer 3D"")",0.786,0.797,0.0414,0.233,0.0,0.0861,0.454,rap
+Stephen Zechariah,Sagiyae,0.496,0.549,0.0286,0.128,0.00226,0.237,0.372,rap
+Sidhu Moose Wala,Me and My Girlfriend,0.698,0.799,0.282,0.0322,0.0,0.334,0.746,rap
+Dilpreet Dhillon;Karan Aujla,Jatt te Jawani,0.765,0.685,0.264,0.024,0.0,0.0303,0.608,rap
+Sidhu Moose Wala,Pind Hood Damn Good (RMG Intro),0.724,0.6,0.4,0.636,0.0,0.133,0.731,rap
+Anirudh Ravichander,Ghost Unmasked - Background Score,0.661,0.654,0.0784,0.363,0.000115,0.165,0.0372,rap
+Anirudh Ravichander,Kaththi - Theme,0.705,0.73,0.346,0.159,0.000239,0.154,0.819,rap
+King,Dracula,0.727,0.791,0.13,0.444,0.0,0.131,0.711,rap
+King,Desi Dan Bilzerian,0.718,0.489,0.413,0.0287,9.39e-06,0.058,0.582,rap
+De La Ghetto,Sensacion Del Bloque,0.709,0.726,0.0411,0.0977,0.0,0.301,0.405,rap
+Stephen Zechariah;Kaushik Iyer,Saaral Mazhaiyaa,0.368,0.571,0.0451,0.557,0.0,0.889,0.286,rap
+Benny Dayal;Anmol Malik;Anu Malik,"Chura Ke Dil Mera - From ""Hungama 2""",0.737,0.857,0.0451,0.0588,1.17e-05,0.281,0.817,rap
+Baba Sehgal;Rita,Jalsa Jalsa,0.922,0.906,0.144,0.339,0.000163,0.099,0.808,rap
+Anirudh Ravichander;Mohit Chauhan;Shreya Ghoshal,Velicha Poove,0.526,0.701,0.0552,0.444,2.74e-06,0.0883,0.683,rap
+Justin Quiles;Robin Schulz,AEIOU,0.689,0.856,0.0813,0.0493,0.0,0.232,0.706,rap
+Justin Quiles;Robin Schulz,AEIOU,0.689,0.856,0.0813,0.0493,0.0,0.232,0.706,rap
+De La Ghetto,Sensacion Del Bloque,0.709,0.726,0.0411,0.0977,0.0,0.301,0.405,rap
+Justin Quiles;Robin Schulz,AEIOU,0.689,0.856,0.0813,0.0493,0.0,0.232,0.706,rap
+Sukhwinder Singh;Ayesha Darbar;S. P. Sailaja,Woh Kisna Hai,0.649,0.525,0.0665,0.245,1.2e-05,0.17,0.494,rap
+Justin Quiles;Robin Schulz,AEIOU,0.689,0.856,0.0813,0.0493,0.0,0.232,0.706,rap
+Jordan Sandhu;Arjan virk,Do Vaari Jatt,0.695,0.727,0.181,0.221,0.0,0.0911,0.616,rap
+Justin Quiles;Robin Schulz,AEIOU,0.689,0.856,0.0813,0.0493,0.0,0.232,0.706,rap
+Justin Quiles;Robin Schulz,AEIOU,0.689,0.856,0.0813,0.0493,0.0,0.232,0.706,rap
+XXXTENTACION,Ex Bitch,0.835,0.462,0.155,0.513,0.0,0.0875,0.702,rap
+Dr. Dre;Snoop Dogg,Still D.R.E.,0.816,0.775,0.234,0.16,0.00031,0.0543,0.527,rap
+HRJXT;Intense,angels,0.721,0.746,0.0637,0.0241,0.0,0.143,0.23,rap
+Ram Sampath,"Bhaag D.K. Bose, Aandhi Aayi",0.66,0.926,0.0296,0.0948,0.0,0.248,0.731,rap
+Fazilpuria;Afsana Khan,Lala Lori,0.863,0.741,0.194,0.302,0.0,0.215,0.682,rap
+DIVINE;Aavrutti;D'Evil;Shah Rule,Vibe Hai,0.646,0.812,0.621,0.237,0.0,0.777,0.829,rap
+KR$NA;Raftaar,Saza-E-Maut,0.84,0.837,0.272,0.229,0.0,0.105,0.881,rap
+Young Stunners;Talha Anjum;Talhah Yunus,Afsanay,0.816,0.456,0.569,0.529,0.0,0.189,0.534,rap
+Vishal Dadlani;Benny Dayal,"Jai Jai Shivshankar (From ""War"")",0.825,0.904,0.0787,0.257,1.21e-05,0.0715,0.528,rap
+Karan Aujla,Chithiyaan,0.623,0.638,0.0592,0.322,0.0,0.321,0.659,rap
+DIVINE,One Side,0.64,0.813,0.262,0.0418,0.0,0.801,0.553,rap
+Karan Aujla,Adhiya,0.753,0.758,0.168,0.0901,0.0,0.0717,0.794,rap
+NF,The Search,0.789,0.786,0.297,0.596,0.0,0.0997,0.39,rap
+Bobo Shashi,Ye Mantramo,0.764,0.652,0.0896,0.103,0.000107,0.129,0.417,rap
+Sidhu Moose Wala;Morrisson,IDGAF (feat. Morrisson),0.771,0.779,0.217,0.251,0.0,0.125,0.535,rap
+Sidhu Moose Wala,Dear Mama,0.534,0.592,0.149,0.453,0.0,0.193,0.405,rap
+Satinder Sartaaj,Titli,0.723,0.831,0.111,0.543,0.0,0.0755,0.839,rap
+Sukhwinder Singh,Gajanana,0.42,0.872,0.0397,0.243,0.0,0.346,0.397,rap
+Sachin-Jigar;Arijit Singh;Priya Saraiya,Haareya,0.675,0.392,0.037,0.773,0.0,0.109,0.534,rap
+Sukhwinder Singh;Manikka Vinayagam,"Arjunar Villu (From ""Gilli"")",0.766,0.909,0.0693,0.196,0.0,0.106,0.51,rap
+The Landers,Swad Kutde,0.853,0.511,0.422,0.188,0.0,0.223,0.795,rap
+Lizzo,2 Be Loved (Am I Ready),0.721,0.769,0.105,0.0922,0.0,0.0817,0.915,rap
+Lizzo,About Damn Time,0.836,0.743,0.0656,0.0995,0.0,0.335,0.722,rap
+Lizzo,About Damn Time,0.836,0.743,0.0656,0.0995,0.0,0.335,0.722,rap
+Hiphop Tamizha;Sid Sriram,Nee Nenacha,0.329,0.408,0.0629,0.575,0.0,0.115,0.408,rap
+Lizzo,About Damn Time,0.836,0.743,0.0656,0.0995,0.0,0.335,0.722,rap
+Lizzo,About Damn Time,0.836,0.743,0.0656,0.0995,0.0,0.335,0.722,rap
+Lizzo,About Damn Time,0.836,0.743,0.0656,0.0995,0.0,0.335,0.722,rap
+Lizzo,Coldplay,0.637,0.807,0.0411,0.133,3.89e-06,0.249,0.774,rap
+Lizzo,2 Be Loved (Am I Ready),0.721,0.769,0.105,0.0922,0.0,0.0817,0.915,rap
+Lizzo,2 Be Loved (Am I Ready),0.721,0.769,0.105,0.0922,0.0,0.0817,0.915,rap
+Lizzo,About Damn Time,0.836,0.743,0.0656,0.0995,0.0,0.335,0.722,rap
+Lizzo,2 Be Loved (Am I Ready),0.721,0.769,0.105,0.0922,0.0,0.0817,0.915,rap
+Lizzo,2 Be Loved (Am I Ready),0.721,0.769,0.105,0.0922,0.0,0.0817,0.915,rap
+Lizzo,About Damn Time,0.836,0.743,0.0656,0.0995,0.0,0.335,0.722,rap
+Lizzo,2 Be Loved (Am I Ready),0.721,0.769,0.105,0.0922,0.0,0.0817,0.915,rap
+Lizzo,About Damn Time,0.836,0.743,0.0656,0.0995,0.0,0.335,0.722,rap
+Lizzo;Purple Disco Machine,About Damn Time - Purple Disco Machine Remix,0.8,0.771,0.123,0.0531,0.0,0.229,0.886,rap
+Lizzo,Truth Hurts,0.715,0.622,0.111,0.11,0.0,0.123,0.407,rap
+Lizzo,About Damn Time,0.836,0.743,0.0656,0.0995,0.0,0.335,0.722,rap
+Lizzo,Special,0.517,0.707,0.0693,0.0164,0.0,0.453,0.264,rap
+Lizzo,2 Be Loved (Am I Ready),0.721,0.769,0.105,0.0922,0.0,0.0817,0.915,rap
+Lizzo,Truth Hurts,0.715,0.622,0.111,0.11,0.0,0.123,0.407,rap
+Lizzo,About Damn Time,0.836,0.743,0.0656,0.0995,0.0,0.335,0.722,rap
+Lizzo,2 Be Loved (Am I Ready),0.721,0.769,0.105,0.0922,0.0,0.0817,0.915,rap
+Lizzo,Truth Hurts,0.715,0.622,0.111,0.11,0.0,0.123,0.407,rap
+Lizzo,2 Be Loved (Am I Ready),0.721,0.769,0.105,0.0922,0.0,0.0817,0.915,rap
+Lizzo;DaBaby,Truth Hurts - DaBaby Remix,0.706,0.627,0.202,0.193,0.0,0.126,0.38,rap
+Lizzo;Two Stacks,Good as Hell - Two Stacks Remix,0.512,0.854,0.054,0.000778,0.0069,0.195,0.514,rap
+Lizzo;DaBaby,Truth Hurts - DaBaby Remix,0.706,0.627,0.202,0.193,0.0,0.126,0.38,rap
+Seedhe Maut;MC STAN,Nanchaku,0.81,0.66,0.316,0.141,0.0,0.173,0.443,rap
+Badshah,Tabahi,0.719,0.861,0.0369,0.0881,0.00109,0.126,0.814,rap
+Anirudh Ravichander,Baitikochi Chuste,0.588,0.443,0.0694,0.583,0.0,0.136,0.642,rap
+Burna Boy,Last Last,0.795,0.565,0.0948,0.131,0.0,0.0802,0.55,rap
+Burna Boy,On the Low,0.816,0.781,0.0425,0.692,0.00928,0.0835,0.937,rap
+Lizzo,About Damn Time,0.836,0.743,0.0656,0.0995,0.0,0.335,0.722,rap
+Burna Boy,Last Last,0.795,0.565,0.0948,0.131,0.0,0.0802,0.55,rap
+Burna Boy,Last Last,0.795,0.565,0.0948,0.131,0.0,0.0802,0.55,rap
+Burna Boy;Wizkid,B. D’OR,0.873,0.658,0.108,0.00858,0.0061,0.0999,0.483,rap
+Burna Boy;Wizkid,B. D’OR,0.873,0.658,0.108,0.00858,0.0061,0.0999,0.483,rap
+Offset;Cardi B,Clout,0.919,0.622,0.0997,0.23,4.24e-06,0.122,0.423,rap
+Burna Boy;Ed Sheeran,For My Hand,0.87,0.479,0.165,0.161,0.000157,0.209,0.717,rap
+Burna Boy,Last Last,0.795,0.565,0.0948,0.131,0.0,0.0802,0.55,rap
+Burna Boy,Last Last,0.795,0.565,0.0948,0.131,0.0,0.0802,0.55,rap
+Lizzo,About Damn Time,0.836,0.743,0.0656,0.0995,0.0,0.335,0.722,rap
+Lizzo,About Damn Time,0.836,0.743,0.0656,0.0995,0.0,0.335,0.722,rap
+Lizzo,About Damn Time,0.836,0.743,0.0656,0.0995,0.0,0.335,0.722,rap
+Burna Boy,Last Last,0.795,0.565,0.0948,0.131,0.0,0.0802,0.55,rap
+Lizzo,2 Be Loved (Am I Ready),0.721,0.769,0.105,0.0922,0.0,0.0817,0.915,rap
+Lizzo,Grrrls,0.889,0.449,0.293,0.0313,0.0,0.0581,0.911,rap
+Burna Boy;Wizkid,B. D’OR,0.873,0.658,0.108,0.00858,0.0061,0.0999,0.483,rap
+Burna Boy;Ed Sheeran,For My Hand,0.87,0.479,0.165,0.161,0.000157,0.209,0.717,rap
+Burna Boy;Ed Sheeran,For My Hand,0.87,0.479,0.165,0.161,0.000157,0.209,0.717,rap
+Lizzo,About Damn Time,0.836,0.743,0.0656,0.0995,0.0,0.335,0.722,rap
+Lizzo,About Damn Time,0.836,0.743,0.0656,0.0995,0.0,0.335,0.722,rap
+Lizzo,About Damn Time,0.836,0.743,0.0656,0.0995,0.0,0.335,0.722,rap
+Burna Boy;Ed Sheeran,For My Hand,0.87,0.479,0.165,0.161,0.000157,0.209,0.717,rap
+Burna Boy,23 (Mixed),0.688,0.541,0.217,0.178,0.127,0.252,0.731,rap
+Burna Boy;Ed Sheeran,For My Hand,0.87,0.479,0.165,0.161,0.000157,0.209,0.717,rap
+Lizzo,Grrrls,0.889,0.449,0.293,0.0313,0.0,0.0581,0.911,rap
+Burna Boy;Stormzy,Real Life (Mixed),0.437,0.592,0.299,0.181,6.45e-06,0.331,0.632,rap
+Lizzo,About Damn Time,0.836,0.743,0.0656,0.0995,0.0,0.335,0.722,rap
+Burna Boy,Money Play (Mixed),0.857,0.8,0.209,0.228,0.00517,0.298,0.488,rap
+Burna Boy;Ed Sheeran,For My Hand,0.87,0.479,0.165,0.161,0.000157,0.209,0.717,rap
+Burna Boy;Ed Sheeran,For My Hand,0.87,0.479,0.165,0.161,0.000157,0.209,0.717,rap
+Lizzo,2 Be Loved (Am I Ready),0.721,0.769,0.105,0.0922,0.0,0.0817,0.915,rap
+Lizzo,Special,0.517,0.707,0.0693,0.0164,0.0,0.453,0.264,rap
+Lizzo,Special,0.517,0.707,0.0693,0.0164,0.0,0.453,0.264,rap
+Lizzo,2 Be Loved (Am I Ready),0.721,0.769,0.105,0.0922,0.0,0.0817,0.915,rap
+Lizzo;DaBaby,Truth Hurts - DaBaby Remix,0.706,0.627,0.202,0.193,0.0,0.126,0.38,rap
+Lizzo;Purple Disco Machine,About Damn Time - Purple Disco Machine Remix,0.8,0.771,0.123,0.0531,0.0,0.229,0.886,rap
+Lizzo,About Damn Time,0.836,0.743,0.0656,0.0995,0.0,0.335,0.722,rap
+Burna Boy,"My Money, My Baby - From ""Queen & Slim: The Soundtrack""",0.857,0.664,0.0856,0.00519,0.000492,0.134,0.637,rap
+Burna Boy,Rock Your Body,0.801,0.623,0.0982,0.107,0.00393,0.0853,0.801,rap
+Benny Dayal;Madurai Soulijos,Sirikkalam Parakkalam,0.703,0.834,0.0508,0.0396,1.32e-06,0.178,0.537,rap
+Lizzo,Truth Hurts,0.715,0.622,0.111,0.11,0.0,0.123,0.407,rap
+Lizzo,2 Be Loved (Am I Ready),0.721,0.769,0.105,0.0922,0.0,0.0817,0.915,rap
+Lizzo;Pink Panda,Boys - Pink Panda Remix,0.853,0.938,0.0955,0.0369,0.00113,0.545,0.848,rap
+Lizzo,Good as Hell,0.682,0.919,0.0874,0.256,0.0,0.443,0.535,rap
+Lizzo;DaBaby,Truth Hurts - DaBaby Remix,0.706,0.627,0.202,0.193,0.0,0.126,0.38,rap
+Akull,Laal Bindi,0.745,0.599,0.0459,0.407,0.0,0.162,0.283,rap
+Don Omar;Lucenzo,Danza Kuduro,0.699,0.917,0.115,0.078,0.0,0.065,0.889,rap
+DIVINE,Teesri Manzil,0.668,0.88,0.261,0.217,1.95e-06,0.114,0.399,rap
+Tegi Pannu;Manni Sandhu,Shinin',0.722,0.673,0.154,0.492,0.0,0.114,0.919,rap
+Burna Boy,Last Last,0.795,0.565,0.0948,0.131,0.0,0.0802,0.55,rap
+Sidhu Moose Wala;Sonam Bajwa,Jatti Jeone Morh Wargi,0.806,0.777,0.237,0.122,2.81e-05,0.0725,0.803,rap
+Bilal Saeed;Romee Khan,Snapchat Story,0.808,0.811,0.0448,0.163,0.0,0.148,0.753,rap
+Burna Boy,Last Last,0.795,0.565,0.0948,0.131,0.0,0.0802,0.55,rap
+Burna Boy;Stormzy,Real Life,0.488,0.572,0.0901,0.138,0.000235,0.27,0.415,rap
+Burna Boy;Stormzy,Real Life,0.488,0.572,0.0901,0.138,0.000235,0.27,0.415,rap
+Burna Boy,Last Last,0.795,0.565,0.0948,0.131,0.0,0.0802,0.55,rap
+Burna Boy;Ed Sheeran,For My Hand,0.87,0.479,0.165,0.161,0.000157,0.209,0.717,rap
+Burna Boy,Last Last,0.795,0.565,0.0948,0.131,0.0,0.0802,0.55,rap
+Burna Boy,Last Last,0.795,0.565,0.0948,0.131,0.0,0.0802,0.55,rap
+Burna Boy,Last Last,0.795,0.565,0.0948,0.131,0.0,0.0802,0.55,rap
+Burna Boy,Last Last,0.795,0.565,0.0948,0.131,0.0,0.0802,0.55,rap
+Big Sean;Hit-Boy,Chaos,0.652,0.66,0.0364,0.000724,0.000963,0.134,0.255,rap
+Burna Boy,Last Last,0.795,0.565,0.0948,0.131,0.0,0.0802,0.55,rap
+Burna Boy,Last Last,0.795,0.565,0.0948,0.131,0.0,0.0802,0.55,rap
+Burna Boy;Ed Sheeran,For My Hand,0.87,0.479,0.165,0.161,0.000157,0.209,0.717,rap
+Burna Boy;Ed Sheeran,For My Hand,0.87,0.479,0.165,0.161,0.000157,0.209,0.717,rap
+Wazir Patar;Roop Bhullar,Chup Chup,0.815,0.676,0.385,0.0664,0.0,0.0578,0.836,rap
+Burna Boy;Stormzy,Real Life,0.594,0.568,0.0701,0.147,4.01e-05,0.339,0.407,rap
+Burna Boy;Wizkid,B. D’OR,0.873,0.658,0.108,0.00858,0.0061,0.0999,0.483,rap
+Burna Boy,Last Last,0.795,0.565,0.0948,0.131,0.0,0.0802,0.55,rap
+Burna Boy;Blxst;Kehlani,Solid,0.554,0.509,0.339,0.149,1.86e-05,0.094,0.718,rap
+Burna Boy,Last Last,0.795,0.565,0.0948,0.131,0.0,0.0802,0.55,rap
+Burna Boy,Last Last,0.795,0.565,0.0948,0.131,0.0,0.0802,0.55,rap
+Burna Boy,Last Last,0.795,0.565,0.0948,0.131,0.0,0.0802,0.55,rap
+Burna Boy,Last Last,0.795,0.565,0.0948,0.131,0.0,0.0802,0.55,rap
+Burna Boy,Last Last,0.795,0.565,0.0948,0.131,0.0,0.0802,0.55,rap
+Big Sean;Hit-Boy;A$AP Ferg,Bezerk,0.684,0.687,0.201,0.0164,0.0,0.253,0.265,rap
+Burna Boy,Last Last,0.795,0.565,0.0948,0.131,0.0,0.0802,0.55,rap
+Burna Boy;Wizkid,B. D’OR,0.873,0.658,0.108,0.00858,0.0061,0.0999,0.483,rap
+Burna Boy,Last Last,0.795,0.565,0.0948,0.131,0.0,0.0802,0.55,rap
+Big Sean;Hit-Boy,Chaos,0.652,0.66,0.0364,0.000724,0.000963,0.134,0.255,rap
+Burna Boy,Onyeka (Baby) (Mixed),0.781,0.728,0.1,0.179,0.000206,0.73,0.363,rap
+Big Sean;Hit-Boy,Chaos,0.652,0.66,0.0364,0.000724,0.000963,0.134,0.255,rap
+Prabh Gill,Adore You,0.708,0.631,0.196,0.646,0.0,0.342,0.851,rap
+Eminem,"Lose Yourself - From ""8 Mile"" Soundtrack",0.686,0.735,0.264,0.00921,0.00066,0.342,0.0596,rap
+Burna Boy;Ed Sheeran,For My Hand,0.87,0.479,0.165,0.161,0.000157,0.209,0.717,rap
+Burna Boy;Ed Sheeran,For My Hand,0.87,0.479,0.165,0.161,0.000157,0.209,0.717,rap
+Burna Boy,Last Last,0.795,0.565,0.0948,0.131,0.0,0.0802,0.55,rap
+Big Sean;E-40,I Don't Fuck With You,0.824,0.733,0.0614,0.0362,0.0,0.325,0.395,rap
+Burna Boy;Lily Allen,Heaven's Gate,0.845,0.854,0.197,0.0376,1.45e-05,0.343,0.636,rap
+Big Sean;E-40,I Don't Fuck With You,0.824,0.733,0.0614,0.0362,0.0,0.325,0.395,rap
+Burna Boy;Ed Sheeran,For My Hand,0.87,0.479,0.165,0.161,0.000157,0.209,0.717,rap
+Don Omar,Guaya Guaya,0.787,0.872,0.143,0.0067,0.000193,0.136,0.696,rap
+Don Omar,Guaya Guaya,0.787,0.872,0.143,0.0067,0.000193,0.136,0.696,rap
+Don Omar,Guaya Guaya,0.787,0.872,0.143,0.0067,0.000193,0.136,0.696,rap
+Badshah;Amaal Mallik;Fazilpuria;Sukriti Kakar;Neha Kakkar,Kar Gayi Chull,0.827,0.737,0.0764,0.0316,0.000322,0.211,0.873,rap
+Miss Pooja;Millind Gaba,Sohnea,0.757,0.745,0.038,0.395,0.0,0.308,0.598,rap
+Badshah,Chamkeela Chehra,0.696,0.854,0.0318,0.268,0.0,0.219,0.921,rap
+Anirudh Ravichander,"Nenjame (From ""Doctor"")",0.45,0.647,0.0835,0.26,5.8e-05,0.402,0.122,rap
+Anirudh Ravichander,Udhungada Sangu,0.509,0.791,0.0925,0.216,0.0,0.0576,0.798,rap
+Don Omar,Salió El Sol,0.886,0.708,0.0911,0.107,0.0114,0.044,0.965,rap
+Anirudh Ravichander;Sid Sriram,Yennai Maatrum Kadhale,0.515,0.766,0.0941,0.464,3.12e-06,0.136,0.346,rap
+Amrit Maan;Tehjeeb Hafi,Allah Maaf Kre,0.544,0.501,0.0625,0.455,0.0,0.108,0.517,rap
+Sukhwinder Singh;Bhoomi Trivedi;Karsan Sagathia,Udi Udi Jaye,0.507,0.752,0.19,0.52,0.0,0.258,0.953,rap
+Don Omar;Plan B,Hooka,0.733,0.859,0.146,0.0431,0.0,0.822,0.845,rap
+Don Omar,Dile,0.822,0.744,0.094,0.173,7.03e-05,0.0692,0.747,rap
+Moneybagg Yo,Said Sum,0.929,0.667,0.353,0.0185,0.0,0.1,0.274,rap
+Don Omar,Vacilón,0.734,0.519,0.0824,0.00814,0.141,0.311,0.685,rap
+Moneybagg Yo;Big Homiie G,Gave It,0.823,0.603,0.393,0.00212,4.27e-06,0.245,0.225,rap
+Don Omar,Salió El Sol,0.886,0.708,0.0911,0.107,0.0114,0.044,0.965,rap
+Don Omar,Guaya Guaya,0.787,0.872,0.143,0.0067,0.000193,0.136,0.696,rap
+Don Omar,Guaya Guaya,0.787,0.872,0.143,0.0067,0.000193,0.136,0.696,rap
+Don Omar,Salió El Sol,0.886,0.708,0.0911,0.107,0.0114,0.044,0.965,rap
+Don Omar;Zion & Lennox,Te Quiero Pa´Mi,0.765,0.816,0.0595,0.124,8.19e-05,0.197,0.624,rap
+Don Omar,Bomba,0.661,0.576,0.485,0.026,0.0,0.0623,0.924,rap
+Don Omar;Alexis y Fido,No Te Vayas,0.635,0.731,0.06,0.163,7.61e-06,0.0874,0.611,rap
+Don Omar,Guaya Guaya,0.787,0.872,0.143,0.0067,0.000193,0.136,0.696,rap
+Don Omar;Plan B,Hooka,0.733,0.859,0.146,0.0431,0.0,0.822,0.845,rap
+Don Omar,Zumba,0.718,0.891,0.0404,0.00175,0.0146,0.138,0.828,rap
+Don Omar,Pobre Diabla,0.741,0.787,0.0525,0.217,0.0179,0.0835,0.771,rap
+Don Omar,Dile,0.822,0.744,0.094,0.173,7.03e-05,0.0692,0.747,rap
+Don Omar,Salió El Sol,0.886,0.708,0.0911,0.107,0.0114,0.044,0.965,rap
+Don Omar,Salió El Sol,0.886,0.708,0.0911,0.107,0.0114,0.044,0.965,rap
+Moneybagg Yo,Least Ian Lie,0.896,0.517,0.389,0.112,0.0,0.117,0.816,rap
+Don Omar,Pobre Diabla,0.741,0.787,0.0525,0.217,0.0179,0.0835,0.771,rap
+Don Omar,Pobre Diabla,0.741,0.787,0.0525,0.217,0.0179,0.0835,0.771,rap
+Don Omar,Guaya Guaya,0.787,0.872,0.143,0.0067,0.000193,0.136,0.696,rap
+Don Omar;Alexis y Fido,No Te Vayas,0.635,0.731,0.06,0.163,7.61e-06,0.0874,0.611,rap
+Don Omar,Salió El Sol,0.886,0.708,0.0911,0.107,0.0114,0.044,0.965,rap
+Don Omar,Salió El Sol,0.886,0.708,0.0911,0.107,0.0114,0.044,0.965,rap
+Don Omar;Sharlene Taule,Encanto,0.744,0.871,0.0499,0.145,0.000498,0.0752,0.902,rap
+Don Omar;Zion & Lennox,Te Quiero Pa´Mi,0.765,0.816,0.0595,0.124,8.19e-05,0.197,0.624,rap
+Don Omar,Pobre Diabla,0.741,0.787,0.0525,0.217,0.0179,0.0835,0.771,rap
+Don Omar;Nio Garcia,Se Menea,0.711,0.839,0.117,0.0472,0.0,0.0806,0.932,rap
+Don Omar;Zion & Lennox,Te Quiero Pa´Mi,0.765,0.816,0.0595,0.124,8.19e-05,0.197,0.624,rap
+Don Omar;Zion & Lennox,Te Quiero Pa´Mi,0.765,0.816,0.0595,0.124,8.19e-05,0.197,0.624,rap
+Don Omar;Lucenzo,Danza Kuduro,0.7,0.917,0.115,0.0773,0.0,0.065,0.888,rap
+Moneybagg Yo,Least Ian Lie,0.896,0.517,0.389,0.112,0.0,0.117,0.816,rap
+Don Omar,Hasta Abajo,0.759,0.885,0.0636,0.351,3.68e-05,0.468,0.673,rap
+Don Omar,Dale Don Dale,0.831,0.818,0.0824,0.0245,0.000319,0.0892,0.819,rap
+Don Omar;Trebol Clan,Tu Cuerpo Me Arrebata,0.819,0.645,0.0481,0.232,0.000863,0.178,0.724,rap
+Don Omar,Dale Don Dale,0.831,0.818,0.0824,0.0245,0.000319,0.0892,0.819,rap
+Don Omar,Dale Don Dale,0.831,0.818,0.0824,0.0245,0.000319,0.0892,0.819,rap
+Moneybagg Yo;Pooh Shiesty;Lil Durk;EST Gee,Switches & Dracs,0.727,0.647,0.28,0.0329,0.0,0.246,0.529,rap
+Don Omar;Juan Magán,No Sigue Modas Aka Ella No Sigue Modas,0.685,0.862,0.0627,0.00757,0.0014,0.0226,0.884,rap
