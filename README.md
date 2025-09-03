@@ -35,9 +35,7 @@ The ai_for_science_teacher_institute repository is a template.  It is reasonably
 ##2 Near the top right hand corner of the screen, find the button that says “Use this template” and click on it.  
 <br>
 
-<table><tr>
-    <td> <img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/use_this_template_open.png" alt="screen-grab" style="float: right;" style ="width: 200px;"/> </td>
-</tr></table>
+<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/use_this_template_open.png" alt="screen-grab" style="float: right;" style ="width: 100px;"/> 
 
 <br>
 ##3Click on the “Open in a codespace” selection.
