@@ -15,20 +15,27 @@ We also hope to use it to provide tips for how to get started with python coding
     <br />
     <br />
   </p>
-</div>
 
+<p align="left">
 This GitHub repository is set up for users to be able to access the coding materials during and after the ai for science teacher institute program.  GitHub is a platform that allows developers to store their code, and we are taking advantage of that functionality.  It also allows developers to collaborate on code – this is a functionality that we are not taking advantage of here, since we expect many of the users we send to this site to be relatively new at developing code and using it for teaching science.
-
+</p>
+<br />
+<p align="left">
 This ReadMe is organized in a way that you will hopefully find to be easy to follow, whether you are new to coding or more advanced.  For beginners, you may want to start with the “Getting Started” section.  In it, we’ll guide you to using GitHub codespaces for your coding.  While there are many other platforms that you could use for this purpose, codespaces will allow you to access the files you need right alongside your coding environment, with a minimal amount of setup work to be done before diving in.  
-
+</p>
+<br />
+<p align="left">
 The “Getting Started” section therefore starts with setting up your own GitHub account.  This is required for using codespaces, and honestly, anyone who wants more flexibility in their coding environment probably will have a GitHub account.  So it seems like a very reasonable place to start.
-
+</p>
+<br />
+</div>
 
 <div align="center">
 <h3 align="center">Getting Started</h3>
    <br />
 </div>
-Setting up your GitHub Account – you’ll need to do this in order to use the codespaces functionality within GitHub.  You can access the files without an account, but will then need to interact with the code outside of GitHub.  We’ll provide more information about how you might do this later in this ReadMe document.
+**Setting up your GitHub Account** – you’ll need to do this in order to use the codespaces functionality within GitHub.  You can access the files without an account, but will then need to interact with the code outside of GitHub.  We’ll provide more information about how you might do this later in this ReadMe document.
+
 Navigate to https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github . This GitHub resource provides information about the process.  
 Setup your GitHub account as described in the above link.
 
