@@ -24,14 +24,16 @@ This ReadMe is organized in a way that you will hopefully find to be easy to fol
 The “Getting Started” section therefore starts with setting up your own GitHub account.  This is required for using codespaces, and honestly, anyone who wants more flexibility in their coding environment probably will have a GitHub account.  So it seems like a very reasonable place to start.
 
 
-**Getting Started**
-
+<div align="center">
+<h3 align="center">Getting Started</h3>
+   <br />
+</div>
 Setting up your GitHub Account – you’ll need to do this in order to use the codespaces functionality within GitHub.  You can access the files without an account, but will then need to interact with the code outside of GitHub.  We’ll provide more information about how you might do this later in this ReadMe document.
 Navigate to https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github . This GitHub resource provides information about the process.  
 Setup your GitHub account as described in the above link.
 
 ***Starting up a codespace from the template***
-The ai_for_science_teacher_institute repository is a template.  It is reasonably simple to start up a codespace to run the files in the repository.  Here's how.
+The ai_for_science_teacher_institute repository is a *template*.  It is reasonably simple to start up a codespace to run the files in the repository.  Here's how.
 
 *1 Navigate to https://github.com/ArgonneEducation/ai_for_science_teacher_institute*
 
@@ -97,11 +99,11 @@ Then select “Codespaces” from the list that appears.
 <br>
 At the bottom of the page, you should see the name of your codespace.  
 <br>
-<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/codespace_name.png" alt="screen-grab" style ="width:500px;"/> 
+<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/codespace_name.png" alt="screen-grab" style ="width:700px;"/> 
 <br>
 You can shut it down by clicking on the 3 dots at the far right, and selecting “Stop codespace” . 
 <br>
-<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/codespaces_menu.png" alt="screen-grab" style ="width:500px;"/> 
+<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/codespaces_menu.png" alt="screen-grab" style ="width:300px;"/> 
 <br>
 
  Your codespace should then no longer be Active.  You can restart your work from this page at any time.  You might also choose to open the notebooks from JupyterLab using this same menu.  JupyterLab has a different look and will match better with some of the content, as it was developed using JupyterLab!
