@@ -69,7 +69,9 @@ To begin coding, you’ll have to open a jupyter notebook.  These are found in t
 <br>
 <img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/notebooks_1.png" alt="screen-grab" style ="width:300px;"/> 
 <br>
+
 Each of the files with a “.ipynb” designation is a python “jupyter” notebook that contains python code and markdown text.  If you’re just getting started, double click on the “01-jupyter_python_physics.ipynb” file.
+
 <br>
 <img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/notebooks_2.png" alt="screen-grab" style ="width:300px;"/> 
 <br>
@@ -96,6 +98,7 @@ Then click to Install/Enable suggested Extensions.  After a few seconds, a dialo
 <img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/python_environments.png" alt="screen-grab" style ="width:400px;"/> 
 <br>
 You can click on "Python Environments" and select any one.  We don't have to be picky for this project.
+
 
 *6 clear the "running in a port" dialog*
 
