@@ -5,7 +5,7 @@
   <a href="https://github.com/ArgonneEducation/ai_for_science_teacher_institute">
   </a>
 
-<h3 align="center">AI For Science Teacher Institute</h3>
+<h2 align="center">AI For Science Teacher Institute</h2>
 
   <p align="center">
     This repo is intended to be a central hub for sharing materials for and from the ai for science teacher institute.  
@@ -29,11 +29,10 @@ The “Getting Started” section therefore starts with setting up your own GitH
 
 <div align="center">
 <h3 align="center">Getting Started</h3>
-   <br />
 </div>
 
 <div align="left">
-<h2 align="left">Setting up your GitHub Accoun</h2>
+<h3 align="left">Setting up your GitHub Account</h3>
    <br />
 <p align="left">
 You’ll need an account in order to use the codespaces functionality within GitHub.  You can access the files without an account, but will then need to interact with the code outside of GitHub.  We’ll provide more information about how you might do this later in this ReadMe document.
@@ -43,8 +42,12 @@ Setup your GitHub account as described in the above link.
 </p>
 <br />
 </div>
-***Starting up a codespace from the template***
-The ai_for_science_teacher_institute repository is a *template*.  It is reasonably simple to start up a codespace to run the files in the repository.  Here's how.
+
+<div align="left">
+<h3 align="left">Starting up a codespace from the template</h3>
+</div>
+
+The ai_for_science_teacher_institute repository is a template.  It is reasonably simple to start up a codespace to run the files in the repository.  Here's how.
 
 *1 Navigate to https://github.com/ArgonneEducation/ai_for_science_teacher_institute*
 
@@ -52,7 +55,9 @@ The ai_for_science_teacher_institute repository is a *template*.  It is reasonab
 
 Near the top right hand corner of the screen, find the button that says “Use this template” and click on it.
 <br>
-<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/use_this_template_open.png" alt="screen-grab" style ="width:200px;"/> 
+<div style="text-align: right;">
+  <img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/use_this_template_open.png" alt="screen-grab" style ="width:200px;"/>
+</div>
 <br>
 Click on the “Open in a codespace” selection.
 
@@ -79,7 +84,10 @@ The codespace automatically opens up a terminal at the *bottom* of the screen, w
 
 In order to “run” any of the code, we need to select a Kernel to use.  This essentially means we’re installing python files and setting up the particular version of python to use. Click to the “Select Kernel” button in the top right hand corner.
 <br>
-<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/select_kernel.png" alt="screen-grab" style ="width:700px;"/> 
+<div style="text-align: right;">
+    <img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/select_kernel.png" alt="screen-grab" style ="width:700px;"/>
+</div>
+ 
 <br>
 Then click to Install/Enable suggested Extensions.  After a few seconds, a dialog box appears.  
 <br>
@@ -114,7 +122,9 @@ At the bottom of the page, you should see the name of your codespace.
 <br>
 You can shut it down by clicking on the 3 dots at the far right, and selecting “Stop codespace” . 
 <br>
+<div style="text-align: right;">
 <img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/codespaces_menu.png" alt="screen-grab" style ="width:300px;"/> 
+</div>
 <br>
 
  Your codespace should then no longer be Active.  You can restart your work from this page at any time.  You might also choose to open the notebooks from JupyterLab using this same menu.  JupyterLab has a different look and will match better with some of the content, as it was developed using JupyterLab!
