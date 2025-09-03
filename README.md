@@ -22,35 +22,68 @@ This ReadMe is organized in a way that you will hopefully find to be easy to fol
 The “Getting Started” section therefore starts with setting up your own GitHub account.  This is required for using codespaces, and honestly, anyone who wants more flexibility in their coding environment probably will have a GitHub account.  So it seems like a very reasonable place to start.
 
 
-***Getting Started***
+**Getting Started**
 Setting up your GitHub Account – you’ll need to do this in order to use the codespaces functionality within GitHub.  You can access the files without an account, but will then need to interact with the code outside of GitHub.  We’ll provide more information about how you might do this later in this ReadMe document.
 Navigate to Creating an account on GitHub - GitHub Docs . This GitHub resource provides information about the process.  
 Setup your GitHub account as described in the above link.
 
-**Starting up a codespace from the template**
+***Starting up a codespace from the template***
 The ai_for_science_teacher_institute repository is a template.  It is reasonably simple to start up a codespace to run the files in the repository.  Here's how.
 
-*1 Navigate to ArgonneEducation/ai_for_science_teacher_institute: Sharing Materials from the Argonne National Laboratory Teacher Institute at https://github.com/ArgonneEducation/ai_for_science_teacher_institute*
+*1 Navigate to https://github.com/ArgonneEducation/ai_for_science_teacher_institute*
 
-*2 Near the top right hand corner of the screen, find the button that says “Use this template” and click on it. *
+*2 Near the top right hand corner of the screen, find the button that says “Use this template” and click on it.*
 <br>
 
-<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/use_this_template_open.png" alt="screen-grab" style ="width:100px;"/> 
+<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/use_this_template_open.png" alt="screen-grab" style ="width:200px;"/> 
 
 <br>
 
 *3 Click on the “Open in a codespace” selection.*
 
-The codespace automatically opens up a terminal at the bottom of the screen, which we are not going to use at this beginning level. Click in the bottom frame and type “exit” and <enter> to exit the terminal.  This will free up more of your screen to use for coding.
-After a few seconds, this README file should open in a tab within the codespace.  You may have to exit out of the terminal that also reappears.
+*4 Open a Jupyter Notebook*
+
 To begin coding, you’ll have to open a jupyter notebook.  These are found in the navigation bar on the left of the screen.  Click on the word “notebooks” to see the files.  
+
+<br>
+
+<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/notebooks_1.png" alt="screen-grab" style ="width:200px;"/> 
+
+<br>
+
 Each of the files with a “.ipynb” designation is a python “jupyter” notebook that contains python code and markdown text.  If you’re just getting started, double click on the “01-jupyter_python_physics.ipynb” file.
+
+<br>
+
+<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/notebooks_2.png" alt="screen-grab" style ="width:200px;"/> 
+
+<br>
+
 This should open up this “notebook” in a new tab.
+
+*5  Close the terminal - we don't need it*
+The codespace automatically opens up a terminal at the bottom of the screen, which we are not going to use at this beginning level. Click in the bottom frame and type “exit” and <enter> to exit the terminal.  This will free up more of your screen to use for coding.
+
+<br>
+
+<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/exiting_terminal.png" alt="screen-grab" style ="width:500px;"/> 
+
+<br>
+
+*6 Select a Kernel (to run code)*
 In order to “run” any of the code, we need to select a Kernel to use.  This essentially means we’re installing python files and setting up the particular version of python to use. Click to the “Select Kernel” button in the top right hand corner.
+
+<br>
+
+<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/select_kernel.png" alt="screen-grab" style ="width:400px;"/> 
+
+<br>
+
 Then click to Install/Enable suggested Extensions.  After a few seconds, a dialog box appears.  
 
 
 Another prompt will tell you that your application is running in a port.  You can close this dialog box.  We don’t need this functionality.
+
 Congratulations, you are now able to create and run code in this entirely online codespace!  
 The codespace is using online resources as long as it is active.  That being the case, it is a VERY good idea to stop it from running when you are no longer going to use it.  Here’s how:
 
