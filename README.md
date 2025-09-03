@@ -33,7 +33,13 @@ The ai_for_science_teacher_institute repository is a template.  It is reasonably
 #1 Navigate to ArgonneEducation/ai_for_science_teacher_institute: Sharing Materials from the Argonne National Laboratory Teacher Institute at https://github.com/ArgonneEducation/ai_for_science_teacher_institute
 
 ##2 Near the top right hand corner of the screen, find the button that says “Use this template” and click on it.  
+<br>
 
+<table><tr>
+    <td> <img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/use_this_template_open.png" alt="Drawing" style="width: 600px;"/> </td>
+</tr></table>
+
+<br>
 ##3Click on the “Open in a codespace” selection.
 
 The codespace automatically opens up a terminal at the bottom of the screen, which we are not going to use at this beginning level. Click in the bottom frame and type “exit” and <enter> to exit the terminal.  This will free up more of your screen to use for coding.
