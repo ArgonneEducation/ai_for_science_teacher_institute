@@ -55,7 +55,7 @@ Near the top right hand corner of the screen, find the button that says “Use t
 <br>
 <table>
   <tr>
-    <td align="right">
+    <td align="center">
       <img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/use_this_template_open.png" alt="screen-grab" width="200"/>
     </td>
   </tr>
@@ -86,7 +86,7 @@ The codespace automatically opens up a terminal at the *bottom* of the screen, w
 
 In order to “run” any of the code, we need to select a Kernel to use.  This essentially means we’re installing python files and setting up the particular version of python to use. Click to the “Select Kernel” button in the top right hand corner.
 <br>
-<div style="text-align: right;">
+<div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/select_kernel.png" alt="screen-grab" style ="width:700px;"/>
 </div>
  
@@ -124,7 +124,7 @@ At the bottom of the page, you should see the name of your codespace.
 <br>
 You can shut it down by clicking on the 3 dots at the far right, and selecting “Stop codespace” . 
 <br>
-<div style="text-align: right;">
+<div style="text-align: center;">
 <img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/codespaces_menu.png" alt="screen-grab" style ="width:300px;"/> 
 </div>
 <br>
