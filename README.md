@@ -22,7 +22,7 @@ This ReadMe is organized in a way that you will hopefully find to be easy to fol
 The “Getting Started” section therefore starts with setting up your own GitHub account.  This is required for using codespaces, and honestly, anyone who wants more flexibility in their coding environment probably will have a GitHub account.  So it seems like a very reasonable place to start.
 
 
-*Getting Started*
+***Getting Started***
 Setting up your GitHub Account – you’ll need to do this in order to use the codespaces functionality within GitHub.  You can access the files without an account, but will then need to interact with the code outside of GitHub.  We’ll provide more information about how you might do this later in this ReadMe document.
 Navigate to Creating an account on GitHub - GitHub Docs . This GitHub resource provides information about the process.  
 Setup your GitHub account as described in the above link.
@@ -30,15 +30,16 @@ Setup your GitHub account as described in the above link.
 **Starting up a codespace from the template**
 The ai_for_science_teacher_institute repository is a template.  It is reasonably simple to start up a codespace to run the files in the repository.  Here's how.
 
-#1 Navigate to ArgonneEducation/ai_for_science_teacher_institute: Sharing Materials from the Argonne National Laboratory Teacher Institute at https://github.com/ArgonneEducation/ai_for_science_teacher_institute
+*1 Navigate to ArgonneEducation/ai_for_science_teacher_institute: Sharing Materials from the Argonne National Laboratory Teacher Institute at https://github.com/ArgonneEducation/ai_for_science_teacher_institute*
 
-##2 Near the top right hand corner of the screen, find the button that says “Use this template” and click on it.  
+*2 Near the top right hand corner of the screen, find the button that says “Use this template” and click on it. *
 <br>
 
-<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/use_this_template_open.png" alt="screen-grab" style="float: right;" style ="width: 100px;"/> 
+<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/use_this_template_open.png" alt="screen-grab" style ="width:100px;"/> 
 
 <br>
-##3Click on the “Open in a codespace” selection.
+
+*3 Click on the “Open in a codespace” selection.*
 
 The codespace automatically opens up a terminal at the bottom of the screen, which we are not going to use at this beginning level. Click in the bottom frame and type “exit” and <enter> to exit the terminal.  This will free up more of your screen to use for coding.
 After a few seconds, this README file should open in a tab within the codespace.  You may have to exit out of the terminal that also reappears.
