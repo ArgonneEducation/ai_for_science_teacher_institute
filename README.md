@@ -36,7 +36,7 @@ The ai_for_science_teacher_institute repository is a template.  It is reasonably
 <br>
 
 <table><tr>
-    <td> <img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/use_this_template_open.png" alt="Drawing" style="width: 600px;"/> </td>
+    <td> <img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/use_this_template_open.png" alt="screen-grab" style="float: right;" style ="width: 200px;"/> </td>
 </tr></table>
 
 <br>
