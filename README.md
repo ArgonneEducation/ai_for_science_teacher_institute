@@ -40,7 +40,8 @@ Navigate to https://docs.github.com/en/get-started/start-your-journey/creating-a
 Setup your GitHub account as described in the above link.
 </p>
 </div>
-
+<br>
+<br>
 <div align="left">
 <h3 align="left">Starting up a codespace from the template</h3>
 </div>
@@ -140,8 +141,8 @@ You can shut it down by clicking on the 3 dots at the far right, and selecting �
 
  Your codespace should then no longer be Active.  You can restart your work from this page at any time.  You might also choose to open the notebooks from JupyterLab using this same menu.  JupyterLab has a different look and will match better with some of the content, as it was developed using JupyterLab!
 
-
-
+<br>
+<br>
 <div align="left">
 <h3 align="left">Using the Notebooks with Codespaces</h3>
 <p align="left">
@@ -155,6 +156,8 @@ This is a good place to start exploring the repository!
 The notebooks are in numerical order, with titles that also indicate something about the topics contained within the notebooks.
 There is an additional folder titled “completed notebooks” that contains Jupyter notebooks that serve as answer keys for many of the notebooks.  Our suggestion is that you use these only after first trying to work through any questions.  You may want to try using google or potentially even an AI large language model before cross-checking with these completed notebooks.  Most coding problems can be solved this way, though it takes a bit of practice and skill to navigate this efficiently.  Therefore, it’s good to practice doing so, rather than simply relying on the provided answers.  
 
+<br>
+<br>
 <div align="left">
 <h3 align="left">Using the Notebooks Without a GitHub Account</h3>
 <p align="left">
