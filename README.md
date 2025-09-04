@@ -133,3 +133,64 @@ You can shut it down by clicking on the 3 dots at the far right, and selecting �
 <br>
 
  Your codespace should then no longer be Active.  You can restart your work from this page at any time.  You might also choose to open the notebooks from JupyterLab using this same menu.  JupyterLab has a different look and will match better with some of the content, as it was developed using JupyterLab!
+
+
+
+<div align="left">
+<h3 align="left">Using the Notebooks with Codespaces</h3>
+<p align="left">
+
+Our suggestion is to open the repository in JupyterLab via GitHub Codespaces as described in the Getting Started section.  Once you’ve opened the repository, you can explore the notebooks with the file explorer in the left pane of the screen.  The repository contains a folder titled “notebooks”.  This folder contains Jupyter notebooks, which are indicated with a “.ipynb” ending.  Jupyter notebooks are a mix of python code chunks and explanatory material.  There is more information about this structure in the “01-jupyter_python_physics.ipynb” notebook.
+
+This is a good place to start exploring the repository!  
+<br>
+<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/Jupyter_file_explorer.png" alt="screen-grab" style ="width:700px;"/> 
+<br>
+The notebooks are in numerical order, with titles that also indicate something about the topics contained within the notebooks.
+There is an additional folder titled “completed notebooks” that contains Jupyter notebooks that serve as answer keys for many of the notebooks.  Our suggestion is that you use these only after first trying to work through any questions.  You may want to try using google or potentially even an AI large language model before cross-checking with these completed notebooks.  Most coding problems can be solved this way, though it takes a bit of practice and skill to navigate this efficiently.  Therefore, it’s good to practice doing so, rather than simply relying on the provided answers.  
+
+<div align="left">
+<h3 align="left">Using the Notebooks Without a GitHub Account</h3>
+<p align="left">
+
+If for some reason, you would rather access the files without having to make an account, it is possible to do so.  You will first have to download the files you would like to use from the GitHub repository (step-by-step instructions below).  Then you can access these files, stored on your machine, via the online JupyterLite tool (instructions for this are also below).  
+
+*Downloading Individual GitHub Files*
+
+To download files from the GitHub repository, navigate to https://github.com/ArgonneEducation/ai_for_science_teacher_institute, and open the notebooks folder. When you open up a file, it is displayed on the screen and some options appear in the upper right hand corner.
+<br>
+<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/download_from_repository.png" alt="screen-grab" style ="width:700px;"/> 
+<br>
+Simply clicking on the download button with the downward pointing arrow will download the file into your downloads folder.  From there, you could save it to a folder, perhaps titled ai_for_science_teacher_institute.  
+<br>
+<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/download_closeup.png" alt="screen-grab" style ="width:300px;"/> 
+<br>
+If you download the files this way, you will have to create the folder organization system on your machine.
+
+*Downloading a Folder from GitHub*
+
+It is possible to download an entire folder from a GitHub repository.  For example, to download the entire contents of the “notebooks” folder, you’ll need its URL.  https://github.com/ArgonneEducation/ai_for_science_teacher_institute/tree/main/notebooks
+GitHub has a tool for downloading a zipped folder at https://download-directory.github.io
+Simply paste in the URL for the notebook directory and press Enter to download a zipped folder with all of the notebooks.  Extract the files to a folder location of your choosing on your machine.
+
+*Opening Files with JupyterLite*
+
+To open your notebook file with JupyterLite, first navigate to https://jupyter.org/try-jupyter/notebooks/?path=notebooks/Intro.ipynb in your browser.  This gives an introductory notebook.
+From here, click on File in the menu bar and select Open…
+<br>
+<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/open_jupyter_lite.png" alt="screen-grab" style ="width:700px;"/> 
+<br>
+In the new tab that appears, you’ll next want to upload the notebook that you’d like to run. The "upload" button is in the top right corner of the screen.
+<br>
+<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/jupyter_upload.png" alt="screen-grab" style ="width:300px;"/> 
+<br>
+If you click upload while in the main folder, your file will appear in the file list.  You may want to first open the notebooks folder and then upload the notebook you would like to use.
+<br>
+<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/jupyter_file_uploaded.png" alt="screen-grab" style ="width:700px;"/> 
+<br>
+If you open the file by double clicking on it, you will be prompted to Select a Kernel.
+<br>
+<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/jupyter_select_kernel.png" alt="screen-grab" style ="width:700px;"/> 
+<br>
+Click on Select to start the kernel.  This just means that it is activating the ability for JupyterLite to run python code. 
+You are now ready to explore the notebook!
