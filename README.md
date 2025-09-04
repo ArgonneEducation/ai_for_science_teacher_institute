@@ -74,7 +74,7 @@ Each of the files with a “.ipynb” designation is a python “jupyter” note
 <img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/notebooks_2.png" alt="screen-grab" style ="width:300px;"/> 
 <br>
 This should open up this “notebook” in a new tab.
-
+<br>
 <br>
 
 *4  Close the terminal - we don't need it*
