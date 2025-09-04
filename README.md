@@ -63,7 +63,9 @@ Near the top right hand corner of the screen, find the button that says “Use t
 <br>
 Click on the “Open in a codespace” selection.
 
+
 *3 Open a Jupyter Notebook*
+
 
 To begin coding, you’ll have to open a jupyter notebook.  These are found in the navigation bar on the left of the screen.  Click on the word “notebooks” to see the files.  
 <br>
@@ -77,7 +79,9 @@ Each of the files with a “.ipynb” designation is a python “jupyter” note
 <br>
 This should open up this “notebook” in a new tab.
 
+
 *4  Close the terminal - we don't need it*
+
 
 The codespace automatically opens up a terminal at the *bottom* of the screen, which we are not going to use at this beginning level. Click in the bottom frame and type “exit” and "enter" to exit the terminal.  This will free up more of your screen to use for coding.
 <br>
