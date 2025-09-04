@@ -26,6 +26,27 @@ This ReadMe is organized in a way that you will hopefully find to be easy to fol
 The “Getting Started” section therefore starts with setting up your own GitHub account.  This is required for using codespaces, and honestly, anyone who wants more flexibility in their coding environment probably will have a GitHub account.  So it seems like a very reasonable place to start.
 </p>
 </div>
+<br>
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+    </li>
+    <li><a href="#setting-up-your-github-account">Setting Up Your GitHub Account</a></li>
+    <li><a href="#starting-up-a-codespace-from-the-template">Starting up a codespace from the template</a></li>
+      <ul>
+        <li><a href="#7-stopping-a-codespace">Stopping a codespace</a></li>
+      </ul>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
+
 
 <div align="center">
 <h3 align="center">Getting Started</h3>
@@ -44,7 +65,7 @@ Setup your GitHub account as described in the above link.
 <br>
 <div align="left">
 <h3 align="left">Starting up a codespace from the template</h3>
-</div>
+
 
 The ai_for_science_teacher_institute repository is a template.  It is reasonably simple to start up a codespace to run the files in the repository.  Here's how.
 
@@ -156,6 +177,7 @@ This is a good place to start exploring the repository!
 The notebooks are in numerical order, with titles that also indicate something about the topics contained within the notebooks.
 There is an additional folder titled “completed notebooks” that contains Jupyter notebooks that serve as answer keys for many of the notebooks.  Our suggestion is that you use these only after first trying to work through any questions.  You may want to try using google or potentially even an AI large language model before cross-checking with these completed notebooks.  Most coding problems can be solved this way, though it takes a bit of practice and skill to navigate this efficiently.  Therefore, it’s good to practice doing so, rather than simply relying on the provided answers.  
 
+###Noaccount
 <br>
 <br>
 <div align="left">
