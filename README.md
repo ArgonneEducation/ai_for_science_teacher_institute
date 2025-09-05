@@ -139,7 +139,7 @@ You can shut it down by clicking on the 3 dots at the far right, and selecting �
 
  Your codespace should then no longer be Active.  You can restart your work from this page at any time.  You might also choose to open the notebooks from JupyterLab using this same menu.  JupyterLab has a different look and will match better with some of the content, as it was developed using JupyterLab!
 
-##Using the Notebooks
+## Using the Notebooks
 Our suggestion is to open the repository in JupyterLab via GitHub Codespaces as described in the Getting Started section.  Once you’ve opened the repository, you can explore the notebooks with the file explorer in the left pane of the screen.  The repository contains a folder titled “notebooks”.  This folder contains Jupyter notebooks, which are indicated with a “.ipynb” ending.  Jupyter notebooks are a mix of python code chunks and explanatory material.  There is more information about this structure in the “01-jupyter_python_physics.ipynb” notebook.
 
 This is a good place to start exploring the repository!  
