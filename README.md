@@ -1,19 +1,19 @@
-# Teacher_Institute
+# AI for Science Teacher Institute
 *Sharing Materials from the Argonne National Laboratory Teacher Institute*
 
 <div align="center">
   <a href="https://github.com/ArgonneEducation/ai_for_science_teacher_institute">
   </a>
 
-<h2 align="center">AI For Science Teacher Institute</h2>
-
-  <p align="center">
-    This repo is intended to be a central hub for sharing materials for and from the ai for science teacher institute.  
+  <p align="left">
+    This repo is intended to be a central hub for sharing materials for and from the AI for Science Teacher Institute.  
 We also hope to use it to provide tips for how to get started with python coding for new coders.
-    <br />
+  </p>
+  
+  <p align="center">
     <a href="https://github.com/ArgonneEducation/ai_for_science_teacher_institute"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
+  <br />
+  <br />
   </p>
 
 <p align="left">
