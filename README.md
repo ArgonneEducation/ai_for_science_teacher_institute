@@ -48,9 +48,9 @@ Setup your GitHub account as described in the above link.
 ## Starting up a codespace from the template
 The ai_for_science_teacher_institute repository is a template.  It is reasonably simple to start up a codespace to run the files in the repository.  Here's how.
 
-*1 Navigate to https://github.com/ArgonneEducation/ai_for_science_teacher_institute*
+#### 1 Navigate to https://github.com/ArgonneEducation/ai_for_science_teacher_institute
 
-*2 Opening the template in a codespace*
+#### 2 Opening the template in a codespace
 
 Near the top right hand corner of the screen, find the button that says “Use this template” and click on it.
 <br>
@@ -60,7 +60,7 @@ Click on the “Open in a codespace” selection.
 
 <br>
 
-*3 Open a Jupyter Notebook*
+#### 3 Open a Jupyter Notebook
 
 <br>
 
@@ -78,7 +78,7 @@ This should open up this “notebook” in a new tab.
 <br>
 <br>
 
-*4  Close the terminal - we don't need it*
+#### 4  Close the terminal - we don't need it
 
 <br>
 
@@ -87,7 +87,7 @@ The codespace automatically opens up a terminal at the *bottom* of the screen, w
 <img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/exiting_terminal.png" alt="screen-grab" style ="width:400px;"/> 
 <br>
 
-*5 Select a Kernel (to run code)*
+#### 5 Select a Kernel (to run code)
 
 In order to “run” any of the code, we need to select a Kernel to use.  This essentially means we’re installing python files and setting up the particular version of python to use. Click to the “Select Kernel” button in the top right hand corner.
 <br>
@@ -102,7 +102,7 @@ Then click to Install/Enable suggested Extensions.  After a few seconds, a dialo
 <br>
 You can click on "Python Environments" and select any one.  We don't have to be picky for this project.
 
-*6 clear the "running in a port" dialog*
+#### 6 clear the "running in a port" dialog
 
 Another prompt will tell you that your application is running in a port.  You can close this dialog box.  We don’t need this functionality.
 
@@ -152,7 +152,7 @@ There is an additional folder titled “completed notebooks” that contains Jup
 ## Using Without a GitHub Account
 If for some reason, you would rather access the files without having to make an account, it is possible to do so.  You will first have to download the files you would like to use from the GitHub repository (step-by-step instructions below).  Then you can access these files, stored on your machine, via the online JupyterLite tool (instructions for this are also below).  
 
-*1a Downloading Individual GitHub Files*
+#### 1a Downloading Individual GitHub Files
 
 To download files from the GitHub repository, navigate to https://github.com/ArgonneEducation/ai_for_science_teacher_institute, and open the notebooks folder. When you open up a file, it is displayed on the screen and some options appear in the upper right hand corner.
 <br>
@@ -168,13 +168,13 @@ Simply clicking on the download button with the downward pointing arrow will dow
 <br>
 If you download the files this way, you will have to create the folder organization system on your machine.
 
-*1b Downloading a Folder from GitHub*
+#### 1b Downloading a Folder from GitHub
 
 It is possible to download an entire folder from a GitHub repository.  For example, to download the entire contents of the “notebooks” folder, you’ll need its URL.  https://github.com/ArgonneEducation/ai_for_science_teacher_institute/tree/main/notebooks
 GitHub has a tool for downloading a zipped folder at https://download-directory.github.io
 Simply paste in the URL for the notebook directory and press Enter to download a zipped folder with all of the notebooks.  Extract the files to a folder location of your choosing on your machine.
 
-*2 Opening Files with JupyterLite*
+#### 2 Opening Files with JupyterLite
 
 To open your notebook file with JupyterLite, first navigate to https://jupyter.org/try-jupyter/notebooks/?path=notebooks/Intro.ipynb in your browser.  This gives an introductory notebook.
 From here, click on File in the menu bar and select Open…
