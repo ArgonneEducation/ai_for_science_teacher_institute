@@ -37,6 +37,9 @@ The “Getting Started” section therefore starts with setting up your own GitH
 - [Stopping a codespace](#stopping-a-codespace)        <!-- Links to the "Stopping a codespace" section -->
 - [Opening a Codespace in JuptyerLab](#opening-a-codespace-in-jupyterlab)          <!-- Links to the "Opening a Codespace in JupyterLab" section -->
 - [Using without a GitHub Account](#using-without-a-github-account)    <!-- Links to the "Using without a GitHub Account" section -->
+  - [Using JupyterLite](#using-jupyterlite)        <!-- Subheading link for JupyterLite -->
+  - [Using Google Colab](#using-google-colab)       <!-- Subheading link for Google Colab -->
+
 ## Getting Started
 
 ## Setting up your GitHub Account
@@ -128,9 +131,13 @@ There is an additional folder titled “completed notebooks” that contains Jup
 
 
 ## Using Without a GitHub Account
-If for some reason, you would rather access the files without having to make an account, it is possible to do so.  You will first have to download the files you would like to use from the GitHub repository (step-by-step instructions below).  Then you can access these files, stored on your machine, via the online JupyterLite tool (instructions for this are also below).  
+If for some reason, you would rather access the files without having to make an account, it is possible to do so.  
 
-*1a Downloading Individual GitHub Files*
+### Using JupyterLite
+
+One way to do so is to use JupyterLite, which is an online tool for opening and running code in Jupyter notebooks.  In order to use JupyterLite, you will first have to download the files you would like to use from the GitHub repository (step-by-step instructions below).  Then you can access these files, stored on your machine, via the online JupyterLite tool (instructions for this are also below).  
+
+#### Downloading Individual GitHub Files
 
 To download files from the GitHub repository, navigate to https://github.com/ArgonneEducation/ai_for_science_teacher_institute, and open the notebooks folder. When you open up a file, it is displayed on the screen and some options appear in the upper right hand corner.
 <br>
@@ -146,13 +153,13 @@ Simply clicking on the download button with the downward pointing arrow will dow
 <br>
 If you download the files this way, you will have to create the folder organization system on your machine.
 
-*1b Downloading a Folder from GitHub*
+#### Downloading a Folder from GitHub
 
 It is possible to download an entire folder from a GitHub repository.  For example, to download the entire contents of the “notebooks” folder, you’ll need its URL.  https://github.com/ArgonneEducation/ai_for_science_teacher_institute/tree/main/notebooks
 GitHub has a tool for downloading a zipped folder at https://download-directory.github.io
 Simply paste in the URL for the notebook directory and press Enter to download a zipped folder with all of the notebooks.  Extract the files to a folder location of your choosing on your machine.
 
-*2 Opening Files with JupyterLite*
+#### Opening Files with JupyterLite
 
 To open your notebook file with JupyterLite, first navigate to https://jupyter.org/try-jupyter/notebooks/?path=notebooks/Intro.ipynb in your browser.  This gives an introductory notebook.
 From here, click on File in the menu bar and select Open…
@@ -181,3 +188,30 @@ If you open the file by double clicking on it, you will be prompted to Select a 
 <br>
 Click on Select to start the kernel.  This just means that it is activating the ability for JupyterLite to run python code. 
 You are now ready to explore the notebook! The other notebooks should remain available to you in the left pane of your screen.
+
+### Using Google Colab
+Another way of using the files in this repository is to open them up in Google Colab.  An advantage of doing it this way is that there is no need to upload any files to your machine.  You'll need a google account, however, and if you want to save the files, you can save to your google drive.
+
+To use Google Colab, first navigate to https://colab.research.google.com/
+
+Then click on 'File' and 'Open notebook'
+<br>
+<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/colab1.png" alt="screen-grab" style ="width:250px;"/> 
+<br>
+
+Select the 'GitHub' tab.
+<br>
+<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/colab2.png" alt="screen-grab" style ="width:200px;"/> 
+<br>
+
+Paste or type in the url https://github.com/ArgonneEducation/ai_for_science_teacher_institute
+
+<br>
+<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/colab3.png" alt="screen-grab" style ="width:600px;"/> 
+<br>
+
+Each of the files in the notebooks in the repository appear below: Some of the organizational structure is lost with this interface.  You'll have to scroll down a bit to find the paths that simply begin with "notebooks".  These are the files in the "notebooks" directory or folder.  To open the first notebook in the repository, find the one shown below and double click on it.
+
+<br>
+<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/colab4.png" alt="screen-grab" style ="width:600px;"/> 
+<br>
