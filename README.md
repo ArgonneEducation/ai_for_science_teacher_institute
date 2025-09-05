@@ -196,12 +196,12 @@ To use Google Colab, first navigate to https://colab.research.google.com/
 
 Then click on 'File' and 'Open notebook'
 <br>
-<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/colab1.png" alt="screen-grab" style ="width:250px;"/> 
+<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/colab1.png" alt="screen-grab" style ="width:500px;"/> 
 <br>
 
 Select the 'GitHub' tab.
 <br>
-<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/colab2.png" alt="screen-grab" style ="width:200px;"/> 
+<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/colab2.png" alt="screen-grab" style ="width:150px;"/> 
 <br>
 
 Paste or type in the url https://github.com/ArgonneEducation/ai_for_science_teacher_institute
@@ -213,5 +213,7 @@ Paste or type in the url https://github.com/ArgonneEducation/ai_for_science_teac
 Each of the files in the notebooks in the repository appear below: Some of the organizational structure is lost with this interface.  You'll have to scroll down a bit to find the paths that simply begin with "notebooks".  These are the files in the "notebooks" directory or folder.  To open the first notebook in the repository, find the one shown below and double click on it.
 
 <br>
-<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/colab4.png" alt="screen-grab" style ="width:600px;"/> 
+<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/colab4.png" alt="screen-grab" style ="width:700px;"/> 
 <br>
+
+Now you can use the notebook!  Simply go through this process for subsequent notebooks. If you want to save your work, click on 'File' and 'Save a Copy in Drive'. This will save the updated notebook to your Google Drive.
