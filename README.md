@@ -86,7 +86,7 @@ At the bottom of the page, you should see the name of your codespace.
 You can shut it down by clicking on the 3 dots at the far right, and selecting “Stop codespace” . 
 <br>
 <div style="text-align: center;">
-<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/codespaces_menu.png" alt="screen-grab" style ="width:250px;"/> 
+<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/codespaces_menu.png" alt="screen-grab" style ="width:200px;"/> 
 </div>
 <br>
 
@@ -111,7 +111,11 @@ At the bottom of the page, you should see the name of your codespace.
 <img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/codespace_name.png" alt="screen-grab" style ="width:700px;"/> 
 <br>
 You can open the codespace by clicking on the 3 dots at the far right, and selecting “Open in JupyterLab” . 
-
+<br>
+<div style="text-align: center;">
+<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/codespaces_menu.png" alt="screen-grab" style ="width:200px;"/> 
+</div>
+<br>
 Once you’ve opened the repository, you can explore the notebooks with the file explorer in the left pane of the screen.  The repository contains a folder titled “notebooks”.  This folder contains Jupyter notebooks, which are indicated with a “.ipynb” ending.  Jupyter notebooks are a mix of python code chunks and explanatory material.  There is more information about this structure in the “01-jupyter_python_physics.ipynb” notebook.
 
 This is a good place to start exploring the repository!  
