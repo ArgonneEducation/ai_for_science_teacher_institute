@@ -90,7 +90,7 @@ You can shut it down by clicking on the 3 dots at the far right, and selecting �
 </div>
 <br>
 
- Your codespace should then no longer be Active.  You can restart your work from this page at any time.  You might also choose to open the notebooks from JupyterLab using this same menu.  
+ Your codespace should then no longer be Active.  You can restart your work from this page at any time.
 
 ## Opening a Codespace in JupyterLab
 Our suggestion is to open the repository in JupyterLab via GitHub Codespaces.  The content was developed using JupyterLab so some of it will not be as clear with a different platform.
@@ -110,7 +110,7 @@ At the bottom of the page, you should see the name of your codespace.
 <br>
 <img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/codespace_name.png" alt="screen-grab" style ="width:700px;"/> 
 <br>
-You can open the codespace by clicking on the 3 dots at the far right, and selecting “Open in JupyterLab” . 
+You can open the codespace by clicking on the 3 dots at the far right, and selecting “Open in JupyterLab”, which is near the bottom. 
 <br>
 <div style="text-align: center;">
 <img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/codespaces_menu.png" alt="screen-grab" style ="width:200px;"/> 
@@ -164,7 +164,7 @@ From here, click on File in the menu bar and select Open…
 In the new tab that appears, you’ll next want to upload the notebook that you’d like to run. The "upload" button is in the top right corner of the screen.
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/jupyter_upload.png" alt="screen-grab" style ="width:300px;"/> 
+<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/jupyter_upload.png" alt="screen-grab" style ="width:700px;"/> 
 <br>
 <br>
 If you click upload while in the main folder, your file will appear in the file list.  You may want to first open the notebooks folder and then upload the notebook you would like to use.
@@ -180,5 +180,4 @@ If you open the file by double clicking on it, you will be prompted to Select a 
 <br>
 <br>
 Click on Select to start the kernel.  This just means that it is activating the ability for JupyterLite to run python code. 
-You are now ready to explore the notebook!
-git adgit 
+You are now ready to explore the notebook! The other notebooks should remain available to you in the left pane of your screen.
