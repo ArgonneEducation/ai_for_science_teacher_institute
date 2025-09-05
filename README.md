@@ -149,7 +149,7 @@ This is a good place to start exploring the repository!
 The notebooks are in numerical order, with titles that also indicate something about the topics contained within the notebooks.
 There is an additional folder titled “completed notebooks” that contains Jupyter notebooks that serve as answer keys for many of the notebooks.  Our suggestion is that you use these only after first trying to work through any questions.  You may want to try using google or potentially even an AI large language model before cross-checking with these completed notebooks.  Most coding problems can be solved this way, though it takes a bit of practice and skill to navigate this efficiently.  Therefore, it’s good to practice doing so, rather than simply relying on the provided answers.  
 
-##Using Without a GitHub Account
+## Using Without a GitHub Account
 If for some reason, you would rather access the files without having to make an account, it is possible to do so.  You will first have to download the files you would like to use from the GitHub repository (step-by-step instructions below).  Then you can access these files, stored on your machine, via the online JupyterLite tool (instructions for this are also below).  
 
 *1a Downloading Individual GitHub Files*
