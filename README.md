@@ -1,20 +1,27 @@
-# Teacher_Institute
-*Sharing Materials from the Argonne National Laboratory Teacher Institute*
-
 <div align="center">
-  <a href="https://github.com/ArgonneEducation/ai_for_science_teacher_institute">
-  </a>
+<h1 align="center">AI For Science Teacher Institute</h1></div>
 
-<h2 align="center">AI For Science Teacher Institute</h2>
 
-  <p align="center">
-    This repo is intended to be a central hub for sharing materials for and from the ai for science teacher institute.  
+# Table of Contents
+<!-- This section lists all main sections for easy navigation. Replace or remove items as needed. -->
+
+- [Introduction](#introduction)
+- [Getting Started](#getting-started)                  <!-- Links to the "Getting Started" section -->
+  - [Setting up your GitHub Account](#setting-up-your-github-account)    <!-- Links to the "Setting up your GitHub Account" section -->
+  - [QuickStart with Jupyter Codespace](#quickstart-with-jupyter-codespace)
+  - [Stopping a codespace](#stopping-a-codespace)        <!-- Links to the "Stopping a codespace" section -->
+- [Appendix A](#appendix-a)
+   - [More details for opening in a Jupyterlite codespace](#more-details-for-opening-in-a-jupyterlite-codespace)
+   - [More details for stopping a codespace](#more-details-for-stopping-a-codespace)
+- [Appendix B](#appendix-b)
+  - [Using without a GitHub Account](#using-without-a-github-account)    <!-- Links to the "Using without a GitHub Account" section -->
+  - [Using JupyterLite](#using-jupyterlite)        <!-- Subheading link for JupyterLite -->
+  - [Using Google Colab](#using-google-colab)       <!-- Subheading link for Google Colab -->
+
+# Introduction
+This repository is intended to be a central hub for sharing materials for and from the AI for Science Teacher Institute.  
 We also hope to use it to provide tips for how to get started with python coding for new coders.
-    <br />
-    <a href="https://github.com/ArgonneEducation/ai_for_science_teacher_institute"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-  </p>
+
 
 <p align="left">
 This GitHub repository is set up for users to be able to access the coding materials during and after the ai for science teacher institute program.  GitHub is a platform that allows developers to store their code, and we are taking advantage of that functionality.  It also allows developers to collaborate on code – this is a functionality that we are not taking advantage of here, since we expect many of the users we send to this site to be relatively new at developing code and using it for teaching science.
@@ -23,33 +30,21 @@ This GitHub repository is set up for users to be able to access the coding mater
 This ReadMe is organized in a way that you will hopefully find to be easy to follow, whether you are new to coding or more advanced.  For beginners, you may want to start with the “Getting Started” section.  In it, we’ll guide you to using GitHub codespaces for your coding.  While there are many other platforms that you could use for this purpose, codespaces will allow you to access the files you need right alongside your coding environment, with a minimal amount of setup work to be done before diving in.  
 </p>
 <p align="left">
-The “Getting Started” section therefore starts with setting up your own GitHub account.  This is required for using codespaces, and honestly, anyone who wants more flexibility in their coding environment probably will have a GitHub account.  So it seems like a very reasonable place to start.
+The “Getting Started” section therefore starts with setting up your own GitHub account and a QuickStart guide to opening up a notebook with JupyterLab through codespaces.  You'll need a GitHub account in order to work with the files in this way.  Other alternatives are provided later on in Appendix B of this document.
 </p>
 </div>
 <br>
 
-# Table of Contents
-<!-- This section lists all main sections for easy navigation. Replace or remove items as needed. -->
-
-- [Getting Started](#getting-started)                  <!-- Links to the "Getting Started" section -->
-- [Setting up your GitHub Account](#setting-up-your-github-account)    <!-- Links to the "Setting up your GitHub Account" section -->
-- [Starting up a codespace from the template](#starting-up-a-codespace-from-the-template)  <!-- Links to the "Starting up a codespace from the template" section -->
-- [Stopping a codespace](#stopping-a-codespace)        <!-- Links to the "Stopping a codespace" section -->
-- [Opening a Codespace in JuptyerLab](#opening-a-codespace-in-jupyterlab)          <!-- Links to the "Opening a Codespace in JupyterLab" section -->
-- [Using without a GitHub Account](#using-without-a-github-account)    <!-- Links to the "Using without a GitHub Account" section -->
-  - [Using JupyterLite](#using-jupyterlite)        <!-- Subheading link for JupyterLite -->
-  - [Using Google Colab](#using-google-colab)       <!-- Subheading link for Google Colab -->
-
-## Getting Started
+# Getting Started
 
 ## Setting up your GitHub Account
 You’ll need an account in order to use the codespaces functionality within GitHub.  You can access the files without an account, but will then need to interact with the code outside of GitHub.  We’ll provide more information about how you might do this later in this ReadMe document.
 
 Navigate to https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github . This GitHub resource provides information about the process.  
 Setup your GitHub account as described in the above link.
+## Quickstart with Jupyter Codespace
 
-## Starting up a codespace from the template
-The ai_for_science_teacher_institute repository is a template.  It is reasonably simple to start up a codespace to run the files in the repository.  Here's how.
+The ai_for_science_teacher_institute repository is a template.  It is reasonably simple to start up a codespace to run the files in the repository and then open them with JupyterLab.  Here's how.
 
 *1 Navigate to https://github.com/ArgonneEducation/ai_for_science_teacher_institute*
 
@@ -57,13 +52,90 @@ The ai_for_science_teacher_institute repository is a template.  It is reasonably
 
 Near the top right hand corner of the screen, find the button that says “Use this template” and click on it.
 <br>
-      <img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/use_this_template_open.png" alt="screen-grab" width="200"/>
+      <img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/use_this_template_open.png" alt="screen-grab" width="175"/>
 <br>
 Click on the “Open in a codespace” selection.
 
+*3 Return to the Original Browser Tab for your GitHub Account*
+
+*4 To access your codespaces, click on the hamburger menu (3 stacked horizontal lines) at the top left hand corner next to the cat icon. Then Click on "Codespaces"*
+
+*5 Open your codespace in JupyterLab by clicking on the 3 dots at the far right of your codespace bar*
+<br>
+<div style="text-align: center;">
+<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/codespace_name.png" alt="screen-grab" style ="width:700px;"/> 
+</div>
+<br>
+and then click on "Open in JupyterLab"
+
+<br>
 <br>
 
+*6 Explore the notebooks with the file explorer in the left pane of the screen.* 
+
+"01-jupyter_python_physics.ipynb" is a great place to start! 
+
+<br>
+<br><br>
+
 ## Stopping a Codespace
+It is a good idea to make it a practice to stop your codespace from running while you are not using it.  It will use resources in the background and in the cloud if you do not.  
+
+To do so, return to your GitHub home page and click on the hamburger menu (3 stacked horizontal lines) at the top left hand corner next to the cat icon. 
+
+Then select “Codespaces” from the list that appears.
+
+At the bottom of the page, you should see a bar with the name of your codespace.  
+
+You can shut the codespace down by clicking on the 3 dots at the far right, and selecting “Stop codespace” . 
+
+ Your codespace should then no longer be Active.  You can restart your work from this page at any time.
+
+<br>
+<br><br>
+
+
+<br>
+
+# Appendix A 
+### More details for opening in a JupyterLite Codespace
+
+Our suggestion is to open the repository in JupyterLab via GitHub Codespaces.  The content was developed using JupyterLab so some of it will not be as clear with a different platform.
+Start by logging in to your GitHub account.
+
+The next steps assume that you have created a codespace with this repository.  If you haven't, return to the - [Quickstart](#quickstart-with-jupyter-codespace) first and do steps 1 and 2.
+
+To access your codespaces, click on the hamburger menu (3 stacked horizontal lines) at the top left hand corner next to the cat icon. 
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/codespace1.png" alt="screen-grab" style ="width:300px;"/> 
+<br>
+<br>
+Then select “Codespaces” from the list that appears.
+<br>
+<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/codespace2.png" alt="screen-grab" style ="width:250px;"/> 
+<br>
+At the bottom of the page, you should see the name of your codespace.  
+<br>
+<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/codespace_name.png" alt="screen-grab" style ="width:700px;"/> 
+<br>
+You can open the codespace by clicking on the 3 dots at the far right, and selecting “Open in JupyterLab”, which is near the bottom. 
+<br>
+<div style="text-align: center;">
+<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/codespaces_menu.png" alt="screen-grab" style ="width:200px;"/> 
+</div>
+<br>
+Once you’ve opened the repository, you can explore the notebooks with the file explorer in the left pane of the screen.  The repository contains a folder titled “notebooks”.  This folder contains Jupyter notebooks, which are indicated with a “.ipynb” ending.  Jupyter notebooks are a mix of python code chunks and explanatory material.  There is more information about this structure in the “01-jupyter_python_physics.ipynb” notebook.
+
+This is a good place to start exploring the repository!  
+<br>
+<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/Jupyter_file_explorer.png" alt="screen-grab" style ="width:700px;"/> 
+<br>
+The notebooks are in numerical order, with titles that also indicate something about the topics contained within the notebooks.
+There is an additional folder titled “completed notebooks” that contains Jupyter notebooks that serve as answer keys for many of the notebooks.  Our suggestion is that you use these only after first trying to work through any questions.  You may want to try using google or potentially even an AI large language model before cross-checking with these completed notebooks.  Most coding problems can be solved this way, though it takes some practice, knowledge, and skill to navigate this efficiently.  Therefore, it’s good to practice doing so, rather than simply relying on the provided answers.  
+<br>
+<br>
+### More details for stopping a codespace
 It is a good idea to make it a practice to stop your codespace from running while you are not using it.  It will use resources in the background and in the cloud if you do not.  For this reason, we'll show you how to stop the codespace before doing anything else with it.  You will be able to open up your codespace at a later time.  We'll show you that too!
 
 Your codespace has a name generated by GitHub that you can see in the address bar of your internet browser.  My codespace for developing this readme is called urban-guacamole.  I know this because it is in the address bar as shown. Check to see what your codespace is named!
@@ -95,42 +167,10 @@ You can shut it down by clicking on the 3 dots at the far right, and selecting �
 
  Your codespace should then no longer be Active.  You can restart your work from this page at any time.
 
-## Opening a Codespace in JupyterLab
-Our suggestion is to open the repository in JupyterLab via GitHub Codespaces.  The content was developed using JupyterLab so some of it will not be as clear with a different platform.
-Start by logging in to your GitHub account.
 
-To access your codespaces, click on the hamburger menu (3 stacked horizontal lines) at the top left hand corner next to the cat icon. 
-<br>
-<br>
-<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/codespace1.png" alt="screen-grab" style ="width:300px;"/> 
-<br>
-<br>
-Then select “Codespaces” from the list that appears.
-<br>
-<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/codespace2.png" alt="screen-grab" style ="width:250px;"/> 
-<br>
-At the bottom of the page, you should see the name of your codespace.  
-<br>
-<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/codespace_name.png" alt="screen-grab" style ="width:700px;"/> 
-<br>
-You can open the codespace by clicking on the 3 dots at the far right, and selecting “Open in JupyterLab”, which is near the bottom. 
-<br>
-<div style="text-align: center;">
-<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/codespaces_menu.png" alt="screen-grab" style ="width:200px;"/> 
-</div>
-<br>
-Once you’ve opened the repository, you can explore the notebooks with the file explorer in the left pane of the screen.  The repository contains a folder titled “notebooks”.  This folder contains Jupyter notebooks, which are indicated with a “.ipynb” ending.  Jupyter notebooks are a mix of python code chunks and explanatory material.  There is more information about this structure in the “01-jupyter_python_physics.ipynb” notebook.
+ # Appendix B
 
-This is a good place to start exploring the repository!  
-<br>
-<img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/Jupyter_file_explorer.png" alt="screen-grab" style ="width:700px;"/> 
-<br>
-The notebooks are in numerical order, with titles that also indicate something about the topics contained within the notebooks.
-There is an additional folder titled “completed notebooks” that contains Jupyter notebooks that serve as answer keys for many of the notebooks.  Our suggestion is that you use these only after first trying to work through any questions.  You may want to try using google or potentially even an AI large language model before cross-checking with these completed notebooks.  Most coding problems can be solved this way, though it takes some practice, knowledge, and skill to navigate this efficiently.  Therefore, it’s good to practice doing so, rather than simply relying on the provided answers.  
-
-
-
-## Using Without a GitHub Account
+ ## Using Without a GitHub Account
 If for some reason, you would rather access the files without having to make an account, it is possible to do so.  
 
 ### Using JupyterLite
@@ -217,3 +257,10 @@ Each of the files in the notebooks in the repository appear below: Some of the o
 <br>
 
 Now you can use the notebook!  Simply go through this process for subsequent notebooks. If you want to save your work, click on 'File' and 'Save a Copy in Drive'. This will save the updated notebook to your Google Drive.
+
+
+Near the top right hand corner of the screen, find the button that says “Use this template” and click on it.
+<br>
+      <img src="https://raw.githubusercontent.com/ArgonneEducation/ai_for_science_teacher_institute/refs/heads/main/imgs/use_this_template_open.png" alt="screen-grab" width="200"/>
+<br>
+Click on the “Open in a codespace” selection.
